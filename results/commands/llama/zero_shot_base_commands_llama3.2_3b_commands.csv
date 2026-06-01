@@ -1,0 +1,1001 @@
+review_text,ground_truth,label,predicted_intent,latency_seconds
+I think I was charged by mistake on my debit statement.,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,TRANSACTION CHARGED TWICE,7.851070880889893
+Does transferring money have a fee?,TRANSFER FEE CHARGED,64,TRANSFER FEE CHARGED,0.3634035587310791
+why is there a fee for the transfer I made?,TRANSFER FEE CHARGED,64,TRANSFER FEE CHARGED,0.3544912338256836
+I think I was charged double for something I bought - how long should I wait before reporting this?,TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.3921632766723633
+Why was my cash withdrawal declined by the ATM?,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.3675839900970459
+My card is showing the same transaction over and over again.,TRANSACTION CHARGED TWICE,63,DECLINED CASH WITHDRAWAL,0.37883877754211426
+I made a payment and it appears it is showing twice,TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.3701150417327881
+I am not recognizing a debit payment from my account.,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DECLINED CASH WITHDRAWAL,0.35593414306640625
+I tried to transfer some money and it hasn't done it yet - what's going on?,TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.4114696979522705
+What is going on? My balance still hasn't updated and it has been two weeks since I deposited my money!,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,0.4636838436126709
+How long will it be  before the person I sent money to is able to see it?,TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.411484956741333
+My balance was not updated after transferring money.,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,BALANCE NOT UPDATED AFTER BANK TRANSFER,0.35726022720336914
+"I went for a meal in Seattle and paid the bill but I think they charged me twice, the first time they swiped the card I got a notification to say the money had gone out the account but then I added a tip and I think they swiped it all again. Can you refund one of the charges?",TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.5545580387115479
+"When I went to $100, all the machine would give me was $20.",WRONG AMOUNT OF CASH RECEIVED,75,DECLINED CASH WITHDRAWAL,0.4565401077270508
+What do I do if I got the wrong amount at the ATM?,WRONG AMOUNT OF CASH RECEIVED,75,WRONG AMOUNT OF CASH RECEIVED,0.3987243175506592
+Why hasn't my friend's transaction arrive yet?,TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.3874320983886719
+I bought something with my card and I was charged a fee,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.37851929664611816
+Why has my transfer not arrived yet?,TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.3705141544342041
+I noticed a charge for a transfer.  Why is this?  Is it because I did an international transfer?,TRANSFER FEE CHARGED,64,TRANSFER FEE CHARGED,0.3728470802307129
+Why did I get charged for a withdrawal?,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.3367938995361328
+Can I dispute a debit payment that I am seeing that I didn't make from a couple of months ago?,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DECLINED CASH WITHDRAWAL,0.39043402671813965
+I put some cash into my account but it's not displaying that on my balance.,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,UNKNOWN,0.40874409675598145
+Why was I charged a fee for withdrawing money off my card?,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.3475532531738281
+Please tell me what this direct debit in my statement is,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DIRECT DEBIT PAYMENT NOT RECOGNISED,0.4038524627685547
+Why was I charged a fee for debit or credit card payment?,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.3798394203186035
+Is there a fee for paying by card?,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.3635063171386719
+I deposited a cheque but the cash hasn't arrived yet,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,TRANSFER NOT RECEIVED BY RECIPIENT,0.4334735870361328
+Why didn't I receive the right amount of cash at the ATM?,WRONG AMOUNT OF CASH RECEIVED,75,WRONG AMOUNT OF CASH RECEIVED,0.5355968475341797
+Why did I only get $20 when I asked for $100?,WRONG AMOUNT OF CASH RECEIVED,75,DECLINED CASH WITHDRAWAL,0.421907901763916
+I only got $20 of the $100 that I attempted to withdraw.,WRONG AMOUNT OF CASH RECEIVED,75,CASH WITHDRAWAL CHARGE,0.3675539493560791
+"Do you charge for cash withdrawals?  I want to get my hands on my own money and you appear to be charging me for the pleasure! Why is this, you'd never get this with my high street bank!",CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.4616532325744629
+What happens if I deposit a cheque accidentally?,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,0.4062967300415039
+I have been charged twice for the same thing!,TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.36827588081359863
+I attempted to get cash in the ATM but it was not authorized,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.36521100997924805
+Make me understand why I am charged an extra fee when I use the ATM.,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.35809898376464844
+I have yet to receive the cash I added to my account this morning.,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,TRANSFER NOT RECEIVED BY RECIPIENT,0.39833855628967285
+Why am I being charged again?,TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.3462646007537842
+"Hi, i found a large amount payment in my old statements which i am sure was not made by me. I am aware that the time has passed but is there a way to raise a dispute for this payment now?",DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DECLINED CASH WITHDRAWAL,0.48330140113830566
+"I am calling because the ATM didn't give me the right amount of cash, but my app shows the actual amount I wanted to withdraw. What should I do to get my money back?",WRONG AMOUNT OF CASH RECEIVED,75,DECLINED CASH WITHDRAWAL,0.4437572956085205
+There is a transfer not showing on my account.,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,TRANSFER NOT RECEIVED BY RECIPIENT,0.4042820930480957
+Is there a charge for cash withdrawals? I always thought it was free.,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.3570888042449951
+I transfered my balance a while back.  Why doesn't my account reflect this?,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,BALANCE NOT UPDATED AFTER BANK TRANSFER,0.4035060405731201
+Why was I charged for withdrawing cash?,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.33034253120422363
+"I tried to withdraw $100, all it gave me was $20.",WRONG AMOUNT OF CASH RECEIVED,75,CASH WITHDRAWAL CHARGE,0.35840940475463867
+Please tell my why I was charged a fee for using my card?,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.37757039070129395
+Let me know when I get charged extra for payments. I saw on the app a fee I wasn't forewarned about.,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.4282217025756836
+"Hi, I used an ATM today to take money out of my account, but the amount it gave me is not the amount I requested. What should I do?",WRONG AMOUNT OF CASH RECEIVED,75,DECLINED CASH WITHDRAWAL,0.4195437431335449
+I noticed a duplicate charge on my statement.,TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.35579919815063477
+Please help me with my card. As i have tried to use my card in two different ATMs but repeatedly it was declining by ATM.,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.42432284355163574
+Money is not in recipients account.,TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.39770960807800293
+i would like to dispute a direct debit payment,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DIRECT DEBIT PAYMENT NOT RECOGNISED,0.4277513027191162
+How long do transfers typically take? Is there a way of speeding the process up? My friend needs the money I sent her desperately.,TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.44228267669677734
+I made a purchase with my card and I was charged a fee for using it,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.3949460983276367
+How do I get a refund for an unauthorized direct debit payment?,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DIRECT DEBIT PAYMENT NOT RECOGNISED,0.41663241386413574
+I made a transfer from France two days ago now but there hasn't made it there yet. Do international transfers take longer?,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,TRANSFER NOT RECEIVED BY RECIPIENT,0.41817736625671387
+What's the time frame normally for a UK account transfer? I just made one and it's not showing up anywhere. I want to be sure that everything is good.,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,TRANSFER NOT RECEIVED BY RECIPIENT,0.46805787086486816
+I have noticed that my account was double charged for a couple of items this week. Please review and refund the double charged items back.,TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.4289243221282959
+I made a bank transfer and the balance hasn't updated yet.,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,BALANCE NOT UPDATED AFTER BANK TRANSFER,0.39081311225891113
+I paid with card and I was charged a fee,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.41671109199523926
+Why hasn't my friend received the money i sent them yet?,TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.4232182502746582
+I have been charged an extra fee when buying from your store. Why is this?,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.41327404975891113
+How long does it typically take to make a transfer from a UK bank? I just made one and it hasn't shown up in my account yet.,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,TRANSFER NOT RECEIVED BY RECIPIENT,0.4736201763153076
+Unusual direct deposit,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DIRECT DEBIT PAYMENT NOT RECOGNISED,0.4086177349090576
+After I used my card I saw I was charged a fee for using it,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.3847033977508545
+Why do I have two charges It should only be one charge?,TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.3804042339324951
+"My account shows I have been charged twice for the same meal. How do I get the second payment voided and returned to me? I do not eat out much and my family is living paycheck to paycheck,  mostly. I cannot afford to spend more money than necessary, as is, so I must see to it that the cost be promptly credited back onto my card.",TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.5876872539520264
+I am concerned that I am being doubled charged for several items purchased in the past week.  Please review my statement and correct.,TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.4288184642791748
+I'm still waiting for my transaction.,TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.39071035385131836
+How long do I have to wait until the transferred money shows up?,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,TRANSFER NOT RECEIVED BY RECIPIENT,0.41094207763671875
+How do I dispute a direct debit transaction?,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DIRECT DEBIT PAYMENT NOT RECOGNISED,0.40058231353759766
+Why isn't my balance updating after depositing cheques and cash.,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,0.4622776508331299
+I attempted to get cash in the ATM but I was denied,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.38317322731018066
+I was just going over my transactions for the past couple of months and noticed a large type charge that I know I did not make. Even though it's been a while can I please still dispute this?,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,TRANSACTION CHARGED TWICE,0.4537813663482666
+I didn't know there was a charge for tranferring. What is the charge?,TRANSFER FEE CHARGED,64,TRANSFER FEE CHARGED,0.35773324966430664
+"When using my card I was charged a fee for doing so, why?",CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.3852968215942383
+There was a fee charged when I paid with my card.,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.38645339012145996
+Why do I have a transaction showing multiple times?,TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.3809659481048584
+I can still see money in my account after making a payment,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,TRANSACTION CHARGED TWICE,0.37702178955078125
+how do i get a refund for a direct debit payment i didn't make,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DIRECT DEBIT PAYMENT NOT RECOGNISED,0.42003607749938965
+I noticed a different charge while I was taking my money out.,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.36942338943481445
+I got double charged!,TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.3470895290374756
+Why hasn't my money transfer shown up yet?,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,TRANSFER NOT RECEIVED BY RECIPIENT,0.41749143600463867
+What is the fee charged for using my card?,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.38967394828796387
+Balance is not up to date.,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,BALANCE NOT UPDATED AFTER BANK TRANSFER,0.3864328861236572
+I withdrew cash and was charged,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.35372161865234375
+Help!  In the app there is a direct debit that I don't remember.,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DIRECT DEBIT PAYMENT NOT RECOGNISED,0.4327569007873535
+"Hi, I draw out some money from the ATM today. The ATM has given me wrong amount and the application is displaying more amount than i withdraw.",WRONG AMOUNT OF CASH RECEIVED,75,DECLINED CASH WITHDRAWAL,0.4486269950866699
+I made a transfer and was charged an extra fee!,TRANSFER FEE CHARGED,64,TRANSFER FEE CHARGED,0.36676549911499023
+A receiver made me aware that they did not receive the full transfer that I made. The amount was showing to be a bit less. I now have to make a second transfer just to make up the difference. Can you reach out and let me know what's going on?,TRANSFER FEE CHARGED,64,TRANSFER NOT RECEIVED BY RECIPIENT,0.5319068431854248
+Why am I being charged to make cash withdrawals? I thought they were supposed to be free!,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.38728761672973633
+Why have I been charged for pulling cash out of my own account?,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.36994338035583496
+I tried to get cash but it was declined!,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.3811523914337158
+I see a direct debit payment on my app that I did not do,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DIRECT DEBIT PAYMENT NOT RECOGNISED,0.4252963066101074
+I have a fee and I don't know why,CARD PAYMENT FEE CHARGED,15,CASH WITHDRAWAL CHARGE,0.3758563995361328
+I was under the impression I can make transfers for free. I made an online purchase for something that was obroad and there's some additional strange fee. I've never seen this before and this isn't fair.,TRANSFER FEE CHARGED,64,TRANSFER FEE CHARGED,0.4894411563873291
+When going to the ATM to take out some cash today my withdrawal was  declined.  I need to fix this problem as soon as possible. whats going on?,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.44613075256347656
+Is it free to transfer money or is there a fee?,TRANSFER FEE CHARGED,64,TRANSFER FEE CHARGED,0.36017465591430664
+I need to know if everything is okay here. After making a transfer from a UK account it doesn't show up. How long does this normally take to process?,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,TRANSFER NOT RECEIVED BY RECIPIENT,0.45444583892822266
+How long do bank transfers take to clear,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,TRANSFER NOT RECEIVED BY RECIPIENT,0.38954973220825195
+Why isn't the recipient seeing the transaction? I just sent the money.,TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.4151332378387451
+I noticed that there was an extra charge fee on my account. Could You explain to me why?,TRANSFER FEE CHARGED,64,CARD PAYMENT FEE CHARGED,0.4336280822753906
+I just had a look at my statement. Why have I been changed for using the ATM?,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.3913125991821289
+"I got some cash at an ATM earlier, but now app is showing that I withdrew more than I did.  Help!",WRONG AMOUNT OF CASH RECEIVED,75,DECLINED CASH WITHDRAWAL,0.410111665725708
+There was a charge applied when I used my card.,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.398604154586792
+There is a duplicate payment on my card. Why?,TRANSACTION CHARGED TWICE,63,CARD PAYMENT FEE CHARGED,0.4024224281311035
+"I went to the store and tried to make a purchase.  The first time, it was declined, but the second one went through.  But my App shows me that I've already been charged once and the second charge is still pending.  Can you make sure that I'm not charged twice?",TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.5487418174743652
+There are automatic debits on my account that I did not make.,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DIRECT DEBIT PAYMENT NOT RECOGNISED,0.4354977607727051
+I was only given $20 after trying to withdraw $100,WRONG AMOUNT OF CASH RECEIVED,75,CASH WITHDRAWAL CHARGE,0.38165831565856934
+My cash deposit from a week ago is still not in my account. Can you help me please?,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,UNKNOWN,0.44555020332336426
+I got less cash than what I specified for through the ATM.,WRONG AMOUNT OF CASH RECEIVED,75,DECLINED CASH WITHDRAWAL,0.40404462814331055
+I do not recognize a direct debit payment that I see on my app,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DIRECT DEBIT PAYMENT NOT RECOGNISED,0.458620548248291
+why has a transaction to a friend been delayed?,TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.40912652015686035
+"I only received $20, but I requested $100.",WRONG AMOUNT OF CASH RECEIVED,75,WRONG AMOUNT OF CASH RECEIVED,0.4254469871520996
+I set up a payment to a new payee and sent some money but the person I'm sending it to has not received it.  Can you check where the money is?,TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.49923133850097656
+"How long does a transfer from a UK account take? I just made one and it doesn't seem to be working, wondering if everything is okay",BALANCE NOT UPDATED AFTER BANK TRANSFER,5,TRANSFER NOT RECEIVED BY RECIPIENT,0.45840883255004883
+How come I can't get money at the ATM,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.39917635917663574
+I updated by balance with a cheque yesterday but it isn't showing on my account. Did something go wrong?,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,0.49404263496398926
+My cash received does not match what has been requested,WRONG AMOUNT OF CASH RECEIVED,75,WRONG AMOUNT OF CASH RECEIVED,0.4098331928253174
+There is a debit transaction on my statement that I did not make,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,TRANSACTION CHARGED TWICE,0.38893842697143555
+I paid with a card and there is an extra charge. Why?,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.3968980312347412
+I'm still expecting the transaction to be finished,TRANSFER NOT RECEIVED BY RECIPIENT,66,DECLINED CASH WITHDRAWAL,0.35545992851257324
+I tried using my ATM card at your Notting Hill location today.  It did not work.  Am I doing something wrong?,DECLINED CASH WITHDRAWAL,26,CASH WITHDRAWAL CHARGE,0.43875908851623535
+Am I charged a fee to transfer funds?,TRANSFER FEE CHARGED,64,TRANSFER FEE CHARGED,0.3396732807159424
+Let me know when applying extra charges for payments. I just checked the app and saw a fee that I wasn't warned about.,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.44451284408569336
+I was charged a fee when buying stuff with my card.,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.40262675285339355
+I need a refund on a direct debit that shows in the app because I did not make it.,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DIRECT DEBIT PAYMENT NOT RECOGNISED,0.4560387134552002
+I see an unfamiliar Direct Debit payment.,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DIRECT DEBIT PAYMENT NOT RECOGNISED,0.39403653144836426
+i entered my pin in wrong and got it frozen. how many tries do i have,DECLINED CASH WITHDRAWAL,26,CARD PAYMENT FEE CHARGED,0.43172383308410645
+Why isn't the transfer I made to a friend showing?,TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.4060676097869873
+I tried doing an in country transfer earlier this week. I thought it would be there by now but I still don't see the money. Can you check the status on my transfer?,TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.4769747257232666
+"I was checking the app for my account and I noticed there is an authorized charge on it.  I haven't used my card today, so I know I didn't do it.  I would like the transaction reversed and the money replaced.",DIRECT DEBIT PAYMENT NOT RECOGNISED,28,TRANSACTION CHARGED TWICE,0.5091626644134521
+Why hasn't my transaction arrived?,TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.39658641815185547
+Is there a place to check for fee for payments? I feel like I'm getting charged too much at times.,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.4375009536743164
+The correct amount of cash was not received.,WRONG AMOUNT OF CASH RECEIVED,75,WRONG AMOUNT OF CASH RECEIVED,0.3882753849029541
+I don't know what this Direct Debit payment is.,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DIRECT DEBIT PAYMENT NOT RECOGNISED,0.445650577545166
+"Hi, I am unable to see transaction in my account which i made couples of hours ago from my UK account. Please help me in this.",BALANCE NOT UPDATED AFTER BANK TRANSFER,5,UNKNOWN,0.4917740821838379
+I made a cash deposit going to my account but it is not there,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,UNKNOWN,0.4341433048248291
+Why was I charged an extra fee when paying with card?,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.41569066047668457
+I am wondering about a transfer from a different country that doesn't show up yet?,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,TRANSFER NOT RECEIVED BY RECIPIENT,0.4213278293609619
+help my money isnt showing up,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,BALANCE NOT UPDATED AFTER BANK TRANSFER,0.38573718070983887
+when does my balance update for a transfer,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,BALANCE NOT UPDATED AFTER BANK TRANSFER,0.38216090202331543
+I payed with the card and there was an extra fee?,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.40568995475769043
+Why am I seeing a transfer fee on my bank statement?,TRANSFER FEE CHARGED,64,TRANSFER FEE CHARGED,0.37662506103515625
+My account was charged a fee. When did you start charging extra for card payments?,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.40389537811279297
+My friend says he hasn't received my transaction,TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.3925948143005371
+I received the wrong amount of cash back,WRONG AMOUNT OF CASH RECEIVED,75,WRONG AMOUNT OF CASH RECEIVED,0.38927197456359863
+How long will a transaction to a friend take?,TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.434537410736084
+How was I charged extra when I used my card to pay?,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.4159202575683594
+I am having an issue with an in country transfer I did a few days ago. It has yet to appear in my account. I have checked to be sure that all account information is correct multiple times. What is taking the transfer so long?,TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.5629847049713135
+I should not have been charged a fee for cash withdrawal.,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.3933751583099365
+How can I fix this?  There is a double charge on my account.,TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.4139251708984375
+I made a check and cash deposit that wasn't credited to my account.,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,0.4787871837615967
+"I took out money, and didn't get all of it.",WRONG AMOUNT OF CASH RECEIVED,75,DECLINED CASH WITHDRAWAL,0.3986077308654785
+Why was my atm withdrawl declined,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.37522053718566895
+"HELP! I tried to get cash and it gave me some, but not the right amount!",WRONG AMOUNT OF CASH RECEIVED,75,CASH WITHDRAWAL CHARGE,0.4261300563812256
+The ATM keeps rejecting my Payment. I tried two different ATMs but did not work .Can you please check if everything is okay with my account?,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.44635438919067383
+to cash withdrawals charge me?,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.34854960441589355
+I see a duplicate payment.,TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.3677499294281006
+The transfer on my account is not showing up.,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,TRANSFER NOT RECEIVED BY RECIPIENT,0.4297184944152832
+I completed I transfer the day before yesterday in this country. The transfer still is not complete. I've checked on the account number multiple times to make sure that it is the right one. Can you check to see what's going on with this?,TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.5608305931091309
+what is the matter?,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,BALANCE NOT UPDATED AFTER BANK TRANSFER,0.3862290382385254
+"I transferred 7,000 to a receiver outside the EU and they received a lesser amount than what I sent, Unfortunately, now I must send an additional transfer to the receiver so that they can receive the full amount I initially sent.  I'm not sure why they received a lesser amount than what I initially sen, but can you please look into this and let me know what happened?",TRANSFER FEE CHARGED,64,TRANSFER NOT RECEIVED BY RECIPIENT,0.6482467651367188
+I have a duplicate charge,TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.3714561462402344
+I have a transaction showing up more than once.,TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.37302613258361816
+Why hasn't the transaction I did to my friend arrive yet?,TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.4127640724182129
+Who do I talk to for transactions debited twice?,TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.38587284088134766
+Why am I being charged fees on some transactions but not on others? What am I missing here? I cannot find where to see the fee structure on my account. Help!,CARD PAYMENT FEE CHARGED,15,BALANCE NOT UPDATED AFTER BANK TRANSFER,0.4842071533203125
+I think I was double charged,TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.3542780876159668
+I don't understand why I was charged extra for withdrawing money?,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.37642884254455566
+Why did using an ATM cause me to have an extra fee charged?,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.3651604652404785
+I was under the impression ATM cash withdrawals were free. Why was I suddenly charged for my most recent ATM transaction?,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.40450167655944824
+"Would you please check my Card. As Withdrawal was working fine so far, but this morning suddenly got declined. Can you please check the problem?",DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.4465172290802002
+My cash deposit hasn't posted to my account.,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,UNKNOWN,0.4101269245147705
+I tried taking out 30 pounds from the ATM just now and it only gave me 10. Why would it do that? I need the 30 pounds now!,WRONG AMOUNT OF CASH RECEIVED,75,CASH WITHDRAWAL CHARGE,0.44356870651245117
+My card rejected a cash withdrawal. Why?,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.3585343360900879
+Why am I being charged to withdrawal money?,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.34680843353271484
+"I am tired of getting charged fees, and I have no idea why, please let me know what/when you charge fees for.",CARD PAYMENT FEE CHARGED,15,TRANSFER FEE CHARGED,0.4343760013580322
+Why am I being a charged for using my card?,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.4056999683380127
+Why is my transfer taking so long to complete?,TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.39522790908813477
+My card was declined but it shows as multiple charges?,TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.387225866317749
+Why am I unable to withdrawal cash?,DECLINED CASH WITHDRAWAL,26,CASH WITHDRAWAL CHARGE,0.34226465225219727
+There are two of the same charge on my statement.,TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.3864905834197998
+Why did I get charged for withdrawing cash?,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.33849334716796875
+"I have an unknown debit charge in my statement, why?",DIRECT DEBIT PAYMENT NOT RECOGNISED,28,TRANSACTION CHARGED TWICE,0.4068734645843506
+"I need to verify a payment to my new landlord. I transferred the first rent payment a few days ago. While it shows on my side, the landlord is saying he hasn't received it yet. Can you verify that it has processed?",TRANSFER NOT RECEIVED BY RECIPIENT,66,DIRECT DEBIT PAYMENT NOT RECOGNISED,0.5663330554962158
+Where is the cash I deposited?,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,CASH WITHDRAWAL CHARGE,0.3422529697418213
+Why am I being charged for withdrawing cash but haven't in the past?,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.37169885635375977
+I saw I was charged extra for money I withdrew?,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.378551721572876
+The ATM didn't give me what I asked for but my balance says it did,WRONG AMOUNT OF CASH RECEIVED,75,DECLINED CASH WITHDRAWAL,0.3952500820159912
+I have a service fee that I've never seen before. It showed up after I bought something from an international seller online.,TRANSFER FEE CHARGED,64,TRANSFER FEE CHARGED,0.4029207229614258
+Can you explain why the ATM is giving me less money than what I asked for?,WRONG AMOUNT OF CASH RECEIVED,75,DECLINED CASH WITHDRAWAL,0.39529967308044434
+My transaction has not been received. When are you going to process it?,TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.4170534610748291
+I have a transaction showing multiple times.,TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.35118556022644043
+"My mother deposited a cheque into my account last week, why is it still not showing up?",BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,0.4759664535522461
+I think a fee was applied for paying with a card.,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.4036414623260498
+The atm wouldn't give out cash,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.37290477752685547
+"I have never been charged for making an ATM cash withdrawal before, but I am now being charged a fee to withdraw cash. What happened?",CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.40853238105773926
+Where can I check to see if there will be a fee added to my payment? Are there specific instances that will result in a fee added?,CARD PAYMENT FEE CHARGED,15,TRANSFER FEE CHARGED,0.4692966938018799
+"Good day, in reviewing my credit card activity over the last several days, I see a repeated charge for a restaurant that I went to. The charge was put through twice, so I would like one of the charges corrected and the amount that was withdrawn to be reinstated please.",TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.5247335433959961
+It is common for an international transfer to take 2 days or longer? I made a transfer from France 2 days ago and I have not seen it yet.,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,TRANSFER NOT RECEIVED BY RECIPIENT,0.4663689136505127
+My transfer is pending too long.,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,TRANSFER NOT RECEIVED BY RECIPIENT,0.3890247344970703
+There was a charge made on my card from a couple weeks ago and I don't remember making the purchase. Nor do I remember the company itself. Can we trace this at all to confirm if I did it or not?,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DECLINED CASH WITHDRAWAL,0.5062098503112793
+I was charged twice for the same thing.,TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.3633263111114502
+I might have been charged on my debit statement by fraud.,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DECLINED CASH WITHDRAWAL,0.3908829689025879
+"I'm trying to make a payment to my new landlord. Even though the payment was sent a few days ago, it isn't clearing on their side. Can you verify that payment has been made?",TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.505091667175293
+There is a payment showing that I know I didn't make. I didn't use my card that day and I'm sure of it. Can you please cancel that transaction and return my money? Thankyou,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,CARD PAYMENT FEE CHARGED,0.5342953205108643
+How long does a check take to show up in the account balance?,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,0.46161413192749023
+I was not given the amount of cash I withdrew,WRONG AMOUNT OF CASH RECEIVED,75,CASH WITHDRAWAL CHARGE,0.36828041076660156
+I have tried using my card for the first time at the ATM of Notting Hill to withdrawal cash but it didn't work. Does this mean my card isn't working?,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.48035740852355957
+I transferred some money to a friend of mine who urgently needs some money right now. How long will it take to get to her?,TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.4672279357910156
+My latest transfer seems to be missing.,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,TRANSFER NOT RECEIVED BY RECIPIENT,0.39214277267456055
+"I deposited some cash but it hasn't shown up in my account yet, what's going on?",BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,UNKNOWN,0.44468212127685547
+I couldn't get the money I needed.,WRONG AMOUNT OF CASH RECEIVED,75,DECLINED CASH WITHDRAWAL,0.36957406997680664
+"Hi, I sent my landlord my rent money a few days ago and while everything seems good on my end he says that he never got the money. I double checked the account number and it's correct. Can you help me figure this out?",TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.5346903800964355
+"I should only have one charge, but it shows two.",TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.3842613697052002
+I believe i was charged for making a withdrawal after i went grocery shopping. Are you guys charging for this now?,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.4108755588531494
+I have duplicated transactions on my statement,TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.36978673934936523
+This fee shouldn't be there after I paid with a card.,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.431443452835083
+I did not receive the right amount of cash I requested,WRONG AMOUNT OF CASH RECEIVED,75,WRONG AMOUNT OF CASH RECEIVED,0.42801737785339355
+Why was I charged a fee to transfer money?,TRANSFER FEE CHARGED,64,TRANSFER FEE CHARGED,0.376800537109375
+I made a transaction at an atm and was charged extra for it.,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.37522363662719727
+I thought you guys offered free transfers. Why was I charged?,TRANSFER FEE CHARGED,64,TRANSFER FEE CHARGED,0.37825775146484375
+I got $20 when I should've gotten $100,WRONG AMOUNT OF CASH RECEIVED,75,TRANSACTION CHARGED TWICE,0.3837001323699951
+Where is my money that I transfered?!,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,TRANSFER NOT RECEIVED BY RECIPIENT,0.39133334159851074
+I sent money for my rent to my landlord but she is claiming it hasn't arrived in her account  Can you trace the transfer I made to make sure it arrived so I can provide proof I sent it and that it has been deposited?,TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.5271193981170654
+Tell me why my balance did not change when I tranferred cash.,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,BALANCE NOT UPDATED AFTER BANK TRANSFER,0.40761423110961914
+I see a charge for a direct debit that was not me.,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DIRECT DEBIT PAYMENT NOT RECOGNISED,0.4259064197540283
+Why was I charged a fee when I withdrew money?,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.3844468593597412
+My cash withdrawal was not entirely complete,WRONG AMOUNT OF CASH RECEIVED,75,CASH WITHDRAWAL CHARGE,0.34851551055908203
+Please help me regarding a direct debit in the app that I don't recognize.,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DIRECT DEBIT PAYMENT NOT RECOGNISED,0.41779613494873047
+i withdraw cash from the ATM and was charged a fee,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.37981128692626953
+There was a limited amount of money available at the time of my transaction.,WRONG AMOUNT OF CASH RECEIVED,75,BALANCE NOT UPDATED AFTER BANK TRANSFER,0.3920319080352783
+I was declined when trying to withdrawal cash!,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.35384058952331543
+There is a direct debit payment that I did not make.,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DIRECT DEBIT PAYMENT NOT RECOGNISED,0.43123364448547363
+I added money through a bank transfer and it is not showing in my balance.,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,BALANCE NOT UPDATED AFTER BANK TRANSFER,0.39893412590026855
+The balance has not been updated.,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,BALANCE NOT UPDATED AFTER BANK TRANSFER,0.3777165412902832
+Hello! I randomly got charged an extra fee today as i was shopping online and i have no idea why! Are there extra fees for card payments? Or am i missing something here?,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.4903073310852051
+I was not able to receive the correct amount of cash.,WRONG AMOUNT OF CASH RECEIVED,75,WRONG AMOUNT OF CASH RECEIVED,0.4069254398345947
+I made a cash deposit and the balance wasn't updated.,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,UNKNOWN,0.4146459102630615
+"So, I was just charged for my recent ATM withdrawal and any withdrawal prior to this has been free. What is the issue here?",CASH WITHDRAWAL CHARGE,19,TRANSACTION CHARGED TWICE,0.4381275177001953
+Why is my transfer not showing,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,TRANSFER NOT RECEIVED BY RECIPIENT,0.38511013984680176
+I was charged an extra fee for a card payment. I was unaware of these fees beforehand.,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.4208712577819824
+there is a debit i dont recognize,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DECLINED CASH WITHDRAWAL,0.365201473236084
+Why was I charged an extra fee when doing a transfer?,TRANSFER FEE CHARGED,64,TRANSFER FEE CHARGED,0.3670330047607422
+What's going on? I was just recently charged for an ATM withdrawal. I've never seen this charge before and before it's always been free.,CASH WITHDRAWAL CHARGE,19,TRANSACTION CHARGED TWICE,0.45431971549987793
+"I deposited cash into my account, why do I not see it?",BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,UNKNOWN,0.4056849479675293
+Why wouldn't the ATM give me my money?,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.3835732936859131
+I made a transfer from France a couple days ago and don't see the transaction yet. How long does an international transfer take?,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,TRANSFER NOT RECEIVED BY RECIPIENT,0.4818410873413086
+Why hasn't my account updated to reflect my current balance?,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,BALANCE NOT UPDATED AFTER BANK TRANSFER,0.3926675319671631
+Why have i been charged a fee for using my card?,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.4012110233306885
+How soon will my balance be updated to reflect my transfer?,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,TRANSFER NOT RECEIVED BY RECIPIENT,0.41099023818969727
+The cash I asked for still hasn't been received,WRONG AMOUNT OF CASH RECEIVED,75,TRANSFER NOT RECEIVED BY RECIPIENT,0.4092390537261963
+"I've used my account frequently over the last month to manage my payments from abroad for my new place. I noticed that my fees have suddenly increased. As a frequent customer, shouldn't I be rewarded rather than suddenly being subject to a new fee?",TRANSFER FEE CHARGED,64,CARD PAYMENT FEE CHARGED,0.5348832607269287
+Why can't the recepient of my money transaction see it?,TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.41121721267700195
+I have a fee for cash withdrawal,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.3507251739501953
+Why did withdrawing money cost me extra?,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.34656262397766113
+I found a charge on my debit that I did not make.,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,TRANSACTION CHARGED TWICE,0.3949251174926758
+"I normally don't use ATMs, but I was in a rush today and had to withdraw some cash. The ATM gave me the wrong amount of money and now my app is not showing the same amount as it should. What do I do?",WRONG AMOUNT OF CASH RECEIVED,75,DECLINED CASH WITHDRAWAL,0.5066051483154297
+I got less cash at the ATM than I asked for. Why?,WRONG AMOUNT OF CASH RECEIVED,75,DECLINED CASH WITHDRAWAL,0.39038729667663574
+What is the time frame that transfers normally take from a UK account? I just completed a transfer and nothing shows up. I need to know if everything is alright.,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,TRANSFER NOT RECEIVED BY RECIPIENT,0.4563746452331543
+I transferred money from one account to another account and I charged a fee for it. Why is that?,TRANSFER FEE CHARGED,64,TRANSFER FEE CHARGED,0.405153751373291
+"I tried to get money out of the Notting Hill ATM earlier, but I wasn't able to get anything out. Is there a problem with my card? It's the first time I tried using it.",DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.48042845726013184
+How long do I need to wait to see an update after I make a bank transfer?,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,BALANCE NOT UPDATED AFTER BANK TRANSFER,0.41819000244140625
+I was charged for using my card?,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.37038660049438477
+Could you explain your rules for ATM fees?,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.3549039363861084
+My transfer didn't arrive to the recipient,TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.39766597747802734
+Will I be charged for transfers?,TRANSFER FEE CHARGED,64,TRANSFER FEE CHARGED,0.3464171886444092
+Is there a cash withdrawal fee? Because I just got charged?,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.3671243190765381
+I have been charged twice for the same transaction.,TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.38233184814453125
+Why am I being charge a fee when using an ATM?,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.377699613571167
+I am having trouble withdrawing cash.,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.3672938346862793
+"After I deposited my cash, I still don't see it in my account.",BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,UNKNOWN,0.41782212257385254
+"Hi, Please help me to request cash back. As i have been withdrawn money from ATM, but i got wrong amount. in Application its showing the amount i have been charged through.",WRONG AMOUNT OF CASH RECEIVED,75,DECLINED CASH WITHDRAWAL,0.48433685302734375
+Why is there a charged fee for debit or credit card payment?,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.3948192596435547
+There is a direct debit payment I don't recognize.,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DIRECT DEBIT PAYMENT NOT RECOGNISED,0.43308043479919434
+How long before transferred money shows up?,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,TRANSFER NOT RECEIVED BY RECIPIENT,0.38117527961730957
+my check or cash deposit has not shown up,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,0.4574437141418457
+Hi. I noticed I have a duplicate charge which I have not made twice. Who should I talk to take care of this?,TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.44643378257751465
+How can I fix my bank transfer to show up on my bank account?,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,TRANSFER NOT RECEIVED BY RECIPIENT,0.4181549549102783
+Why is there a charge for my transfer?,TRANSFER FEE CHARGED,64,TRANSFER FEE CHARGED,0.35266685485839844
+I see a direct debit that isn't mine? How can I get my money back?,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DIRECT DEBIT PAYMENT NOT RECOGNISED,0.45548558235168457
+Why were there additional charges when I transferred funds?,TRANSFER FEE CHARGED,64,TRANSFER FEE CHARGED,0.3750908374786377
+why is there a fee for a payment on my card?,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.3935861587524414
+I noticed an extra fee when I paid with my card.,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.38646411895751953
+Is it normal to be charged an extra fee when paying with my card?,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.4058055877685547
+I got charged a fee for transferring money.,TRANSFER FEE CHARGED,64,TRANSFER FEE CHARGED,0.3547031879425049
+WHY IS THERE AN EXTRA FEE FOR USING THE ATM??!!!,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.37557148933410645
+My ATM withdrawal was cancelled,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.36226654052734375
+Why am I getting charged more for using my card?,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.40539979934692383
+I visited the ATM but got less money than what I requested. Why?,WRONG AMOUNT OF CASH RECEIVED,75,DECLINED CASH WITHDRAWAL,0.38347458839416504
+Why didn't I receive all the cash I requested?,WRONG AMOUNT OF CASH RECEIVED,75,TRANSFER NOT RECEIVED BY RECIPIENT,0.4141709804534912
+Why do I have an unexpected fee on my bill?,TRANSFER FEE CHARGED,64,CARD PAYMENT FEE CHARGED,0.3898935317993164
+"I'm checking my statements and I saw a purchase from a couple weeks ago that I don't recall at all. Not only that, but I don't even know the business that charged it. I'm not sure if I did it or not, but can we check it and see if we can trace it back to make certain?",DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DECLINED CASH WITHDRAWAL,0.536175012588501
+I was not able to use the ATM to get cash,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.39806270599365234
+"I want to get some cash from the ATM using my card but I dont want to be charged any fees. Ive taken some money out before with no fees, but recently Ive been getting charged. Why?",CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.46558547019958496
+I'm trying to take money from my account but its not letting me. Help!,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.3932807445526123
+I got less cash than what I specified at the ATM.,WRONG AMOUNT OF CASH RECEIVED,75,DECLINED CASH WITHDRAWAL,0.3957526683807373
+Why can't I take cash out of the ATM?,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.3847646713256836
+I'm wondering how long it takes for my money to get to me after a bank transfer.,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,TRANSFER NOT RECEIVED BY RECIPIENT,0.44130945205688477
+"When will I see my cash, since I already deposited my check?",BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,0.4616103172302246
+There was a direct debit from my account and I didn't authorise it,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DIRECT DEBIT PAYMENT NOT RECOGNISED,0.41789746284484863
+"I tried to get money out of an ATM in Notting Hill earlier, but it didn't work. Is my card actually working? It's the first time I tried using it",DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.46641111373901367
+I tried to use the ATM today but it would not accept my card.,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.3826122283935547
+I just had my card get declined at the ATM! I need to get money out but I am unable to.  Why has this happened?,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.4417757987976074
+"I've use my accounts all the time to manage my payments for my place abroad that I just got. I now see that I suddenly have new fees.I'm a frequent customer, so why are you charging me new fees instead of rewarding me?",TRANSFER FEE CHARGED,64,CARD PAYMENT FEE CHARGED,0.5421359539031982
+You shorted me money when I tried to make a withdrawal.,WRONG AMOUNT OF CASH RECEIVED,75,DECLINED CASH WITHDRAWAL,0.3878202438354492
+"Hello, I have a question concerning an unfamiliar fee that I notice on my account. I see that you guys charge for ATM withdrawal. Never notice this fee until now. Can you please explain?",CASH WITHDRAWAL CHARGE,19,TRANSFER FEE CHARGED,0.46621131896972656
+This debit is not my transcation. How do I get my money out back?,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DECLINED CASH WITHDRAWAL,0.3850867748260498
+"I think something went wrong, I didn't get the right amount.",WRONG AMOUNT OF CASH RECEIVED,75,WRONG AMOUNT OF CASH RECEIVED,0.4154512882232666
+There is a transaction showing in my app that I did not make as I have not used that card all day.  Please reimburse this amount to my account.,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DECLINED CASH WITHDRAWAL,0.4336416721343994
+I don't recognize the direct debit payment from the app.,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DIRECT DEBIT PAYMENT NOT RECOGNISED,0.4268348217010498
+I have an unknown direct debit payment on my account,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DIRECT DEBIT PAYMENT NOT RECOGNISED,0.4266371726989746
+My app is showing a payment that I know I did not do. Can you please cancel that transaction and credit my account please?,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,CARD PAYMENT FEE CHARGED,0.46508169174194336
+Why are there additional fees for transfers?,TRANSFER FEE CHARGED,64,TRANSFER FEE CHARGED,0.35732030868530273
+I was denied cash at an ATM,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.36008262634277344
+I went to the Notting Hill ATM to use my card the first time for a cash withdrawal but it didn't work. Does this mean that my card isn't working yet?,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.47560930252075195
+I don't think I should have been charged a fee to use my card.,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.3967719078063965
+Why was my account assessed a fee for an ATM transaction?,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.37811732292175293
+"I made a transfer and the receiver said an amount was received, but not exactly the same as the right amount. I now have to transfer more to get the remainder to the receiver. Can you alert me about this. What's been happening?",TRANSFER FEE CHARGED,64,TRANSFER NOT RECEIVED BY RECIPIENT,0.529207706451416
+Why am I being charged a fee on a card payment?,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.40756821632385254
+My balance doesn't include my latest transfer,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,BALANCE NOT UPDATED AFTER BANK TRANSFER,0.37884020805358887
+"I deposited a cheque, but my account balance stayed the same.",BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,0.45896315574645996
+Why did I get a fee from the ATM?,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.379302978515625
+I have a transaction that shows multiple times.,TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.367246150970459
+Why is there a fee for my transfer?,TRANSFER FEE CHARGED,64,TRANSFER FEE CHARGED,0.34293437004089355
+My account shows I made a debit payment to someone that I can't recall and would like to find out who the payment was made to.,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DECLINED CASH WITHDRAWAL,0.4291656017303467
+Is there a fee for a cash withdrawal?,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.3496997356414795
+Why am I unable to withdraw my money through this card?,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.3818855285644531
+I made a transfer and the person I transferred the money to didn't receive the right amount? Why did this happen and how do I get the rest of the money to them?,TRANSFER FEE CHARGED,64,TRANSFER NOT RECEIVED BY RECIPIENT,0.5045697689056396
+"My friend deposited $100 into my account, but it is not showing up!",BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,0.4583919048309326
+"I thought transfers were free, why was I charged?",TRANSFER FEE CHARGED,64,TRANSFER FEE CHARGED,0.37429261207580566
+I used an ATM and there was an extra charge.,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.3551628589630127
+Why am I being charged for transfers? Are they not free?,TRANSFER FEE CHARGED,64,TRANSFER FEE CHARGED,0.3749055862426758
+Why was I charged twice for my item!,TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.3719456195831299
+My transfer to my account is missing.,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,TRANSFER NOT RECEIVED BY RECIPIENT,0.3947021961212158
+"While getting cash, I was charged a fee.",CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.3857595920562744
+why was a extra fee added to my account for transfer ?,TRANSFER FEE CHARGED,64,TRANSFER FEE CHARGED,0.37738871574401855
+Could I raise a dispute for a large payment that i found out was not done by me in my couple of last statements? I am aware its delayed now. Please help me out.,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DECLINED CASH WITHDRAWAL,0.45323848724365234
+I am worried that too much time has gone by for a transfer to be completed.,TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.42153263092041016
+I see a direct debit transaction in my app that I didn't make.,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DIRECT DEBIT PAYMENT NOT RECOGNISED,0.4423389434814453
+ATM withdrawal not working.,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.36125969886779785
+What caused my cash withdrawal to be declined?,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.35866355895996094
+I just deposited cash to my account and can't find it!,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,UNKNOWN,0.4007437229156494
+I made a check deposit but the cash hasn't arrived in my account yet.,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,TRANSFER NOT RECEIVED BY RECIPIENT,0.41979241371154785
+I saw a fee on my receipt from withdrawing money while shopping earlier.  Is there supposed to be a fee for this type of transaction?,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.4380483627319336
+my card was frozen due to putting in the wrong pin too much.  how many tries do i have,DECLINED CASH WITHDRAWAL,26,UNKNOWN,0.416487455368042
+Please help my find out why there is an odd direct debit in my records.,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DIRECT DEBIT PAYMENT NOT RECOGNISED,0.4308946132659912
+I did not get enough cash,WRONG AMOUNT OF CASH RECEIVED,75,CASH WITHDRAWAL CHARGE,0.34975528717041016
+"How long does an international transfer take? I made the transfer from France 2 days ago, but it is not showing up in my bank yet.",BALANCE NOT UPDATED AFTER BANK TRANSFER,5,TRANSFER NOT RECEIVED BY RECIPIENT,0.455096960067749
+I'm at the ATM right now and it only allowed me to withdraw 10 pounds instead of my requested 30. What's going on? How can I fix this?,WRONG AMOUNT OF CASH RECEIVED,75,DECLINED CASH WITHDRAWAL,0.48436427116394043
+I deposited cash into my account and I'm having trouble seeing it on my account.,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,UNKNOWN,0.4203834533691406
+I didn't know I was going to get charged to use my card.,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.40152430534362793
+Could you please help me?  I made my rent payment and have double checked that I sent it to the right account.  The person receiving it says he has not received it but it shows complete on my side.,TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.5448136329650879
+Can you please check my UK Account to make sure everything went alright?  I made the transfer a couple of hours ago.,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,BALANCE NOT UPDATED AFTER BANK TRANSFER,0.43508172035217285
+What was the extra charge for using my card?,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.40602922439575195
+I made a cash deposit a few days ago and it's still not reflected in my account. Do you know what might have happened?,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,UNKNOWN,0.47707033157348633
+Why was there a fee on my cash withdrawal?,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.3709287643432617
+Is my card actually working? It's the first time I tried using it,DECLINED CASH WITHDRAWAL,26,CARD PAYMENT FEE CHARGED,0.40616774559020996
+Why do I see extra charges for withdrawing my money?,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.3770780563354492
+Why is it taking so long for my money to appear in my account? I have been waiting a week!,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,TRANSFER NOT RECEIVED BY RECIPIENT,0.447406530380249
+The ATM keeps declining my card! I tried two different ATMs already can you please check if everything is alright with my account??,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.4476032257080078
+People are using my debit card - help!,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DECLINED CASH WITHDRAWAL,0.3634800910949707
+i need help. I updated my balance with a check yesterday and Im not seeing it. Can you look at my account to see what went wrong?,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,0.514228105545044
+Why wouldn't the ATM give me cash?,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.3661324977874756
+My balance doesn't show my deposit.,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,UNKNOWN,0.3855416774749756
+The transfer I made isn't reflected in my balance,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,TRANSFER NOT RECEIVED BY RECIPIENT,0.4069182872772217
+"I was transferring some money to a friend, which I thought would be free, but I see there is a charge.  What's up with that?",TRANSFER FEE CHARGED,64,TRANSFER FEE CHARGED,0.42040038108825684
+"I can't figure out why I haven't gotten my cash, when I already put the check in the bank.",BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,0.48167920112609863
+"I just took some cash out of a cash machine in Heathrow airport because I wanted to buy some new sunglasses for my holiday but you've added a fee to the withdrawal, what is this?",CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.4606943130493164
+"Hello, a few days ago I transferred my rent check to my landlord, however, he is saying that it has not gone though. On my end everything looks fine and I double checked the account number. Is there anything else that could be holding up the check?",TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.5557935237884521
+I deposited a check a few days ago and it's still not gone in! Please help me with this,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,0.4972670078277588
+This transfer incurred a fee that I don't think is right.,TRANSFER FEE CHARGED,64,TRANSFER FEE CHARGED,0.38372349739074707
+Why did my cash deposit not show up?,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,0.43195462226867676
+After trying to update my account balance yesterday by cheque it doesn't seem to working. Shouldn't the process be quicker? I need my account looked at because there appears to be a problem.,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,0.5441329479217529
+I want to be sure that everything is okay here. I just made a transfer from a UK account and it is still not showing up. How long does this typically take?,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,TRANSFER NOT RECEIVED BY RECIPIENT,0.5065391063690186
+I used this account a lot during the last month to manage my payments for my new place abroad. Seems that suddenly fees have increased? Shouldn't you instead reward your frequent customers instead of putting an additional fee suddenly?!,TRANSFER FEE CHARGED,64,CARD PAYMENT FEE CHARGED,0.5332484245300293
+"Is my card working? It's the first time I tried using it I tried to get money out of an ATM, but got nothing.",DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.4548053741455078
+I can't see a transfer to my account I made.,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,TRANSFER NOT RECEIVED BY RECIPIENT,0.4218580722808838
+How can I request cash back? The ATM just gave me a different amount than what I've been charged though...,WRONG AMOUNT OF CASH RECEIVED,75,DECLINED CASH WITHDRAWAL,0.41732287406921387
+I don't see the transaction I made to a friend on my account.,TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.4160284996032715
+How come I was charged an extra fee when paying with the card?,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.4063894748687744
+How long does it take to show a deposit I made to my balance?,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,BALANCE NOT UPDATED AFTER BANK TRANSFER,0.40221142768859863
+Why was I charged a fee when making this transfer when I shouldn't have been?,TRANSFER FEE CHARGED,64,TRANSFER FEE CHARGED,0.3785057067871094
+I got a fee when paying with my card,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.39817357063293457
+Why was I charged extra using my card?,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.37493324279785156
+Why did I not get the amount of money I requested?,WRONG AMOUNT OF CASH RECEIVED,75,DECLINED CASH WITHDRAWAL,0.3961024284362793
+what is this charge on my card?,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,CARD PAYMENT FEE CHARGED,0.37105417251586914
+The cast deposit from a week ago still is not in my account. Why?,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,0.46988892555236816
+"Help, the ATM didn't give me all the money I requested",WRONG AMOUNT OF CASH RECEIVED,75,DECLINED CASH WITHDRAWAL,0.39578866958618164
+Why did I get charged a fee for my transfer?,TRANSFER FEE CHARGED,64,TRANSFER FEE CHARGED,0.37857842445373535
+Why has my account balance not changed after depositing a cheque?,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,0.4501762390136719
+I made a transfer a couple hours ago but my balance has not been updated. Why is this? Shouldnt this be instant?,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,TRANSFER NOT RECEIVED BY RECIPIENT,0.47913694381713867
+"Hello, I just checked my card transactions and saw that I was charged twice for a restaurant visit I did earlier this week. Is it possible to remove one of them and get my false paid money pack?",TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.47815489768981934
+Is there an issue with my account?  I don't see a cheque deposit that I made yesterday.  Please assist.,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,0.4778416156768799
+There is a direct debit transaction on my statement that I think is not mine. How do I remove?,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DIRECT DEBIT PAYMENT NOT RECOGNISED,0.46412014961242676
+Please check to see if the band transfer I made a while ago from my UK account has safely arrived.,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,TRANSFER NOT RECEIVED BY RECIPIENT,0.4424705505371094
+I can't get any money from my account.,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.3861265182495117
+I could not access my money at the ATM,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.36453747749328613
+Could you inform me as to why I have been charged a higher fee for doing banking abroad.,TRANSFER FEE CHARGED,64,TRANSFER FEE CHARGED,0.40643763542175293
+The atm didn't give me all my cash,WRONG AMOUNT OF CASH RECEIVED,75,DECLINED CASH WITHDRAWAL,0.39009833335876465
+Can you see my new balance yet?,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,BALANCE NOT UPDATED AFTER BANK TRANSFER,0.37484169006347656
+Can you tell me why I was declined from getting cash?,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.39436960220336914
+What is this direct debit in my statement?,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DIRECT DEBIT PAYMENT NOT RECOGNISED,0.39948129653930664
+I am seeing a direct debit I wasn't aware of.,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DIRECT DEBIT PAYMENT NOT RECOGNISED,0.4358401298522949
+I have been double charged,TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.367168664932251
+A duplicated payment was made for something.,TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.3584733009338379
+I was given less cash then I wanted.,WRONG AMOUNT OF CASH RECEIVED,75,CASH WITHDRAWAL CHARGE,0.34978818893432617
+I didn't realize that there were any fees for withdrawing money from my account--this has never happened to me before.  What exactly are the fees?,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.44246792793273926
+How long before a bank transfer shows up in the account?,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,TRANSFER NOT RECEIVED BY RECIPIENT,0.421048641204834
+I didn't set up the direct debit I have,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DIRECT DEBIT PAYMENT NOT RECOGNISED,0.42921900749206543
+I did not set up a direct debit I have,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DIRECT DEBIT PAYMENT NOT RECOGNISED,0.4287233352661133
+I was not distributed all of cash that I requested,WRONG AMOUNT OF CASH RECEIVED,75,TRANSFER NOT RECEIVED BY RECIPIENT,0.40256452560424805
+I don't appreciate the extra fees being siphoned from my account. I was helping some friends move to Japan and we were buying home decorations at the local stores. The  receipts differed greatly from what showed up in my bank account and my statement. When can I expect the extra fees to be back in my account?,TRANSFER FEE CHARGED,64,TRANSFER FEE CHARGED,0.5419652462005615
+Was I charged extra for using my card?,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.37973833084106445
+"I sent money to someone but they haven't gotten it, what's going on?",TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.41684627532958984
+Why is there an extra fee on a transfer?,TRANSFER FEE CHARGED,64,TRANSFER FEE CHARGED,0.38237905502319336
+Transaction showing up many times.,TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.3560752868652344
+"I have checked the account information several times to be sure that it is correct, but the in country transfer I did a few days ago still has not appeared! What is the hold up?",TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.505664587020874
+I would like to dispute a payment I didnt make,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DECLINED CASH WITHDRAWAL,0.3959529399871826
+Help! My card isn't working at the ATM and I know I used the right PIN. Trying to get my money.,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.41967225074768066
+Why didn't the money I transferred into my account get added to my balance?,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,BALANCE NOT UPDATED AFTER BANK TRANSFER,0.39824962615966797
+"A transfer I sent was received in less than the full amount I originally sent, and now I have to send additional funds to cover the full amount. What happened?",TRANSFER FEE CHARGED,64,TRANSFER NOT RECEIVED BY RECIPIENT,0.48251867294311523
+My ATM transaction was cancelled.,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.36553502082824707
+"Am I able to look back at a transaction to see who with drawled some money from my account? I don't remember authorizing this a few weeks ago, but wanted to double check who took the money.",DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DECLINED CASH WITHDRAWAL,0.5269739627838135
+"The ATM will not let me get cash, WHY?",DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.3802788257598877
+"Why did I get charged a fee, I thought it was free?",CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.36787843704223633
+Where is the transfer to my account that I made?,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,TRANSFER NOT RECEIVED BY RECIPIENT,0.41170191764831543
+Are bank transfers immediate?,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,UNKNOWN,0.3470780849456787
+"I had a duplicate card and bought something and it showed up twice. I canceled my card, how do I get my money back?",TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.4470696449279785
+I made a purchase but never expected to see a fee charged for the transaction.,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.4025285243988037
+Why is there a fee when I thought there would be no fees?,CARD PAYMENT FEE CHARGED,15,CASH WITHDRAWAL CHARGE,0.37413835525512695
+I withdrew cash and was charged. Why?,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.3479933738708496
+Why was I charged when taking out money?,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.3413238525390625
+why would i be declined if i had money iin my account,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.3889946937561035
+Why do some of my payments have fees?  I don't understand.,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.40936779975891113
+The money that I have transferred hasn't arrived yet.,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,TRANSFER NOT RECEIVED BY RECIPIENT,0.41451430320739746
+Why is my last cheque deposit taking so long?,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,0.45821070671081543
+Why am I being charged extra when I withdrew money?,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.3632485866546631
+Why did the funds not transfer to another recipient?,TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.3953232765197754
+What do I do if I've been charged twice for the same transaction?,TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.3912348747253418
+I just saw a fee on my account. When do these get charged?,CARD PAYMENT FEE CHARGED,15,CASH WITHDRAWAL CHARGE,0.3749690055847168
+There is a Direct Debit that looks suspicious.,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DIRECT DEBIT PAYMENT NOT RECOGNISED,0.4286341667175293
+I didn't get the correct amount of money from the ATM machine,WRONG AMOUNT OF CASH RECEIVED,75,DECLINED CASH WITHDRAWAL,0.39679646492004395
+I was charged twice.,TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.38010501861572266
+I want a refund on a direct debit.,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DIRECT DEBIT PAYMENT NOT RECOGNISED,0.42168450355529785
+I see a direct debit charge that I did not approve,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DIRECT DEBIT PAYMENT NOT RECOGNISED,0.4572422504425049
+I was charged multiple times at the same location at the same time,TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.413632869720459
+When will my cheque process?,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,DECLINED CASH WITHDRAWAL,0.3811805248260498
+I got charged two times for a transaction,TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.3671445846557617
+Why is there are there two of the same transaction?,TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.39157557487487793
+Someone else made a Direct Debit transaction on my account,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DIRECT DEBIT PAYMENT NOT RECOGNISED,0.446016788482666
+I made a transfer to my friend earlier and she hasn't received it yet.  What's the hold up?,TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.45430588722229004
+"I was charged a fee when withdrawing cash, can you explain why?",CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.4045217037200928
+I made a deposit but it is not showing up in my balance.,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,UNKNOWN,0.4460630416870117
+Why was I charged for payments? You didn't warn me about additional fees.,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.43626904487609863
+Hi. Please can you help me fix a double charge on my card? I'm looking at my transactions and this restaurant I went to earlier in the week has charged me twice! Please remove the additional charge for me.,TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.5399770736694336
+The money has not yet been placed in recipients account.,TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.41794824600219727
+Why am i being double charged for something?,TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.36943554878234863
+Why am I being charged certain fees? I noticed a fee after I withdrew some money for groceries earlier today.,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.4076714515686035
+I wasn't able to withdraw money at an ATM,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.4063253402709961
+Where's the money I transferred into my account?,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,BALANCE NOT UPDATED AFTER BANK TRANSFER,0.4070758819580078
+How long do deposits take to appear? I've been waiting for more than a week and need the money!,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,0.4807114601135254
+There's a direct debit payment that I don't recognize.,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DIRECT DEBIT PAYMENT NOT RECOGNISED,0.4311344623565674
+The machine gave me the wrong amount of cash.,WRONG AMOUNT OF CASH RECEIVED,75,WRONG AMOUNT OF CASH RECEIVED,0.41875338554382324
+I used an ATM and wanted to know why I was charged an extra fee.,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.3760671615600586
+Why am I still not able to see the money I deposited a week ago? This is urgent!!,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,0.48761463165283203
+I placed a cheque but the funds aren't there,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,DECLINED CASH WITHDRAWAL,0.3933722972869873
+Is there a reason why my card was declined when I attempted to withdraw money?,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.38370847702026367
+Purchases I did not make are appearing in my bank statement?,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DECLINED CASH WITHDRAWAL,0.3913586139678955
+Why was I not able to take cash from the ATM?,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.38764476776123047
+Why can I not get cash from the ATM?,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.36731815338134766
+What's the normal time frame for a transfer from a UK account? After just making a transfer it doesn't appear at all. I need to know if things went okay.,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,TRANSFER NOT RECEIVED BY RECIPIENT,0.509974479675293
+My cash withdrawal was short.,WRONG AMOUNT OF CASH RECEIVED,75,CASH WITHDRAWAL CHARGE,0.3434305191040039
+When will my transfer come through?,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,TRANSFER NOT RECEIVED BY RECIPIENT,0.38695263862609863
+Why am i being charged for withdrawing cash funds?,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.38222455978393555
+I went tot the ATM earlier today and didn't realize this till now but I did not get all the money I requested.  I believe my account was charged for 100 but I only got 80.  Is there any way we can solve this problem?,WRONG AMOUNT OF CASH RECEIVED,75,DECLINED CASH WITHDRAWAL,0.5333969593048096
+Why did the ATM give me less money than what I requested?,WRONG AMOUNT OF CASH RECEIVED,75,DECLINED CASH WITHDRAWAL,0.3798503875732422
+What happened! I asked for 30 pounds at your ATM and only go 10. The machine lied about it too. It said I received the full 30 pounds. Someone better help me asap on this.,WRONG AMOUNT OF CASH RECEIVED,75,DECLINED CASH WITHDRAWAL,0.5247130393981934
+Why are there multiple transactions showing for one purchase?,TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.37607884407043457
+I have an unauthorized charge.,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DECLINED CASH WITHDRAWAL,0.36567163467407227
+I have been charged two times for one transaction.,TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.35646772384643555
+"I just transferred some money into my account and do not see it updated yet, can you assist?",BALANCE NOT UPDATED AFTER BANK TRANSFER,5,BALANCE NOT UPDATED AFTER BANK TRANSFER,0.43734049797058105
+I transferred money but the balance hasn't changed.,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,BALANCE NOT UPDATED AFTER BANK TRANSFER,0.37650299072265625
+I used my card the other day to get cash from an ATM and was charged an extra fee. I don't understand why I am being charged a fee all of a sudden. I thought it was free to withdraw from an ATM?,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.5110132694244385
+The app is showing a direct debit transaction that I did not perform,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DIRECT DEBIT PAYMENT NOT RECOGNISED,0.42738938331604004
+How long does it take for money to transfer as my balance hasn't been updated,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,TRANSFER NOT RECEIVED BY RECIPIENT,0.4140012264251709
+I recently transferred money to my account when will it show up?,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,TRANSFER NOT RECEIVED BY RECIPIENT,0.41971540451049805
+I thought it was free to make a withdrawal. So how much does it cost now?,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.3782682418823242
+Cash has been deposited this morning but it hasn't came through.,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,TRANSFER NOT RECEIVED BY RECIPIENT,0.40687060356140137
+"I tried to withdraw cash, but got declined!",DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.38047289848327637
+Why hasn't the transaction I did to my friend arrived yet?,TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.4048957824707031
+I don't know where this debit transaction on my statement came from.,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DECLINED CASH WITHDRAWAL,0.38453102111816406
+Why was I charged a random fee for a transfer I made?,TRANSFER FEE CHARGED,64,TRANSFER FEE CHARGED,0.3653378486633301
+I did a cash deposit to my account but it doesn't show up,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,UNKNOWN,0.42148900032043457
+Why was my cash withdrawal cancelled at the ATM?,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.3894948959350586
+My balance is not right. It has not been updated for the cash or cheque deposit.,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,0.4921915531158447
+The ATM didnt let me get cash,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.35912632942199707
+Why am I not able to withdraw cash from this ATM?,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.3918015956878662
+"I completed a transfer within the UK two days ago, but it is still not showing received.  I have verified the account number is correct already.  Is there anything else I need to do or is there a problem?",TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.556229829788208
+I sent money and the recipient has not received their money after two weeks.,TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.42738914489746094
+Will the duplicated payment be refunded?,TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.3697376251220703
+"I did a cash deposit to my account, but I am not seeing it on my statement.",BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,UNKNOWN,0.4452648162841797
+I used my card to get cash then I was charged a fee that I shouldn't have been charged.,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.4123363494873047
+How can I request cash back? The ATM just gave me a different amount than what I've been actually charged though...,WRONG AMOUNT OF CASH RECEIVED,75,DECLINED CASH WITHDRAWAL,0.4255716800689697
+Hey I thought transfers were free.  Why are you charging me?,TRANSFER FEE CHARGED,64,TRANSFER FEE CHARGED,0.378903865814209
+How can I get my money that I didn't get from the ATM?,WRONG AMOUNT OF CASH RECEIVED,75,DECLINED CASH WITHDRAWAL,0.3885047435760498
+I was double charged at a restaurant can you take the second charge off?,TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.39421749114990234
+"I just pulled money out of the ATM and was charged a fee, WHy?",CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.3693866729736328
+I tried pulling out money at the ATM and it gave me an incorrect amount back.,WRONG AMOUNT OF CASH RECEIVED,75,DECLINED CASH WITHDRAWAL,0.39182472229003906
+Someone that I had to send money to told me that they didn't receive the full amount I sent them - can you look into this?,TRANSFER FEE CHARGED,64,TRANSFER NOT RECEIVED BY RECIPIENT,0.46629977226257324
+"I see I was charged extra when I used the card.  I am not sure why, please tell me why.",CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.4403824806213379
+There is a direct debit payment on my account that I didn't authorize.,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DIRECT DEBIT PAYMENT NOT RECOGNISED,0.43377208709716797
+"When I withdrew my money, why was there an extra charge?",CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.3855443000793457
+I did a money transfer to my account and it is not showing there.,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,TRANSFER NOT RECEIVED BY RECIPIENT,0.4114112854003906
+What is the fee for a cash withdrawal?,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.3537008762359619
+Why was a fee charged to me for transferring money?,TRANSFER FEE CHARGED,64,TRANSFER FEE CHARGED,0.36709094047546387
+I paid with my card so so why was I charged a transaction fee?,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.396679162979126
+cash and check deposit has not gone thru,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,0.42403554916381836
+I could not get the cash I wanted,WRONG AMOUNT OF CASH RECEIVED,75,CASH WITHDRAWAL CHARGE,0.3445312976837158
+I just made a transfer from a UK account. How long does that typically take to show up? I just want to make sure it worked alright.,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,TRANSFER NOT RECEIVED BY RECIPIENT,0.49204039573669434
+A percentage fee was charged to my withdrawal.,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.34749460220336914
+"I was charged twice, when I didn't purchase anything twice.",TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.38782405853271484
+"I've been waiting since Friday, where is my money?",TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.41698575019836426
+How much can I withdrawal in one month without incurring fees?,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.3751490116119385
+I can't get money out of the ATM. Is my card actually working? It's the first time I tried using it,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.4480099678039551
+A couple weeks ago there was a debit taken from my account from a transaction I don't recall. Is it possible to trace this transaction to make sure I'm not being scammed?,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DECLINED CASH WITHDRAWAL,0.4750986099243164
+"i've waited 2 days for a transfer to reach a retailers account, am i going to have to wait longer.",TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.43453049659729004
+"How do I see what fees I am supposed to be charged on my account? I've noticed fees on some transactions, but not on others. This is very confusing and I cannot find a pattern to what I am being charged?",CARD PAYMENT FEE CHARGED,15,TRANSFER FEE CHARGED,0.5196902751922607
+I have two of the same charges on my account!,TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.3999810218811035
+I am still waiting for a transfer I did,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,TRANSFER NOT RECEIVED BY RECIPIENT,0.38971376419067383
+In the app I see a direct debit that I don't recognize.,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DIRECT DEBIT PAYMENT NOT RECOGNISED,0.44206929206848145
+I transferred some money but it hasn't arrived yet,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,TRANSFER NOT RECEIVED BY RECIPIENT,0.41942715644836426
+There is a payment that I was charged two times for.,TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.3960416316986084
+I paid with my card and ended up being charged a fee.,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.4132199287414551
+I sent a payment but it isn't showing up in the app,TRANSFER NOT RECEIVED BY RECIPIENT,66,UNKNOWN,0.4373636245727539
+Why wont the ATM give me cash?,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.367572546005249
+"After my checque or cash deposit, my balance didn't update.",BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,0.46439409255981445
+There is a missing transfer on my account,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,TRANSFER NOT RECEIVED BY RECIPIENT,0.3833928108215332
+I just transferred some money. Why was I charged a fee?,TRANSFER FEE CHARGED,64,TRANSFER FEE CHARGED,0.38835906982421875
+I tried to withdraw cash from your ATM but my transaction was cancelled.,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.40007448196411133
+Online banking is not showing my cheque or cash deposit so the balance is incorrect.,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,0.4576849937438965
+Why am I charged a fee for using my card on some purchases?,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.40405821800231934
+Am I getting charged for making a payment?,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.37966227531433105
+Why can't I withdraw funds from my account?,DECLINED CASH WITHDRAWAL,26,CASH WITHDRAWAL CHARGE,0.37574219703674316
+"I recently deposited some money into my account, but it still isn't showing up. What's going on?",BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,UNKNOWN,0.4452536106109619
+"I asked for $40 and I only received $20, what happened?",WRONG AMOUNT OF CASH RECEIVED,75,DECLINED CASH WITHDRAWAL,0.3863520622253418
+What do I do if I find a debit charge that I know I didn't do in my billing statement?,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,TRANSACTION CHARGED TWICE,0.4177439212799072
+Where is my last money transaction,TRANSFER NOT RECEIVED BY RECIPIENT,66,BALANCE NOT UPDATED AFTER BANK TRANSFER,0.37372875213623047
+Who do I contact if there is a direct debit that I did not create.,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DIRECT DEBIT PAYMENT NOT RECOGNISED,0.44129490852355957
+Where is my cash deposit in my balance?,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,0.4311370849609375
+Waiting for the cash I deposited this morning still,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,TRANSFER NOT RECEIVED BY RECIPIENT,0.41753244400024414
+atm refused to give me money,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.3761940002441406
+To many charges on my card how do I go about fixing that?,TRANSACTION CHARGED TWICE,63,CARD PAYMENT FEE CHARGED,0.402759313583374
+I made a bank transfer but it doesn't seem to have gone through?,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,TRANSFER NOT RECEIVED BY RECIPIENT,0.41517114639282227
+wheres my money receipt,TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.39003491401672363
+I attempted to withdraw some money from an ATM this morning and received the wrong amount. Your app says I have enough money available in the account. Can someone tell me what's wrong?,WRONG AMOUNT OF CASH RECEIVED,75,DECLINED CASH WITHDRAWAL,0.47625160217285156
+Why was I charged an extra fee when using an ATM?,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.3713564872741699
+"I am getting charged fees on some payments.  Please help me understand, where are these fees disclosed?",CARD PAYMENT FEE CHARGED,15,TRANSFER FEE CHARGED,0.40924501419067383
+How long does it take for money to reach my account?,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,TRANSFER NOT RECEIVED BY RECIPIENT,0.41984128952026367
+What's up with the fee for getting cash?,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.37709593772888184
+"I deposited a cheque, why isn't my balance showing that I did?",BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,0.45547962188720703
+Why did I get less cash than what I asked in the ATM?,WRONG AMOUNT OF CASH RECEIVED,75,CASH WITHDRAWAL CHARGE,0.38352274894714355
+I did a money transaction and dont have a receipt,TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSACTION CHARGED TWICE,0.38779497146606445
+Why was I charged this extra fee while doing a transfer?,TRANSFER FEE CHARGED,64,TRANSFER FEE CHARGED,0.3750474452972412
+Can you explain why I am now getting charged a fee for using my card?,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.38887453079223633
+Why would the ATM machine fail to give me the cash withdrawal I requested?,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.3912239074707031
+A transaction shows duplicate times.,TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.35532546043395996
+I got charged a fee that shouldn't be there from my cash,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.3638455867767334
+I made a cash withdrawal and was charged a fee incorrectly can you help with this?,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.3761913776397705
+The amount of cash I received did not match the amount I requested,WRONG AMOUNT OF CASH RECEIVED,75,WRONG AMOUNT OF CASH RECEIVED,0.413362979888916
+I put money in my account a week ago but its still not there?? What happened to my money?,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,TRANSFER NOT RECEIVED BY RECIPIENT,0.4465787410736084
+"The cheque I sent a few days ago has not been deposited yet, what is the hold up?",BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,TRANSFER NOT RECEIVED BY RECIPIENT,0.4479527473449707
+Why would I be charged an extra fee while doing a transfer?,TRANSFER FEE CHARGED,64,TRANSFER FEE CHARGED,0.3672456741333008
+Where is the transfer that I did?,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,TRANSFER NOT RECEIVED BY RECIPIENT,0.3933141231536865
+"Hello, I have noticed a problem on my recent withdrawal at the banks atm machine.  I made a transaction and upon receiving my funds from the machine, a fee was assessed to my withdrawal.  Are these types of transactions free of charge?",CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.5178370475769043
+I got less money than I asked for.,WRONG AMOUNT OF CASH RECEIVED,75,WRONG AMOUNT OF CASH RECEIVED,0.38742494583129883
+i used a check check yesterday to balance my account and it isn't showing up?,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,0.44941043853759766
+I can't get the ATM to give me any cash,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.3933072090148926
+Why was I charged a fee on a cash withdrawal?,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.37319421768188477
+"Looks like my card payment was made twice by mistake. I went to pay at the store earlier which rejected once, second time it worked. App is on pending for one of the payments. Can you please remove one of them as it's wrong and clearly was declined?",TRANSACTION CHARGED TWICE,63,CARD PAYMENT FEE CHARGED,0.5073301792144775
+Why was I charged for cash withdrawal?,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.35405755043029785
+My transfer into my account isn't showing up.,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,TRANSFER NOT RECEIVED BY RECIPIENT,0.4093019962310791
+When will I get my money? It's been too long.,TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.4127798080444336
+Why did you charge me a fee when I made a transfer?,TRANSFER FEE CHARGED,64,TRANSFER FEE CHARGED,0.38098955154418945
+Why didn't my transfer get to the recipient?,TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.38729214668273926
+Why can't I get cash out?,DECLINED CASH WITHDRAWAL,26,CASH WITHDRAWAL CHARGE,0.3512685298919678
+My account statements show a debit payment that I didn't make it's from some time ago I need to know if it is disputable.,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DECLINED CASH WITHDRAWAL,0.4568154811859131
+Why does my statement show various transaction times?,TRANSACTION CHARGED TWICE,63,BALANCE NOT UPDATED AFTER BANK TRANSFER,0.3727381229400635
+Hello. Can you help figure out why the recent transfer from my UK bank account isn't showing up?,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,TRANSFER NOT RECEIVED BY RECIPIENT,0.4447948932647705
+Why isn't my cheque deposit showing on my account?  I though it would be faster and would like to to look into it and help.,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,0.5174696445465088
+I'm being charged for using my card!,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.3805079460144043
+I transferred money but the recipient does not see the funds in their account?,TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.42298126220703125
+"My husband and I went out for our weekly ""dinner and a movie,"" and it was my turn to pick up the check. Now I see that my card was charged twice. Who should I contact about negating the second charge and getting my card credited?",TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.5205433368682861
+I noticed additional charges when transferring?,TRANSFER FEE CHARGED,64,TRANSFER FEE CHARGED,0.3528323173522949
+My money transaction hasn't arrived.,TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.3896362781524658
+The cheque I sent to you to have deposited a couple days ago has not cleared in my account yet. What is the issue?,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,0.5281064510345459
+I think I was wrongly charged in a recent transaction when I used my card.,CARD PAYMENT FEE CHARGED,15,DECLINED CASH WITHDRAWAL,0.3912951946258545
+Why have I been charged more than once for the same transaction?,TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.3889884948730469
+I have a direct debit that I did not set up,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DIRECT DEBIT PAYMENT NOT RECOGNISED,0.4387328624725342
+"I usually don't get charged for transfers, why was I this month?",TRANSFER FEE CHARGED,64,TRANSFER FEE CHARGED,0.36948275566101074
+I was wondering if international transfers take longer than normal because I made a transfer from France a couple of days ago and nothing has happened yet?,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,TRANSFER NOT RECEIVED BY RECIPIENT,0.47548866271972656
+"I put some money in my account the other day and it's not gone in yet, can you help with this?",BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,BALANCE NOT UPDATED AFTER BANK TRANSFER,0.43633008003234863
+"I hate this ATM, it charged me an extra fee, Why did it charge?",CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.37688684463500977
+I recently bought an item using my card and I was charged an extra fee why is this?,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.42201900482177734
+A transaction posted twice to my account.,TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.3680715560913086
+It didn't give me my cash,WRONG AMOUNT OF CASH RECEIVED,75,DECLINED CASH WITHDRAWAL,0.38311100006103516
+I have cash deposit to my account but it is experiencing a problem,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,0.4931797981262207
+Last week I put a cash deposit into my account and it is still isn't there.,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,UNKNOWN,0.47548770904541016
+"Hi, I checked my transactions and saw that I was charged twice during a restaurant visit. I would like to get my money back.",TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.4827687740325928
+Please tell me why the same transaction is showing up on my account more than once.,TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.4113657474517822
+"Even though I made a cash deposit, I am not seeing it in my account.",BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,UNKNOWN,0.41202545166015625
+"Hello, I wanted to get some more information about ATM Withdraw Fee. I have been withdrawing money for years and notice this charge on my account. I always thought it was no fee since its you guys ATM company that I am withdrawing. Can you please explain?",CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.4843108654022217
+During the last month I used this account to make payments for my place abroad. I noticed the fees have increased and I wonder why. Shouldn't frequent users have less fees as incentive to keep using instead of increasing them out of nowhere?,TRANSFER FEE CHARGED,64,CARD PAYMENT FEE CHARGED,0.552403450012207
+"I made a transfer and the receiver did not get the right amount its lesser than what it should be,Now I have to transfer more money to make up for the missing amount . Can you please help me about this, what should be done",TRANSFER FEE CHARGED,64,TRANSFER NOT RECEIVED BY RECIPIENT,0.5410552024841309
+Can you elaborate on why I have an extra charge just for transferring?,TRANSFER FEE CHARGED,64,TRANSFER FEE CHARGED,0.38007616996765137
+"Hi, I just looked at my card transactions and saw that I've been charged twice for a restaurant I went to this week. Can you remove the double charge, please?",TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.4737851619720459
+Did a WD earlier at an ATM.  The amount showing in the App is more than I got though.,WRONG AMOUNT OF CASH RECEIVED,75,BALANCE NOT UPDATED AFTER BANK TRANSFER,0.4313621520996094
+I didn't make the direct debit payment on my account.,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DIRECT DEBIT PAYMENT NOT RECOGNISED,0.42514848709106445
+What happens if the ATM doesn't give the right amount of money?,WRONG AMOUNT OF CASH RECEIVED,75,DECLINED CASH WITHDRAWAL,0.3758237361907959
+How long does a transfer from the United Kingdom take? I haven't seen it show up yet in my bank account and want to make sure I get the transfer.,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,TRANSFER NOT RECEIVED BY RECIPIENT,0.4842088222503662
+Cash withdrawal was incorrect at ATM.,WRONG AMOUNT OF CASH RECEIVED,75,DECLINED CASH WITHDRAWAL,0.3595917224884033
+Why hasn't my cash arrived from a deposited check?,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,TRANSFER NOT RECEIVED BY RECIPIENT,0.4037330150604248
+A transaction to a friend still hasn't shown up.,TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.4097447395324707
+"Hi, I want to inquire about my balance. Some cash was deposited and it hasn't updated yet.",BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,UNKNOWN,0.43848538398742676
+Where is the transfer to my account?,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,TRANSFER NOT RECEIVED BY RECIPIENT,0.38701295852661133
+There is a payment I don't recognise!,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DECLINED CASH WITHDRAWAL,0.3618342876434326
+Can you check if my money has reached my account since it is not showing up yet?,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,BALANCE NOT UPDATED AFTER BANK TRANSFER,0.43471240997314453
+When I went to withdraw cash today the ATM gave me the wrong amount of cash. The app is showing a larger amount.,WRONG AMOUNT OF CASH RECEIVED,75,DECLINED CASH WITHDRAWAL,0.42103123664855957
+Some cash was missing at ATM.,WRONG AMOUNT OF CASH RECEIVED,75,DECLINED CASH WITHDRAWAL,0.35892343521118164
+I do not understand what this particular direct debit is ?,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DIRECT DEBIT PAYMENT NOT RECOGNISED,0.4413270950317383
+why did i only get 20.00,WRONG AMOUNT OF CASH RECEIVED,75,BALANCE NOT UPDATED AFTER BANK TRANSFER,0.40503454208374023
+Why did I get declined when trying to get cash?,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.39188432693481445
+What are these fees i am paying?,CARD PAYMENT FEE CHARGED,15,CASH WITHDRAWAL CHARGE,0.3480563163757324
+This isn't fair! I thought transfers could be made for free. I just made  a purchase online from abroad and now see some strange fee that I've never seen before.,TRANSFER FEE CHARGED,64,TRANSFER FEE CHARGED,0.46182823181152344
+"I transferred a payment a couple days ago and it shows done, but it has not been received.  Could you please help me?",TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.49759435653686523
+Why did I get charged more for using my card?,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.4247567653656006
+"Hello I made a bank account transfer from the UK. The transfer was a couple hours ago, nothing has shown up yet.  Can you check to see if everything okay. Please.",BALANCE NOT UPDATED AFTER BANK TRANSFER,5,TRANSFER NOT RECEIVED BY RECIPIENT,0.5295798778533936
+Why did I only get $20 now the full amount I wanted?,WRONG AMOUNT OF CASH RECEIVED,75,DECLINED CASH WITHDRAWAL,0.4098942279815674
+I entered the correct pin but I still couldnt get funds.,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.3979620933532715
+"Hi, Today i have withdrawn cash from ATM but i got wrong amount and in the app it is showing much more amount than that.",WRONG AMOUNT OF CASH RECEIVED,75,UNKNOWN,0.5003306865692139
+I was charged for getting cash.,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.38041090965270996
+Why is there a fee associated with card use?,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.4135096073150635
+How long to UK transfers usually take? I made a transfer but it didn't pop up in my history yet. I just want to make sure it went through.,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,TRANSFER NOT RECEIVED BY RECIPIENT,0.46306943893432617
+"I am at the ATM and tried to withdraw 30 pounds and it only gave me 10 pounds, what do I do?",WRONG AMOUNT OF CASH RECEIVED,75,DECLINED CASH WITHDRAWAL,0.4537041187286377
+Why do I have a charge for an ATM withdrawal? I thought these were free?,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.3864760398864746
+The ATM cancelled a transaction on me when I was trying to get some cash out.,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.4010045528411865
+I haven't received my cash yet.,WRONG AMOUNT OF CASH RECEIVED,75,TRANSFER NOT RECEIVED BY RECIPIENT,0.3951241970062256
+"I made a transfer for my rent payment about 2 days ago, but my landlord hasn't received it yet. It shows as done on my  side, and I've double check all account numbers and they are correct. Can you verify that the transaction was actually made?",TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.559391975402832
+I did a transfer and was charged a fee that should not have been charged!,TRANSFER FEE CHARGED,64,TRANSFER FEE CHARGED,0.37088918685913086
+Recipient has not received the money,TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.38858819007873535
+I am still awaiting the money I put into my account this morning.,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,TRANSFER NOT RECEIVED BY RECIPIENT,0.41733574867248535
+"i accidentally entered in my retailers information, what should i do next",TRANSFER NOT RECEIVED BY RECIPIENT,66,CARD PAYMENT FEE CHARGED,0.40019679069519043
+"I have done a transfer within the country the day before yesterday, but it's still not there yet. Can you please check what's going on with that, the account number definitely is the right one, I've checked that already.",TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.5501818656921387
+I found a direct debit I would like to dispute,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DIRECT DEBIT PAYMENT NOT RECOGNISED,0.43086934089660645
+The atm didn'y give me all the cash,WRONG AMOUNT OF CASH RECEIVED,75,DECLINED CASH WITHDRAWAL,0.40015649795532227
+"How long does it take for transfers to process?  I sent funds to a friend, and she says that she has not yet received anything.",TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.48912549018859863
+I have an unknown charge.,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,TRANSACTION CHARGED TWICE,0.36673736572265625
+I tried withdrawing but my cash is not showing up?,WRONG AMOUNT OF CASH RECEIVED,75,DECLINED CASH WITHDRAWAL,0.3917272090911865
+I haven't received the cash from the check I deposited.,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,TRANSFER NOT RECEIVED BY RECIPIENT,0.42397642135620117
+What happens if the ATM gives me the wrong amount of money?,WRONG AMOUNT OF CASH RECEIVED,75,DECLINED CASH WITHDRAWAL,0.39650845527648926
+"I tried using a check to update my balance, but it isn't work? Is something wrong?",BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,0.48784828186035156
+Why is it taking so long for a transfer to complete!,TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.4129204750061035
+The ATM didn't give me the full requested amount,WRONG AMOUNT OF CASH RECEIVED,75,DECLINED CASH WITHDRAWAL,0.3839302062988281
+Why is there a fee for doing a transfer?,TRANSFER FEE CHARGED,64,TRANSFER FEE CHARGED,0.38140439987182617
+The check I deposited yesterday isn't listed yet.  Isn't that pretty slow?  I need to see the balance increased by that check.,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,0.5204007625579834
+I had to pay a fee when buying items with my card.,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.409015417098999
+My account is showing a double charge.,TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.3717231750488281
+The cheque I deposited isn't showing in my account,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,0.4548299312591553
+The ATM machines keep declining my card and I don't know why. I thought I had money in my account. Why is this happening?,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.4506556987762451
+"I tried to make a withdrawal from the ATM, but it was cancelled.",DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.3945450782775879
+I am confused about your fee structure and was disappointed to see a fee for my transfer.,TRANSFER FEE CHARGED,64,TRANSFER FEE CHARGED,0.3799934387207031
+i do not know what this charge is for,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,CARD PAYMENT FEE CHARGED,0.4018239974975586
+Why was a fee changed for my transfer?,TRANSFER FEE CHARGED,64,TRANSFER FEE CHARGED,0.34186625480651855
+"I think I was charged twice, please help!",TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.3842196464538574
+Why is the cash not showing in my account for the check I deposited?,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,0.463423490524292
+After making a transfer from a UK account it's not showing up. How long do these transfers normally take for you? I want to be certain everything is all right.,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,TRANSFER NOT RECEIVED BY RECIPIENT,0.5030949115753174
+Why haven't I seen the cash from the cheque I deposited yet?,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,0.46315789222717285
+"When I tried to access my cash, I wasn't allowed!",DECLINED CASH WITHDRAWAL,26,CASH WITHDRAWAL CHARGE,0.37838149070739746
+I requested money from the ATM and it didn't give me as much as I requested.,WRONG AMOUNT OF CASH RECEIVED,75,DECLINED CASH WITHDRAWAL,0.4249143600463867
+I am angry that I got charged for using my card.,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.4034891128540039
+I have been charged twice on my statement.,TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.37316060066223145
+"I sent a payment, but the person I sent it to says they don't have it",TRANSFER NOT RECEIVED BY RECIPIENT,66,DECLINED CASH WITHDRAWAL,0.4227001667022705
+I shouldn't be charged any fee for transferring .,TRANSFER FEE CHARGED,64,TRANSFER FEE CHARGED,0.3543717861175537
+How long do transfers take to go though,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,TRANSFER NOT RECEIVED BY RECIPIENT,0.38440966606140137
+I transferred some money but it hasn't arrived.,TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.4117743968963623
+"Hello, can you please inform me about international transfers? I am expecting a transfer I made from France two days ago and would like to know when it will arrive.",BALANCE NOT UPDATED AFTER BANK TRANSFER,5,TRANSFER NOT RECEIVED BY RECIPIENT,0.46910595893859863
+My withdrawal from the ATM was cancelled.,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.36382436752319336
+Can you help me? I have a duplicate transaction on my account and I don't understand why.,TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.4110081195831299
+Why is this fee being charged to me after using my card?,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.40537428855895996
+Do you charge for making a withdrawal? I took some money out of my account earlier and I was charged for this.,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.40698838233947754
+"I thought I can make transfers for free, this is not fair. I bought something online from abroad and there was some weird additional fee that I've never seen before?",TRANSFER FEE CHARGED,64,TRANSFER FEE CHARGED,0.4642956256866455
+Why is there a direct debit set up in my name?,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DIRECT DEBIT PAYMENT NOT RECOGNISED,0.44371986389160156
+Why have I been charged twice?,TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.3624274730682373
+I did a transfer and was charged a fee that I shouldn't have been!,TRANSFER FEE CHARGED,64,TRANSFER FEE CHARGED,0.37712669372558594
+I sent a transfer to a friend that needs it urgently. It has already been 2 hours and still hasn't come through to her. How long does it normally take?,TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.5202522277832031
+I have been charged a fee that I didn't know about. Why have you charged me extra for card payments?,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.4305694103240967
+"I got double charged from something, what can I do?",TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.39557933807373047
+I was charged a fee for using my card. Can I check that in any way? It seems like there are occasions that I am charge for fees. Can you elaborate this?,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.4918203353881836
+Why are my withdrawals suddenly being declined?,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.35808396339416504
+why hasn't my cash arrived yet from my cheque?!,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,0.4450540542602539
+Why are you charging me a transfer fee?,TRANSFER FEE CHARGED,64,TRANSFER FEE CHARGED,0.35053491592407227
+A payment is showing twice. Why is that?,TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.3892083168029785
+I transferred money and it hasn't come yet,TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.43213582038879395
+Someone else charged my card!,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DECLINED CASH WITHDRAWAL,0.3618760108947754
+I'm waiting for my transaction to complete.,TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSACTION CHARGED TWICE,0.37142467498779297
+totally unacceptable.  I'm stranded with no cash because the ATM wouldn't give me any money!,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.4226553440093994
+I made a deposit and the balance hasn't been updated.,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,UNKNOWN,0.41258859634399414
+What's going on with my balance? Shouldn't it be a bit higher since I deposited a cheque a day ago?,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,0.5117828845977783
+I got an unexpected charge on my transfers. How can I correct this?,TRANSFER FEE CHARGED,64,UNKNOWN,0.3903224468231201
+I did not get the right amount of cash from the ATM.,WRONG AMOUNT OF CASH RECEIVED,75,DECLINED CASH WITHDRAWAL,0.40402722358703613
+A receiver let me know that they didn't receive the full transfer I completed and that it was actually a bit less than what I sent. At this point I have to make another transfer to make up for the amount missing. Can you please follow up with what's going  on here?,TRANSFER FEE CHARGED,64,TRANSFER NOT RECEIVED BY RECIPIENT,0.5889592170715332
+"Hi, I was at a restaurant later the week and when I went to look at my account I noticed that I got charged twice. I would like to get my money back from one of those transactions.",TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.4807593822479248
+I have a strange transaction on my account which appears to pertain to a cash withdrawal I made outside Nandos in Leeds.  What is that for?  Is it fraud?,CASH WITHDRAWAL CHARGE,19,DECLINED CASH WITHDRAWAL,0.5009541511535645
+Why won't cash come out of the ATM?,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.414536714553833
+what is this extra charge for a withdrawal?,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.35856080055236816
+I have made a recent check and cash deposit that isn't reflected in my balance.,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,0.46805429458618164
+When will my cheque be processed?,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,DECLINED CASH WITHDRAWAL,0.3746309280395508
+What do I do if I completed a money transfer but the recipient hasn't received it?,TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.44352030754089355
+What do I do if a transaction shows up twice?,TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.37020158767700195
+I still do not see the cash deposit in my account from last week. Why?,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,UNKNOWN,0.42342710494995117
+The ATM is messed up. It gave me less than I wanted.,WRONG AMOUNT OF CASH RECEIVED,75,DECLINED CASH WITHDRAWAL,0.3892781734466553
+"I made a cash deposit, but it hasn't shown up in my balance yet.",BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,UNKNOWN,0.41533517837524414
+A transaction is showing more than once.,TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.36573052406311035
+I don't understand why I'm being charged for using my card.,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.40935349464416504
+I paid with my card and I was charged a fee,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.40007948875427246
+I am unable to get cash from the ATM,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.37018442153930664
+When will my deposit be processed?,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,TRANSFER NOT RECEIVED BY RECIPIENT,0.3884243965148926
+I deposited money but my balance hasn't been updated yet.,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,UNKNOWN,0.3908348083496094
+I saw a fee on my app from one of my payments and I wasn't sure where it came from. Is there a way you can tell me when there's an additional fee for my payments?,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.4976367950439453
+"This morning I wanted to make a withdrawal before work, but my card was declined! Please double check it for me as this is the first time it was declined.",DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.45170164108276367
+I had to pay money for paying with my card.,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.41808652877807617
+Why was my request for cash declined?,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.3831801414489746
+I wanted $100 but only got $20,WRONG AMOUNT OF CASH RECEIVED,75,DECLINED CASH WITHDRAWAL,0.39806580543518066
+When I made a transfer I was charged extra.,TRANSFER FEE CHARGED,64,TRANSFER FEE CHARGED,0.38346242904663086
+The amount of cash I received was not the full amount,WRONG AMOUNT OF CASH RECEIVED,75,WRONG AMOUNT OF CASH RECEIVED,0.41815829277038574
+where has my transferred money gone?,TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.3992934226989746
+I need to check status as my friend hasn't got money I sent.,TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.42676663398742676
+The balance hasn't changed yet after depositing a cheque with some money.,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,0.4774796962738037
+Who should I talk to or go to resolve a duplicate charge on my statement?,TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.39936089515686035
+"Hello, is there any way to double check my card? I have never had issues with withdraws in the past, but this morning on the way to work it was unexpectedly declined.",DECLINED CASH WITHDRAWAL,26,CASH WITHDRAWAL CHARGE,0.4807398319244385
+Why am I being charged for transferring money?,TRANSFER FEE CHARGED,64,TRANSFER FEE CHARGED,0.3636481761932373
+Why was I charged extra when transferring?,TRANSFER FEE CHARGED,64,TRANSFER FEE CHARGED,0.3722660541534424
+I thought transfers were free of charge.  I bought something abroad and got charged a ridiculous fee. How do I get this problem fixed.,TRANSFER FEE CHARGED,64,TRANSFER FEE CHARGED,0.46187663078308105
+Where'd the rest of my cash go from the ATM,WRONG AMOUNT OF CASH RECEIVED,75,CASH WITHDRAWAL CHARGE,0.3985269069671631
+Why is there a fee for using my card?,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.42582106590270996
+Hello. I checked my transactions and saw I was double charged for a restaurant visit. Can I get my money back?,TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.445148229598999
+Asked for $100 but only got $20. Why would this happen?,WRONG AMOUNT OF CASH RECEIVED,75,DECLINED CASH WITHDRAWAL,0.4000420570373535
+I bought something online and it says there was a fee to transfer money. Isn't that free?,TRANSFER FEE CHARGED,64,TRANSFER FEE CHARGED,0.41676902770996094
+Why doesn't the person I sent money to see that transfer yet?,TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.4303445816040039
+Why did I get less from the ATM?,WRONG AMOUNT OF CASH RECEIVED,75,CASH WITHDRAWAL CHARGE,0.363480806350708
+Why was I double charged?,TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.37711572647094727
+Hi - I have made a transaction to my new landlord but unfortunately it shows on my end but not on the landlord's end. The numbers are correct. Can you confirm when that will go through?,TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.524423360824585
+Extra charge during transfer,TRANSFER FEE CHARGED,64,TRANSFER FEE CHARGED,0.3655731678009033
+Is the fee with my cash withdrawal a mistake?,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.38877344131469727
+I received less cash than the amount I specified in the ATM.,WRONG AMOUNT OF CASH RECEIVED,75,DECLINED CASH WITHDRAWAL,0.4044501781463623
+I have a direct debit on my records that is strange and I need help.,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DIRECT DEBIT PAYMENT NOT RECOGNISED,0.44542455673217773
+Who charged me a fee for paying by card?,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.41109228134155273
+How long will it take for my transfer to arrive?,TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.43450140953063965
+Why can't I get cash from the ATM?,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.39534497261047363
+I cant get money out of the ATM with my card.  I just put my card in the ATM but it will not allow me to take any money out.  What do I need to do to fix this?,DECLINED CASH WITHDRAWAL,26,CASH WITHDRAWAL CHARGE,0.5074377059936523
+My cash deposit isn't in my account. What happened?,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,UNKNOWN,0.4358088970184326
+I was charged multiple times for one purchase,TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.3746945858001709
+how do i avoid charges in the future,CARD PAYMENT FEE CHARGED,15,TRANSFER FEE CHARGED,0.35258030891418457
+why hasn't a transaction to a friend cleared yet?,TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.422332763671875
+"I was charged twice for a restaurant, can you take the second charge off?",TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.42053961753845215
+Looking at my statement I see that I was double charged for a payment I made.,TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.4104952812194824
+why has a cash withdrawal charged me?,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.3668022155761719
+"Hey I am standing in front of an ATM here, it only gave me 10 pounds even though I wanted to withdraw 30! Seems like the app has 30 pounds, what do I do??",WRONG AMOUNT OF CASH RECEIVED,75,CASH WITHDRAWAL CHARGE,0.4770839214324951
+"How long does it take for transfers to be approved?  I sent funds to my girlfriend, and she says that she has not seen any approved funds in her account.",TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.5059058666229248
+"There are multiple instances where you added a fee to the payment, as well as some where you didn't. Do you have an outline of when a fee will be added?",CARD PAYMENT FEE CHARGED,15,TRANSFER FEE CHARGED,0.45952558517456055
+What is the reason for the fee charge on my transfer?,TRANSFER FEE CHARGED,64,TRANSFER FEE CHARGED,0.3813161849975586
+I need a transaction reversed from my account.,TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.3615000247955322
+The bank charged me fees for withdrawing cash!,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.3520536422729492
+After taking over my card transactions I noticed that was charged twice for a restaurant purchased from earlier this week. Can you please remove one of these transactions from my account since it is not accurate?,TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.4774603843688965
+The ATM wouldn't let me withdraw cash.,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.35880494117736816
+I sent money about 5 days ago and the recipient has not received the money yet.,TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.44851088523864746
+"I transferred money, but I think I've been charged a fee for it?",TRANSFER FEE CHARGED,64,CARD PAYMENT FEE CHARGED,0.406203031539917
+Is there always a charge when withdrawing money?,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.35408759117126465
+Can you explain why I was charged extra when I used the card?,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.4116988182067871
+"So, I see a strange fee that I've never seen before after making an online purchase from abroad. I was under the impression transfers could be made for free. I don't think this seems fair.",TRANSFER FEE CHARGED,64,TRANSFER FEE CHARGED,0.46399545669555664
+How do I get my money back for a duplicated charge?,TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.38983678817749023
+"My transaction history is looking a little off. I have been charged twice for multiple different purchases, and would like to have those duplicate charges refunded.",TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.4514486789703369
+Why is there a fee on a card payment?,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.3976280689239502
+Why is there a charge when I took out money?,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.35163402557373047
+"It seems I've suddenly been charged for my recent ATM cash withdrawal. What's up with that? I though withdrawals are free, you never charged me so far!",CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.4395112991333008
+Why are you charging me fees for using my card?,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.4058711528778076
+The amount of money I pushed at the atm machine did not come out of the machine.,WRONG AMOUNT OF CASH RECEIVED,75,DECLINED CASH WITHDRAWAL,0.41327643394470215
+"How much time do transfers take? I sent money to a friend who needs it fast. It's been hours, and the money has not gone through.",TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.4825737476348877
+I'm not able to withdraw money from the ATM but I'm not sure why.,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.3858933448791504
+"extra fees on a cash withdrawal, not cool.",CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.3674898147583008
+A false direct debit payment is showing in my app,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DIRECT DEBIT PAYMENT NOT RECOGNISED,0.434741735458374
+How come there is a duplicate charge on my card?,TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.38826894760131836
+Why did I not get the amount I specified at the ATM?,WRONG AMOUNT OF CASH RECEIVED,75,DECLINED CASH WITHDRAWAL,0.39214515686035156
+I received the wrong amount of cash from the ATM. Can you help?,WRONG AMOUNT OF CASH RECEIVED,75,WRONG AMOUNT OF CASH RECEIVED,0.43339085578918457
+how come when i asked for 100 it only gave me 20.00 in the app,WRONG AMOUNT OF CASH RECEIVED,75,BALANCE NOT UPDATED AFTER BANK TRANSFER,0.44060349464416504
+I was charged twice for a few things this week when I only bought one. What do I do?,TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.4084622859954834
+The app isn't showing my transactions,TRANSFER NOT RECEIVED BY RECIPIENT,66,UNKNOWN,0.3675415515899658
+What is the time for a transfer?,TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER FEE CHARGED,0.3599672317504883
+"In reviewing my statement, I show I have two charges for the same purchase at the same time, which I have not made in duplicate? How do I get this solved?",TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.48203539848327637
+Why hasn't my transaction arrived to my friend yet?,TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.4186744689941406
+"I have not used my card all day, however, there is an unusual payment showing in my app.  I would like to have that amount reimbursed.",DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DECLINED CASH WITHDRAWAL,0.4547131061553955
+I am so angry right now!  I went to the ATM and did not get the correct amount of money I chose to withdraw.  How could this happen?  I need my money and want to know how I can get it ASAP!,WRONG AMOUNT OF CASH RECEIVED,75,CASH WITHDRAWAL CHARGE,0.507922887802124
+I did not make a direct debit payment as listed on my app,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DIRECT DEBIT PAYMENT NOT RECOGNISED,0.43819260597229004
+I did a transfer and I was charged a fee that shouldn't be there!,TRANSFER FEE CHARGED,64,TRANSFER FEE CHARGED,0.38065195083618164
+I have transferred some money but the balance hasn't changed,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,BALANCE NOT UPDATED AFTER BANK TRANSFER,0.4049346446990967
+When do i get charged a fee for using the card?,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.4049508571624756
+"It seems my card payment was completed twice. I paid at the store previously and the first one did not seem to go through. After a second attempt, it did go through. I now see within the app that I have been charged twice with one of them pending. Can you please remove the pending amount because it is clearly something that was declined?",TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.5815436840057373
+I did a cash deposit to my account but my balance is still the same. What happened?,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,UNKNOWN,0.4369642734527588
+A direct debit payment that I didn't authorise shows up in my app.,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DIRECT DEBIT PAYMENT NOT RECOGNISED,0.431427001953125
+Why hasn't my money transfer showed up yet?,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,TRANSFER NOT RECEIVED BY RECIPIENT,0.4190549850463867
+Is it possible to dispute a debit payment from a couple of months ago.,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DECLINED CASH WITHDRAWAL,0.3908579349517822
+"my balance has not changed, despite depositing a cheque",BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,0.4608275890350342
+I think I got charged twice for the same thing,TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.39504241943359375
+My cash transaction isn't showing on my receipt,TRANSFER NOT RECEIVED BY RECIPIENT,66,CASH WITHDRAWAL CHARGE,0.38208699226379395
+How long should it take for a transfer to go through? I have been waiting a while.,TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.43994855880737305
+Why hasn't the transaction I did arrive yet?,TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.41425561904907227
+I asked for cash but I did not receive all the funds,WRONG AMOUNT OF CASH RECEIVED,75,TRANSFER NOT RECEIVED BY RECIPIENT,0.41893577575683594
+"Hi,  I have transferred money but beneficiary's account is credited with less amount. Now i have transfer the difference of the amount. I think there is some issue, could you please look into this.",TRANSFER FEE CHARGED,64,TRANSFER NOT RECEIVED BY RECIPIENT,0.5059182643890381
+What happened to the transfer I did?,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,TRANSFER NOT RECEIVED BY RECIPIENT,0.38933491706848145
+There's a payment showing in the app today even though I have not used my card at all. I want a refund.,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,TRANSACTION CHARGED TWICE,0.4189145565032959
+Why was the price higher when I paid with my card?,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.4044320583343506
+Why am I seeing a fee for transferring money?,TRANSFER FEE CHARGED,64,TRANSFER FEE CHARGED,0.3368797302246094
+I have an unauthorized direct debit on my account,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DIRECT DEBIT PAYMENT NOT RECOGNISED,0.43212103843688965
+There is a transaction showing up several times.,TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.3563506603240967
+Why was my withdrawal declined,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.3694477081298828
+My account shows a direct debit charge that I have never seen before,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DIRECT DEBIT PAYMENT NOT RECOGNISED,0.42340850830078125
+How long will my transaction take?,TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.3911728858947754
+Let me know when you charge extra for payments please. I just checked the app earlier when I saw that there was an additional fee on one of the payments that I wasn't warned about before.,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.49140167236328125
+"Is there a fee when I get cash from an ATM? Is there a limit I can take out? If there is a fee, what is it?",CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.4379403591156006
+Where did my extra fee for the transfer come from?,TRANSFER FEE CHARGED,64,TRANSFER FEE CHARGED,0.3673384189605713
+"This is not right, I was told I could take out cash at the ATM for free?",CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.39785027503967285
+Please explain the fee on a transfer I made.,TRANSFER FEE CHARGED,64,TRANSFER FEE CHARGED,0.37594175338745117
+"I have done a transfer within the country a couple days ago, but it's still not there yet. Can you please check what's going on with that, the account number definitely is the right one, I've checked that several times already.",TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.5504295825958252
+Why am I being charged a hidden fee?,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.3668854236602783
+Hello I have a UK account.  Can you please check if everything is alright with it?  I made a transfer a couple hours ago but it doesn't show up yet.,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,BALANCE NOT UPDATED AFTER BANK TRANSFER,0.49115490913391113
+"I've use this account all the time, including over this past month, to pay for things from my new place abroad. I'm a really good customer, so why do I suddenly have new fees? I should be rewarded instead of charged more fees.",TRANSFER FEE CHARGED,64,CARD PAYMENT FEE CHARGED,0.5510280132293701
+Is there a reason to why I was charged twice for a transaction?,TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.38533735275268555
+Who should I contact if the amount of my withdrawal doesn't correspond to the amount that I tried to take out of my account?,WRONG AMOUNT OF CASH RECEIVED,75,DECLINED CASH WITHDRAWAL,0.4429445266723633
+"Looks like my card payment was duplicated after all. I went to pay at the store earlier, got declined once, second time it works. App still stays pending for one of the payments. Can you please remove one of them as it's wrong and clearly was declined?",TRANSACTION CHARGED TWICE,63,CARD PAYMENT FEE CHARGED,0.5197634696960449
+I tried to transfer money to a receiver and they didn't get the right amount. What is going on and who do I contact to help me?,TRANSFER FEE CHARGED,64,TRANSFER NOT RECEIVED BY RECIPIENT,0.4762001037597656
+I have a direct debit I didn't set up,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DIRECT DEBIT PAYMENT NOT RECOGNISED,0.42580175399780273
+"I made a transfer and the receiver said an amount was received, but less than the right amount. I now have to transfer more to get the remainder to the receiver. Can you tell me about this. What's been going on?",TRANSFER FEE CHARGED,64,TRANSFER NOT RECEIVED BY RECIPIENT,0.530881404876709
+It appears as though my card payment was duplicated. I paid at the store earlier today. The first time it was declined and the second time it worked. The app is still showing one of the payments to be pending. Please take one of these off because clearly the first was declined and is not correct.,TRANSACTION CHARGED TWICE,63,CARD PAYMENT FEE CHARGED,0.5964100360870361
+Is there a longer processing time for international bank transfers?,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,TRANSFER NOT RECEIVED BY RECIPIENT,0.41895341873168945
+I just sent money but the person I sent it to doesn't see it. What happened?,TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.4404335021972656
+"I made a transfer and according to the receiver ""they haven't received the right amount"" Its lesser than it should be.Now I have to transfer more money to make up for the missing amount . Can you please help me about this,what should be done",TRANSFER FEE CHARGED,64,TRANSFER NOT RECEIVED BY RECIPIENT,0.5632457733154297
+"hey, I think someone stole my card numbers. There is a purchase showing up on my app from a store pretty far away from me.. I really need that money back to pay my rent.",DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DECLINED CASH WITHDRAWAL,0.4749457836151123
+I needed cash from the ATM but I couldn't get it.,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.3796708583831787
+I don't know what this Direct Debit payment on my account is for.,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DIRECT DEBIT PAYMENT NOT RECOGNISED,0.4386589527130127
+Can you tell me why the transfer isn't showing up on my account?,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,TRANSFER NOT RECEIVED BY RECIPIENT,0.4071016311645508
+I transferred some money but the balance stayed the same.,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,BALANCE NOT UPDATED AFTER BANK TRANSFER,0.41002321243286133
+I did a transfer.  What is the extra fee?,TRANSFER FEE CHARGED,64,TRANSFER FEE CHARGED,0.37180662155151367
+The recipient doesn't see the money transaction I made,TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.42587733268737793
+You promised no fees but now I've got one. What the hell!?,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.41039347648620605
+Why is my balance still the same after a cheque deposit?,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,0.445892333984375
+Why isn't the transferred money there?,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,TRANSFER NOT RECEIVED BY RECIPIENT,0.3895556926727295
+Why hasn't my in country transfer gone through yet? I confirmed the account info a couple days ago but the payment hasn't been posted yet.,TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.4577364921569824
+I don't understand why I was charged an additional fee for this service. Can you clarify?,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.42902183532714844
+"Please double check my card - withdrawal was working fine so far, but this morning on the way to work it suddenly got declined!",DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.45586538314819336
+Is there a fee for transferring money,TRANSFER FEE CHARGED,64,TRANSFER FEE CHARGED,0.35257768630981445
+Can you tell me why I was charged extra when I withdrew money?,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.36925387382507324
+Why was there an additional fee on the payment I just made? I don't usually have additional fees applied to my payments.,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.42089366912841797
+"The ATM would not give me cash,why?",DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.3889760971069336
+I have a transaction showing up multiple times.,TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.36183691024780273
+Am I charged more for using the ATM?,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.344923734664917
+I have a direct debit I didn't make,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DIRECT DEBIT PAYMENT NOT RECOGNISED,0.4368007183074951
+"My card has been declined by two separate ATM, and I'm worried something is wrong with my account. Would you please see if my account is okay?",DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.447645902633667
+Why is my check still not showing up on my account? It's been a week already,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,0.4815850257873535
+Why can't I see a transfer to my account?,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,TRANSFER NOT RECEIVED BY RECIPIENT,0.4097886085510254
+Where did my money go? I'm not able to withdraw it from my ATM.,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.3882157802581787
+I was charged more than once in a single transaction,TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.37894248962402344
+"I deposited a check yesterday to up my account balance, but that deposit hasn't shown up yet.  It's been a day already!",BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,0.5203747749328613
+Why didn't I get the amount I requested at the ATM?,WRONG AMOUNT OF CASH RECEIVED,75,DECLINED CASH WITHDRAWAL,0.39421534538269043
+I see a direct debit that I didn't authorize,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DIRECT DEBIT PAYMENT NOT RECOGNISED,0.4331185817718506
+My money transaction can't be seen by the person I sent it to,TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.4185147285461426
+The ATM shows a withdraw of the amount of money I requested but I didn't revieve that amount in cash.,WRONG AMOUNT OF CASH RECEIVED,75,DECLINED CASH WITHDRAWAL,0.41678380966186523
+After I transferred money the balance remained the same.,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,BALANCE NOT UPDATED AFTER BANK TRANSFER,0.405184268951416
+Two days ago I did a transfer to another account within the country.  It doesn't appear the transfer went through.  I have verified the account number several times.  Could you please check on this for me?,TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.5539965629577637
+"For you, how long do transfers normally take from a UK account? I completed one just now but nothing appears. I just need to be sure everything is okay.",BALANCE NOT UPDATED AFTER BANK TRANSFER,5,TRANSFER NOT RECEIVED BY RECIPIENT,0.4729316234588623
+I recently deposited a cheque and cannot find the cash from it.,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,0.4645040035247803
+"Transferred to account is not successful, help please?",BALANCE NOT UPDATED AFTER BANK TRANSFER,5,TRANSFER NOT RECEIVED BY RECIPIENT,0.4211134910583496
+What was the cause for my card to be declined?,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.39577317237854004
+Why was I charged for getting cash?,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.36731481552124023
+How long should a cheque deposit take to show? My account hasn't updated and I want to make sure everything is okay.,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,0.5100114345550537
+I found a transfer fee - is that correct?,TRANSFER FEE CHARGED,64,TRANSFER FEE CHARGED,0.39253664016723633
+Is there a  way to  get around fees,CARD PAYMENT FEE CHARGED,15,TRANSFER FEE CHARGED,0.3986351490020752
+Why do I get a fee every time I transfer?,TRANSFER FEE CHARGED,64,TRANSFER FEE CHARGED,0.37563252449035645
+I don't see any change in my balance.,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,BALANCE NOT UPDATED AFTER BANK TRANSFER,0.40493297576904297
+I made a transfer and they haven't received the money I sent them.,TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.4310123920440674
+I was charged a fee with my cash withdrawal that I shouldn't have been charged.,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.3983345031738281
+Next time maybe let people know that buying things from another country costs extra. I used my card to purchase an item from another country and I was charged for the item and also an extra fee it looks like. I wasnt aware of this and I think I should get a refund.,TRANSFER FEE CHARGED,64,CARD PAYMENT FEE CHARGED,0.5388240814208984
+"I transferred money to a receiver within the EU and they received a lesser amount than expected.  Now I will have to send additional money to the receiver in order to make up the difference.  I'm not sure what went wrong, can you please advise?",TRANSFER FEE CHARGED,64,TRANSFER NOT RECEIVED BY RECIPIENT,0.528214693069458
+"I just moved overseas and I noticed that you are charging me more fees.  I am a loyal customer, is this how you expect to keep customers?",TRANSFER FEE CHARGED,64,TRANSFER FEE CHARGED,0.43651866912841797
+How did the extra charge on my card come in effect?,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.407947301864624
+Does it cost anything to buy something from another country? Like is there going to be hidden transfer fees or currency conversion fees?,TRANSFER FEE CHARGED,64,TRANSFER FEE CHARGED,0.39762282371520996
+A fee that shouldn't be there is there after using my card!,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.39089417457580566
+Should I be seeing a fee applied for my money transfer?,TRANSFER FEE CHARGED,64,TRANSFER FEE CHARGED,0.37305617332458496
+Why can't I withdraw cash from this ATM?,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.38997840881347656
+I can't withdraw money,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.36417102813720703
+"I tried to withdraw some money from an ATM this morning but wasn't able to get the amount of cash I needed. The amount in the app says what I was trying to withdraw was deducted, but I don't have any money. What do I do about this?",WRONG AMOUNT OF CASH RECEIVED,75,DECLINED CASH WITHDRAWAL,0.5272021293640137
+"how long does it take to transfer money, my retailer is waiting",TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.4058389663696289
+"I have moved to a new house and set up a rent payment to my landlord, it was supposed to be in her account a few days ago but it hasn't arrived.  I definitely sent it to the right place, can you confirm where the money is?",TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.5157852172851562
+"On a card payment, why is there a fee?",CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.4058396816253662
+Why was there an extra charge because I used my card to pay?,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.40535545349121094
+"I deposited a check yesterday and Im not seeing it in my account. i need the money, is there something wrong with my account? check it out please",BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,0.5259799957275391
+What should I do about a direct debit that I did not set up?,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DIRECT DEBIT PAYMENT NOT RECOGNISED,0.42963147163391113
+Why did it cost money to transfer funds?,TRANSFER FEE CHARGED,64,TRANSFER FEE CHARGED,0.3453516960144043
+My ATM withdrawal was declined.,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.36290764808654785
+I think I have an extra transfer charge.,TRANSFER FEE CHARGED,64,TRANSFER FEE CHARGED,0.35671257972717285
+I couldn't get money from the ATM,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.3654177188873291
+the money i transferred didnt arrive,TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.38738203048706055
+"I have used my account abroad for a while without any fees, why am I being charged additional fees all of a sudden?",TRANSFER FEE CHARGED,64,TRANSFER FEE CHARGED,0.3993988037109375
+I'm not seeing my cash deposit showing up in my account.,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,UNKNOWN,0.4071016311645508
+I can't recognise this Direct Debit payment.,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DIRECT DEBIT PAYMENT NOT RECOGNISED,0.39861416816711426
+Will I be charged for a cash withdrawal?,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.3519914150238037
+What is the normal time to make an international transfer? I made one a few days ago that still hasn't arrived.,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,TRANSFER NOT RECEIVED BY RECIPIENT,0.4533205032348633
+"Help, your app is showing a larger WD than I actually did earlier at an ATM.",WRONG AMOUNT OF CASH RECEIVED,75,BALANCE NOT UPDATED AFTER BANK TRANSFER,0.4296071529388428
+Why did I only receive a partial amount of what I tried to withdraw?,WRONG AMOUNT OF CASH RECEIVED,75,CASH WITHDRAWAL CHARGE,0.36792993545532227
+There is a direct debit patentp that I haven't authorized.,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DIRECT DEBIT PAYMENT NOT RECOGNISED,0.4399299621582031
+Why wasn't my bank balance updated?,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,BALANCE NOT UPDATED AFTER BANK TRANSFER,0.3981802463531494
+I paid with card and was charged a fee that shouldn't be there!,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.4061260223388672
+Why hasn't the money I transferred into my account shown up yet?,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,TRANSFER NOT RECEIVED BY RECIPIENT,0.4372529983520508
+Is it right that I've been charged for transferring money?,TRANSFER FEE CHARGED,64,TRANSFER FEE CHARGED,0.37802767753601074
+There was a strange transaction made on my account a couple weeks ago by a seller I don't recognize. May you please check on this transaction for me.,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,TRANSACTION CHARGED TWICE,0.4552907943725586
+The ATM keeps declining my Transaction . I tried two different ATMs already Would you please check if everything is okay with my account?,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.4485342502593994
+I tired to get cash in the ATM but it was cancelled,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.40121030807495117
+Why am I being charged for ATM fees?,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.3671700954437256
+I can't see the transfer that I put in.,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,TRANSFER NOT RECEIVED BY RECIPIENT,0.4065413475036621
+What is the extra fee I was charged when using an ATM?,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.37285804748535156
+How long does it take for the transfer to go through?,TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.4191601276397705
+I'm seeing a direct debit payment that is not me.,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DIRECT DEBIT PAYMENT NOT RECOGNISED,0.4300248622894287
+I made a cash withdrawl and there is a charge.  What is this?,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.3761770725250244
+who charged my card,TRANSFER FEE CHARGED,64,CARD PAYMENT FEE CHARGED,0.37746572494506836
+I got charged a service fee on my account. Can it be waived since I didn't know about it before?,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.4356541633605957
+Money that I have transferred hasn't arrived yet,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,TRANSFER NOT RECEIVED BY RECIPIENT,0.4237215518951416
+There was an unexpected fee for my cash withdrawal!,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.37340617179870605
+"I have been double charged for a couple of things this week, and would appreciate a refund for the duplicate charges.",TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.424879789352417
+Why is there a fee for cash withdrawal?,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.3518807888031006
+Why are there fees for using a card?,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.36859941482543945
+Where is the cash deposit I made?,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,TRANSFER NOT RECEIVED BY RECIPIENT,0.3877682685852051
+I payed my rent to my landlord a few days ago and he is saying the it never went though. Everything looks good to me and I even double checked the account number. I don't know what could be causing the confusion. Can you help me please?,TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.5479683876037598
+How can I request cash back? The ATM just gave me the wrong amount that I've been charged though...,WRONG AMOUNT OF CASH RECEIVED,75,CASH WITHDRAWAL CHARGE,0.4046170711517334
+I've got a repeated tranasaction on my card.,TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.3894236087799072
+I dont see my reciept,TRANSFER NOT RECEIVED BY RECIPIENT,66,DECLINED CASH WITHDRAWAL,0.3655202388763428
+Could you tell me why my cash withdrawal was declined?,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.3771841526031494
+i did not get any money but still was charged,WRONG AMOUNT OF CASH RECEIVED,75,TRANSACTION CHARGED TWICE,0.3990201950073242
+There was a direct debit I don't recognize.,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DIRECT DEBIT PAYMENT NOT RECOGNISED,0.4336123466491699
+I have not received the completed transaction.,TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.3937723636627197
+Please tell me why I was charged additionally when I used the card.,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.40994906425476074
+There is a mysterious debit transaction on my statement,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,TRANSACTION CHARGED TWICE,0.38256120681762695
+I transferred some money but it is not here yet,TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.41324520111083984
+I have gone through my statements and noticed there is a large payment that I did not make. Can i still dispute the payment? its been a while,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DECLINED CASH WITHDRAWAL,0.4457402229309082
+My bill shows the same charge more than once,TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.3861582279205322
+Why isn't my cash deposit showing up in my account?,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,0.4493858814239502
+"I see a transfer fee, but to my understand, that should have been free, what happened?",TRANSFER FEE CHARGED,64,TRANSFER FEE CHARGED,0.4036984443664551
+I was charged too many times for one transaction.,TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.3719973564147949
+I can't withdraw any money from my account. Ive tried a couple different ATM machines and both of them wouldn't give me my money. What's going on? Is my account frozen or something?,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.4536299705505371
+What happens with the duplicate charge in my account?,TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.3896512985229492
+what is this charge i didnt do it what can i do,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,CARD PAYMENT FEE CHARGED,0.40540432929992676
+"About two days ago now, I made a transfer from France but it hasn't arrived yet. Is it possible that the international transfer just takes longer?",BALANCE NOT UPDATED AFTER BANK TRANSFER,5,TRANSFER NOT RECEIVED BY RECIPIENT,0.4795825481414795
+"I tried to withdraw cash and got declined, why is that?",DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.3890225887298584
+I see a direct debit transaction in the app that is not mine,DIRECT DEBIT PAYMENT NOT RECOGNISED,28,DIRECT DEBIT PAYMENT NOT RECOGNISED,0.4327964782714844
+Why hasn't a transaction I did to my friend arrived yet?,TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.42180418968200684
+Why was I charged for transferring money?,TRANSFER FEE CHARGED,64,TRANSFER FEE CHARGED,0.34980225563049316
+Why was I charged a fee for using my card,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.370729923248291
+When will my transfer process?,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,TRANSFER NOT RECEIVED BY RECIPIENT,0.38550591468811035
+Anytime I've made an ATM withdrawal before it has always been free. I now say that I have been charged for my most recent ATM withdrawal. What's going on here?,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.45884037017822266
+Why can I not take out cash?,DECLINED CASH WITHDRAWAL,26,CASH WITHDRAWAL CHARGE,0.34838438034057617
+I attempted to deposit a cheque yesterday but the balance isn't showing today. Is it still pending?,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,0.4759509563446045
+"I shouldn't have been charged but I see a fee, why?",CARD PAYMENT FEE CHARGED,15,TRANSFER FEE CHARGED,0.3830282688140869
+"Why did I not get all the money that I asked for? I asked for all the cash in my my account, but I only got about half. Why is that??",WRONG AMOUNT OF CASH RECEIVED,75,UNKNOWN,0.5049443244934082
+How long will it take for the cash I deposited this morning to show up?,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,TRANSFER NOT RECEIVED BY RECIPIENT,0.4196910858154297
+"Why am I being charged for ATM cash withdrawals? The only reason I use it is because it's been free! Now you expect me to pay for them, and how much is that going to cost me?",CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.5047900676727295
+Why can't the person I sent the money transfer to see it?,TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.41382336616516113
+The ATM keeps declining my Transaction . I tried two different ATMs already can you please check if everything is okay with my account?,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.45485687255859375
+I tried to pull cash from an ATM but it wouldn't let me.,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.3842427730560303
+I was charged a fee for withdrawing cash.,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.35286831855773926
+I have a fee listed for a transfer.,TRANSFER FEE CHARGED,64,TRANSFER FEE CHARGED,0.3489072322845459
+I got charged fees for withdrawing cash!,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.3596925735473633
+I think there is a mistake.  I am being charged twice.,TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.3937671184539795
+Why hasn't my balance been updated from the check deposit I made?,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,0.46009302139282227
+You charged me more than once for the same transaction!,TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.42766642570495605
+I have a friend who needs money as soon as possibly. If I were to transfer it how long will it take to get to her?,TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.479644775390625
+How long does it take for money to transfer?,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,TRANSFER NOT RECEIVED BY RECIPIENT,0.4128727912902832
+Can you tell me why I was charged to withdraw cash?,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.3711068630218506
+"Hi, I made a transfer from France two days ago and thought it would be here by now. Can you give me an update please?",BALANCE NOT UPDATED AFTER BANK TRANSFER,5,TRANSFER NOT RECEIVED BY RECIPIENT,0.4562232494354248
+I cannot withdraw money from the ATM,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.36499619483947754
+Why was i charged for making a withdrawal? After i went grocery shopping i withdrew some money from my account and now there is another charge.,CASH WITHDRAWAL CHARGE,19,CASH WITHDRAWAL CHARGE,0.43185901641845703
+Why and I being charged this fee?,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.37435340881347656
+Why was I blocked from withdrawing from the ATM?,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.3600444793701172
+Why is my cash deposit not in my account?,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,0.43576717376708984
+Why am I being charged for the same thing twice?,TRANSACTION CHARGED TWICE,63,TRANSACTION CHARGED TWICE,0.3902566432952881
+I made a transfer but my balance hasn't been updated,BALANCE NOT UPDATED AFTER BANK TRANSFER,5,BALANCE NOT UPDATED AFTER BANK TRANSFER,0.4057118892669678
+I had an unexpected fee,TRANSFER FEE CHARGED,64,CARD PAYMENT FEE CHARGED,0.3798677921295166
+"Bank transfer to account did not show up, please help?",BALANCE NOT UPDATED AFTER BANK TRANSFER,5,TRANSFER NOT RECEIVED BY RECIPIENT,0.4234457015991211
+Why is my deposit still pending?,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,0.43669915199279785
+What is this extra fee that I got when I used my card to pay?,CARD PAYMENT FEE CHARGED,15,CARD PAYMENT FEE CHARGED,0.4032468795776367
+Why hasn't my friend received the transaction?,TRANSFER NOT RECEIVED BY RECIPIENT,66,TRANSFER NOT RECEIVED BY RECIPIENT,0.3935859203338623
+I could not get money from an ATM,DECLINED CASH WITHDRAWAL,26,DECLINED CASH WITHDRAWAL,0.36454081535339355
+When will I receive the cash payment from the check I deposited?,BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT,6,TRANSFER NOT RECEIVED BY RECIPIENT,0.40622377395629883

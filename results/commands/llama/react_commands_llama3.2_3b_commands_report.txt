@@ -1,0 +1,27 @@
+================== COMMANDS PERFORMANCE REPORT ==================
+Dataset: dataset_commands.xlsx
+Prompt: react_commands
+Model: llama3.2:3b
+Valid Accuracy: 86.00%
+Strict Accuracy Including UNKNOWN: 86.00%
+Average Inference Latency: 1.8700 seconds
+Unknown Predictions: 0
+
+Detailed Classification Matrix:
+                                                  precision    recall  f1-score   support
+
+         BALANCE NOT UPDATED AFTER BANK TRANSFER       0.82      0.65      0.73       100
+BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT       0.95      0.96      0.96       100
+                        CARD PAYMENT FEE CHARGED       0.82      0.97      0.89       100
+                          CASH WITHDRAWAL CHARGE       0.96      0.95      0.95       100
+                        DECLINED CASH WITHDRAWAL       0.77      1.00      0.87       100
+             DIRECT DEBIT PAYMENT NOT RECOGNISED       0.86      0.89      0.87       100
+                       TRANSACTION CHARGED TWICE       0.99      0.96      0.97       100
+                            TRANSFER FEE CHARGED       0.86      0.76      0.81       100
+              TRANSFER NOT RECEIVED BY RECIPIENT       0.66      0.73      0.69       100
+                   WRONG AMOUNT OF CASH RECEIVED       1.00      0.73      0.84       100
+
+                                        accuracy                           0.86      1000
+                                       macro avg       0.87      0.86      0.86      1000
+                                    weighted avg       0.87      0.86      0.86      1000
+================================================================

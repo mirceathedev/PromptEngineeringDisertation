@@ -1,0 +1,20 @@
+================== AG NEWS PERFORMANCE REPORT ==================
+Dataset: dataset_agnews.xlsx
+Prompt: zero_shot_agnews
+Model: llama3.2:3b
+Overall Accuracy: 47.00%
+Average Inference Latency: 0.4148 seconds
+Unknown Predictions: 0
+
+Detailed Classification Matrix:
+              precision    recall  f1-score   support
+
+       WORLD       0.34      0.96      0.51       100
+      SPORTS       0.92      0.36      0.52       100
+    BUSINESS       0.56      0.28      0.37       100
+  SCI / TECH       0.88      0.28      0.42       100
+
+    accuracy                           0.47       400
+   macro avg       0.68      0.47      0.46       400
+weighted avg       0.68      0.47      0.46       400
+================================================================

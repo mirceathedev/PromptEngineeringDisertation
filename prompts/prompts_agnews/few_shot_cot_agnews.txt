@@ -1,0 +1,122 @@
+You are an AG News topic classifier.
+
+Classify the news article into exactly ONE label:
+
+[WORLD]
+[SPORTS]
+[BUSINESS]
+[SCI / TECH]
+
+Use short chain-of-thought reasoning before the label.
+
+Reason in this order:
+1. Main topic: what is the article mainly about?
+2. Boundary check: why is this not mainly one of the other categories?
+3. Label: choose the dominant AG News category.
+
+Label meanings:
+
+[WORLD]
+Politics, war, diplomacy, governments, elections, countries, international relations, disasters, courts, public security, hostage crises, or global public affairs.
+
+[SPORTS]
+Teams, athletes, games, tournaments, scores, matches, coaches, leagues, player status, injuries, arenas, or sporting events.
+
+[BUSINESS]
+Economy, finance, companies, markets, stocks, earnings, trade, mergers, banking, jobs, ownership, lawsuits, refunds, profits, sales, or business forecasts.
+
+[SCI / TECH]
+Science, technology, software, hardware, internet, search engines, AI, cybersecurity, telecom, gadgets, space, medicine, research, viruses, malware, or technical innovation.
+
+Critical rules:
+- Choose the MAIN topic, not isolated words.
+- Do NOT choose [WORLD] just because the text is news.
+- Do NOT choose [BUSINESS] just because a company is mentioned.
+- Do NOT choose [SCI / TECH] just because a technology company is mentioned.
+- A sports team sale can still be [SPORTS] if the article is mainly about the team as a sports entity.
+- A technology company lawsuit or earnings story is [BUSINESS] if the main topic is financial/legal activity.
+- A software, search, virus, hardware, medicine, science, or research story is [SCI / TECH] if the main topic is the technology itself.
+
+Examples:
+
+Article:
+Armed Athens Bus Hijackers Release Five Hostages (Update2) Hijackers who took as many as 26 people hostage on a commuter bus on the outskirts of Athens released five of the captives. Police are in negotiations to free the remaining hostages, a spokeswoman said.
+
+Reasoning:
+Main topic: hostage crisis and police negotiations.
+Boundary check: not sports, business, or technology; it is public security.
+Label:
+[WORLD]
+
+Article:
+George sits for first time in career Irving, TX (Sports Network) - Dallas Cowboys running back Eddie George was inactive for Sunday's game against New Orleans as a healthy scratch and missed a game for the first time in his NFL career.
+
+Reasoning:
+Main topic: NFL player status and game absence.
+Boundary check: not world or business; the focus is a sports team/player.
+Label:
+[SPORTS]
+
+Article:
+American Express sues credit card rivals American Express is suing Visa and MasterCard plus eight US banks, claiming anti-competitive tactics kept it out of the market.
+
+Reasoning:
+Main topic: company lawsuit and credit card market competition.
+Boundary check: not technology itself; the focus is corporate/legal business activity.
+Label:
+[BUSINESS]
+
+Article:
+Autonomy, Mamma.com Join Desktop Search Ranks Not to be left out of desktop search, two search vendors on Monday leaped into the growing space for managing e-mail, documents and other hard-drive data.
+
+Reasoning:
+Main topic: desktop search software and data management.
+Boundary check: not business performance; the focus is the technology product.
+Label:
+[SCI / TECH]
+
+Article:
+Blair Flies to Stand by Bush in Post-Arafat Plans (Reuters) Reuters - As George W. Bush formulates his plans for a Middle East without Yasser Arafat, British Prime Minister Tony Blair will be standing where he says he belongs: right by the U.S. president's side.
+
+Reasoning:
+Main topic: international diplomacy and Middle East policy.
+Boundary check: not business, sports, or technology; it concerns governments.
+Label:
+[WORLD]
+
+Article:
+Canucks Announce Partial Sale VANCOUVER, British Columbia (Sports Network) - The Vancouver Canucks Wednesday announced the sale of 50 percent of the team and its arena, General Motors Place.
+
+Reasoning:
+Main topic: sale involving a sports team and arena.
+Boundary check: despite sale language, the article is framed around the Canucks sports organization.
+Label:
+[SPORTS]
+
+Article:
+Apology, refund from cruise line In a move almost unheard of in its industry, Norwegian Cruise Line has apologized for service problems during the Pride of Aloha's first two months of sailing around Hawaii, and is refunding a portion of the service charge to everyone who has cruised on
+
+Reasoning:
+Main topic: cruise company refund and service problems.
+Boundary check: not world travel news; the focus is corporate customer service.
+Label:
+[BUSINESS]
+
+Article:
+Viruses: Blame Microsoft? Last year we explored the question of Microsoft's potential liability for software flaws exploited by viruses and other forms of malware.
+
+Reasoning:
+Main topic: software flaws, viruses, and malware.
+Boundary check: despite Microsoft liability, the focus is the technical security issue.
+Label:
+[SCI / TECH]
+
+Now classify the next article.
+
+Output exactly:
+
+Reasoning:
+Main topic: <short phrase>
+Boundary check: <short phrase>
+Label:
+[ONE LABEL]

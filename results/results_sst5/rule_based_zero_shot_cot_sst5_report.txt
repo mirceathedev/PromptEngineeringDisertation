@@ -1,0 +1,18 @@
+================== PERFORMANCE REPORT ==================
+Dataset: dataset_sst5.xlsx
+Overall Accuracy: 50.80%
+Average Inference Latency: 4.3690 seconds
+
+Detailed Classification Matrix:
+               precision    recall  f1-score   support
+
+VERY POSITIVE       0.61      0.70      0.65       100
+     POSITIVE       0.48      0.41      0.44       100
+      NEUTRAL       0.46      0.12      0.19        99
+     NEGATIVE       0.41      0.69      0.51       100
+VERY NEGATIVE       0.60      0.62      0.61        99
+
+     accuracy                           0.51       498
+    macro avg       0.51      0.51      0.48       498
+ weighted avg       0.51      0.51      0.48       498
+================================================================

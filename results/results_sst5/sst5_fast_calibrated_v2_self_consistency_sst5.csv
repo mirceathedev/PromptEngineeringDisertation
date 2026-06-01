@@ -1,0 +1,4501 @@
+review_text,label,label_text,ground_truth,predicted_sentiment,latency_seconds,consistency_run_labels,raw_model_outputs
+contradicts everything we 've come to expect from movies nowadays .,3,positive,POSITIVE,VERY NEGATIVE,2.9413766860961914,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]"
+"should n't have been allowed to use the word `` new '' in its title , because there 's not an original character , siuation or joke in the entire movie .",0,very negative,VERY NEGATIVE,VERY NEGATIVE,0.7073955535888672,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]"
+"it 's good , hard-edged stuff , violent and a bit exploitative but also nicely done , morally alert and street-smart .",3,positive,POSITIVE,POSITIVE,0.6700172424316406,POSITIVE | POSITIVE | POSITIVE,"[POSITIVE]
+
+--- RUN ---
+
+[POSITIVE]
+
+--- RUN ---
+
+[POSITIVE]"
+coal is n't as easy to come by as it used to be and this would be a worthy substitute for naughty children 's stockings .,1,negative,NEGATIVE,VERY NEGATIVE,0.7186069488525391,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]"
+the film is strictly routine .,1,negative,NEGATIVE,NEGATIVE,0.57761549949646,NEGATIVE | NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+"if you answered yes , by all means enjoy the new guy .",3,positive,POSITIVE,VERY NEGATIVE,0.6671597957611084,VERY NEGATIVE | VERY NEGATIVE | NEGATIVE,"[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+"for those of an indulgent , slightly sunbaked and summery mind , sex and lucia may well prove diverting enough .",3,positive,POSITIVE,VERY POSITIVE,0.7311720848083496,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]"
+"... a fascinating curiosity piece -- fascinating , that is , for about ten minutes .",1,negative,NEGATIVE,NEGATIVE,0.6800951957702637,NEUTRAL | NEGATIVE | NEGATIVE,"[NEUTRAL]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+"cold , sterile and lacking any color or warmth .",0,very negative,VERY NEGATIVE,NEGATIVE,0.6425869464874268,NEGATIVE | NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+"while general audiences might not come away with a greater knowledge of the facts of cuban music , they 'll be treated to an impressive and highly entertaining celebration of its sounds .",4,very positive,VERY POSITIVE,VERY POSITIVE,0.7307188510894775,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]"
+"it 's a frightful vanity film that , no doubt , pays off what debt miramax felt they owed to benigni .",0,very negative,VERY NEGATIVE,VERY NEGATIVE,0.7212169170379639,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]"
+the film never finds its tone and several scenes run too long .,1,negative,NEGATIVE,NEGATIVE,0.6549804210662842,NEGATIVE | NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+"a strong first act and absolutely , inescapably gorgeous , skyscraper-trapeze motion of the amazing spider-man .",4,very positive,VERY POSITIVE,VERY POSITIVE,0.7454309463500977,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+never capitalizes on this concept and opts for the breezy and amateurish feel of an after school special on the subject of tolerance .,0,very negative,VERY NEGATIVE,VERY NEGATIVE,0.7046933174133301,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]"
+"these characters are so well established that the gang feels comfortable with taking insane liberties and doing the goofiest stuff out of left field , and i 'm all for that .",3,positive,POSITIVE,VERY POSITIVE,0.7414379119873047,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]"
+a solidly entertaining little film .,3,positive,POSITIVE,POSITIVE,0.5976834297180176,POSITIVE | POSITIVE | POSITIVE,"[POSITIVE]
+
+--- RUN ---
+
+[POSITIVE]
+
+--- RUN ---
+
+[POSITIVE]"
+it 's anchored by splendid performances from an honored screen veteran and a sparkling newcomer who instantly transform themselves into a believable mother\/daughter pair .,4,very positive,VERY POSITIVE,VERY POSITIVE,0.7679953575134277,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]"
+"the characters are so generic and the plot so bland that even as rogue cia assassins working for chris cooper 's agency boss close in on the resourceful amnesiac , we do n't feel much for damon\/bourne or his predicament .",0,very negative,VERY NEGATIVE,NEGATIVE,0.7290065288543701,NEGATIVE | NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+"it 's an entertaining movie , and the effects , boosted to the size of a downtown hotel , will all but take you to outer space .",3,positive,POSITIVE,VERY POSITIVE,0.7186229228973389,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]"
+"unfolds with such a wallop of you-are-there immediacy that when the bullets start to fly , your first instinct is to duck .",4,very positive,VERY POSITIVE,VERY POSITIVE,0.7673649787902832,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+begins like a docu-drama but builds its multi-character story with a flourish .,4,very positive,VERY POSITIVE,NEUTRAL,0.6974501609802246,NEUTRAL | NEUTRAL | POSITIVE,"[NEUTRAL]
+
+--- RUN ---
+
+[NEUTRAL]
+
+--- RUN ---
+
+[POSITIVE]"
+"the best comedy concert movie i 've seen since cho 's previous concert comedy film , i 'm the one that i want , in 2000 .",4,very positive,VERY POSITIVE,VERY POSITIVE,0.836280345916748,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+ruh-roh !,2,neutral,NEUTRAL,VERY NEGATIVE,0.6550807952880859,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]"
+"by the end of the movie , you 're definitely convinced that these women are spectacular .",3,positive,POSITIVE,VERY POSITIVE,0.7105329036712646,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]"
+"in all the annals of the movies , few films have been this odd , inexplicable and unpleasant .",0,very negative,VERY NEGATIVE,VERY NEGATIVE,0.7221662998199463,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]"
+"ms. seigner and mr. serrault bring fresh , unforced naturalism to their characters .",4,very positive,VERY POSITIVE,POSITIVE,0.7095603942871094,POSITIVE | POSITIVE | POSITIVE,"[POSITIVE]
+
+--- RUN ---
+
+[POSITIVE]
+
+--- RUN ---
+
+[POSITIVE]"
+"it 's a fine , focused piece of work that reopens an interesting controversy and never succumbs to sensationalism .",4,very positive,VERY POSITIVE,VERY POSITIVE,0.6974990367889404,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+"once again , the intelligence of gay audiences has been grossly underestimated , and a meaty plot and well-developed characters have been sacrificed for skin and flash that barely fizzle .",2,neutral,NEUTRAL,VERY NEGATIVE,0.7488155364990234,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]"
+"they presume their audience wo n't sit still for a sociology lesson , however entertainingly presented , so they trot out the conventional science-fiction elements of bug-eyed monsters and futuristic women in skimpy clothes .",1,negative,NEGATIVE,NEGATIVE,0.7782309055328369,NEGATIVE | VERY NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+"ambitious , unsettling psychodrama that takes full , chilling advantage of its rough-around-the-edges , low-budget constraints .",3,positive,POSITIVE,VERY POSITIVE,0.6867780685424805,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+"it 's no surprise that as a director washington demands and receives excellent performances , from himself and from newcomer derek luke .",4,very positive,VERY POSITIVE,VERY POSITIVE,0.7074117660522461,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+i could n't recommend this film more .,3,positive,POSITIVE,VERY POSITIVE,0.6472861766815186,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+"the kind of movie that comes along only occasionally , one so unconventional , gutsy and perfectly executed it takes your breath away .",4,very positive,VERY POSITIVE,VERY POSITIVE,0.7882261276245117,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+"shatner is probably the funniest person in the film , which gives you an idea just how bad it was .",1,negative,NEGATIVE,VERY NEGATIVE,0.6989650726318359,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]"
+and it 's a lousy one at that .,0,very negative,VERY NEGATIVE,VERY NEGATIVE,0.674187421798706,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]"
+leigh makes these lives count .,3,positive,POSITIVE,VERY POSITIVE,0.6528651714324951,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+compellingly watchable .,4,very positive,VERY POSITIVE,POSITIVE,0.6210002899169922,POSITIVE | POSITIVE | POSITIVE,"[POSITIVE]
+
+--- RUN ---
+
+[POSITIVE]
+
+--- RUN ---
+
+[POSITIVE]"
+men in black ii achieves ultimate insignificance -- it 's the sci-fi comedy spectacle as whiffle-ball epic .,0,very negative,VERY NEGATIVE,VERY NEGATIVE,0.7041442394256592,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]"
+"many shallower movies these days seem too long , but this one is egregiously short .",2,neutral,NEUTRAL,VERY NEGATIVE,0.7184138298034668,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]"
+most of the storylines feel like time fillers between surf shots .,0,very negative,VERY NEGATIVE,NEGATIVE,0.6597297191619873,NEGATIVE | NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+"she is a lioness , protecting her cub , and he a reluctant villain , incapable of controlling his crew .",3,positive,POSITIVE,VERY POSITIVE,0.7275903224945068,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+there 's no disguising this as one of the worst films of the summer .,0,very negative,VERY NEGATIVE,VERY NEGATIVE,0.6823890209197998,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]"
+"with an obvious rapport with her actors and a striking style behind the camera , hélène angel is definitely a director to watch .",4,very positive,VERY POSITIVE,VERY POSITIVE,0.7419188022613525,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+a cockeyed shot all the way .,1,negative,NEGATIVE,VERY POSITIVE,0.6384847164154053,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+it 's a drag how nettelbeck sees working women -- or at least this working woman -- for whom she shows little understanding .,0,very negative,VERY NEGATIVE,VERY NEGATIVE,0.76601243019104,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]"
+highly uneven and inconsistent ... margarita happy hour kinda resembles the el cheapo margaritas served within .,0,very negative,VERY NEGATIVE,VERY NEGATIVE,0.7041749954223633,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]"
+final verdict : you 've seen it all before .,0,very negative,VERY NEGATIVE,NEGATIVE,0.6335294246673584,NEGATIVE | NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+the master of disguise is awful .,0,very negative,VERY NEGATIVE,VERY NEGATIVE,0.6432845592498779,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]"
+could i have been more geeked when i heard that apollo 13 was going to be released in imax format ?,4,very positive,VERY POSITIVE,VERY POSITIVE,0.7633981704711914,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+there 's not one decent performance from the cast and not one clever line of dialogue .,0,very negative,VERY NEGATIVE,VERY NEGATIVE,0.69394850730896,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]"
+stay away .,0,very negative,VERY NEGATIVE,VERY NEGATIVE,0.7210483551025391,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]"
+"the plot has a number of holes , and at times it 's simply baffling .",1,negative,NEGATIVE,NEGATIVE,0.6720364093780518,NEGATIVE | NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+"an inexperienced director , mehta has much to learn .",1,negative,NEGATIVE,NEGATIVE,0.6226320266723633,NEGATIVE | NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+"not only does spider-man deliver , but i suspect it might deliver again and again .",4,very positive,VERY POSITIVE,VERY POSITIVE,0.6756768226623535,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+"not only does leblanc make one spectacularly ugly-looking broad , but he appears miserable throughout as he swaggers through his scenes .",1,negative,NEGATIVE,VERY NEGATIVE,0.7218165397644043,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]"
+"the biggest problem with roger avary 's uproar against the mpaa is that , even in all its director 's cut glory , he 's made a film that 's barely shocking , barely interesting and most of all , barely anything .",0,very negative,VERY NEGATIVE,VERY NEGATIVE,0.8156812191009521,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]"
+contrived pastiche of caper clichés .,1,negative,NEGATIVE,NEGATIVE,0.6639373302459717,VERY NEGATIVE | NEGATIVE | NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+"lots of effort and intelligence are on display but in execution it is all awkward , static , and lifeless rumblings .",0,very negative,VERY NEGATIVE,NEGATIVE,0.6782054901123047,NEGATIVE | NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+"you end up simply admiring this bit or that , this performance or that .",2,neutral,NEUTRAL,VERY POSITIVE,0.684067964553833,VERY POSITIVE | NEUTRAL | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[NEUTRAL]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+"the effort is sincere and the results are honest , but the film is so bleak that it 's hardly watchable .",0,very negative,VERY NEGATIVE,VERY NEGATIVE,0.7052936553955078,NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]"
+"hashiguchi covers this territory with wit and originality , suggesting that with his fourth feature -- the first to be released in the u.s. -- a major director is emerging in world cinema .",4,very positive,VERY POSITIVE,VERY POSITIVE,0.7469127178192139,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+kaufman and jonze take huge risks to ponder the whole notion of passion -- our desire as human beings for passion in our lives and the emptiness one feels when it is missing .,2,neutral,NEUTRAL,VERY POSITIVE,0.7891976833343506,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+"it 's a square , sentimental drama that satisfies , as comfort food often can .",3,positive,POSITIVE,POSITIVE,0.753225564956665,NEUTRAL | POSITIVE | VERY POSITIVE,"[NEUTRAL]
+
+--- RUN ---
+
+[POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+"it 's refreshing that someone understands the need for the bad boy ; diesel , with his brawny frame and cool , composed delivery , fits the bill perfectly .",4,very positive,VERY POSITIVE,VERY POSITIVE,0.8007142543792725,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]"
+a cheap scam put together by some cynical creeps at revolution studios and imagine entertainment to make the suckers out there surrender $ 9 and 93 minutes of unrecoverable life .,0,very negative,VERY NEGATIVE,VERY NEGATIVE,0.8853042125701904,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]"
+but the movie that does n't really deliver for country music fans or for family audiences,0,very negative,VERY NEGATIVE,NEGATIVE,0.706751823425293,NEGATIVE | NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+"not only better than its predecessor , it may rate as the most magical and most fun family fare of this or any recent holiday season .",4,very positive,VERY POSITIVE,VERY POSITIVE,0.7491099834442139,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+suffers from a lack of clarity and audacity that a subject as monstrous and pathetic as dahmer demands .,0,very negative,VERY NEGATIVE,VERY NEGATIVE,0.7412669658660889,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]"
+warmed-over hash .,2,neutral,NEUTRAL,VERY NEGATIVE,0.6643128395080566,VERY NEGATIVE | VERY NEGATIVE | NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+a flawed but engrossing thriller .,3,positive,POSITIVE,POSITIVE,0.6203455924987793,POSITIVE | POSITIVE | POSITIVE,"[POSITIVE]
+
+--- RUN ---
+
+[POSITIVE]
+
+--- RUN ---
+
+[POSITIVE]"
+"the filmmakers want nothing else than to show us a good time , and in their cheap , b movie way , they succeed .",3,positive,POSITIVE,VERY POSITIVE,0.7277727127075195,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+its spirit of iconoclastic abandon -- however canned -- makes for unexpectedly giddy viewing .,3,positive,POSITIVE,VERY POSITIVE,0.7109372615814209,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+"though excessively tiresome , the uncertainty principle , as verbally pretentious as the title may be , has its handful of redeeming features , as long as you discount its ability to bore .",2,neutral,NEUTRAL,VERY NEGATIVE,0.842090368270874,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]"
+"it may not be history -- but then again , what if it is ?",2,neutral,NEUTRAL,VERY POSITIVE,0.7287144660949707,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+"it is as uncompromising as it is nonjudgmental , and makes clear that a prostitute can be as lonely and needy as any of the clients .",3,positive,POSITIVE,VERY POSITIVE,0.7959065437316895,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]"
+"may be more genial than ingenious , but it gets the job done .",3,positive,POSITIVE,POSITIVE,0.653221607208252,POSITIVE | NEUTRAL | POSITIVE,"[POSITIVE]
+
+--- RUN ---
+
+[NEUTRAL]
+
+--- RUN ---
+
+[POSITIVE]"
+"bacon keeps things interesting , but do n't go out of your way to pay full price .",2,neutral,NEUTRAL,VERY POSITIVE,0.7207915782928467,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+"a ` girls gone wild ' video for the boho art-house crowd , the burning sensation is n't a definitive counter-cultural document -- its makers are n't removed and inquisitive enough for that .",0,very negative,VERY NEGATIVE,VERY NEGATIVE,0.7873754501342773,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]"
+this is an interesting movie ! '',4,very positive,VERY POSITIVE,VERY POSITIVE,0.6492350101470947,VERY POSITIVE | VERY POSITIVE | POSITIVE,"[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]
+
+--- RUN ---
+
+[POSITIVE]"
+give credit to everyone from robinson down to the key grip that this bold move works .,4,very positive,VERY POSITIVE,VERY POSITIVE,0.7409615516662598,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+` opening up ' the play more has partly closed it down .,1,negative,NEGATIVE,NEGATIVE,0.6627712249755859,NEGATIVE | NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+"this movie , a certain scene in particular , brought me uncomfortably close to losing my lunch .",0,very negative,VERY NEGATIVE,VERY NEGATIVE,0.7826037406921387,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]"
+takes a simple premise and carries it to unexpected heights .,4,very positive,VERY POSITIVE,VERY POSITIVE,0.7098937034606934,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+"high crimes carries almost no organic intrigue as a government \/ marine\/legal mystery , and that 's because the movie serves up all of that stuff , nearly subliminally , as the old-hat province of male intrigue .",1,negative,NEGATIVE,VERY NEGATIVE,0.8360915184020996,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]"
+"though a touch too arthouse 101 in its poetic symbolism , heaven proves to be a good match of the sensibilities of two directors .",3,positive,POSITIVE,VERY POSITIVE,0.7312991619110107,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]"
+a mean-spirited film made by someone who surely read the catcher in the rye but clearly suffers from dyslexia,0,very negative,VERY NEGATIVE,VERY NEGATIVE,0.7688968181610107,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]"
+i have to admit that i am baffled by jason x.,1,negative,NEGATIVE,VERY NEGATIVE,0.7333199977874756,VERY NEGATIVE | VERY NEGATIVE | NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+"admirers of director abel ferrara may be relieved that his latest feature , r xmas , marks a modest if encouraging return to form .",4,very positive,VERY POSITIVE,VERY POSITIVE,0.8011665344238281,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]"
+the movie is so thoughtlessly assembled .,3,positive,POSITIVE,NEGATIVE,0.6481139659881592,NEGATIVE | NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+the most anti-human big studio picture since 3000 miles to graceland .,2,neutral,NEUTRAL,VERY NEGATIVE,0.6799829006195068,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]"
+more good than great but freeman and judd make it work .,3,positive,POSITIVE,POSITIVE,0.6708893775939941,POSITIVE | POSITIVE | POSITIVE,"[POSITIVE]
+
+--- RUN ---
+
+[POSITIVE]
+
+--- RUN ---
+
+[POSITIVE]"
+australian filmmaker david flatman uses the huge-screen format to make an old-fashioned nature film that educates viewers with words and pictures while entertaining them .,4,very positive,VERY POSITIVE,VERY POSITIVE,0.786445140838623,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]"
+"there is little question that this is a serious work by an important director who has something new to say about how , in the flip-flop of courtship , we often reel in when we should be playing out .",3,positive,POSITIVE,VERY POSITIVE,0.8417155742645264,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]"
+"the wonderfully lush morvern callar is pure punk existentialism , and ms. ramsay and her co-writer , liana dognini , have dramatized the alan warner novel , which itself felt like an answer to irvine welsh 's book trainspotting .",3,positive,POSITIVE,VERY POSITIVE,0.9044780731201172,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]"
+"a triumph , a film that hews out a world and carries us effortlessly from darkness to light .",4,very positive,VERY POSITIVE,VERY POSITIVE,0.714801549911499,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+"this amiable picture talks tough , but it 's all bluster -- in the end it 's as sweet as greenfingers ...",3,positive,POSITIVE,VERY POSITIVE,0.7357180118560791,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]"
+"confuses its message with an ultimate desire to please , and contorting itself into an idea of expectation is the last thing any of these three actresses , nor their characters , deserve .",0,very negative,VERY NEGATIVE,VERY NEGATIVE,0.7761726379394531,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]"
+... overly melodramatic ...,0,very negative,VERY NEGATIVE,NEGATIVE,0.640444278717041,NEGATIVE | VERY NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+"a colorful , joyous celebration of life ; a tapestry woven of romance , dancing , singing , and unforgettable characters .",4,very positive,VERY POSITIVE,VERY POSITIVE,0.7062199115753174,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+"the film is like sitting in a downtown café , overhearing a bunch of typical late-twenty-somethings natter on about nothing , and desperately wishing you could change tables .",0,very negative,VERY NEGATIVE,VERY NEGATIVE,0.7683696746826172,VERY NEGATIVE | VERY NEGATIVE | NEGATIVE,"[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+if only there were one for this kind of movie .,2,neutral,NEUTRAL,VERY NEGATIVE,0.7109503746032715,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]"
+"for devotees of french cinema , safe conduct is so rich with period minutiae it 's like dying and going to celluloid heaven .",4,very positive,VERY POSITIVE,VERY POSITIVE,0.7845890522003174,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]"
+as pedestrian as they come .,0,very negative,VERY NEGATIVE,NEGATIVE,0.669628381729126,NEGATIVE | NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+a metaphor for a modern-day urban china searching for its identity .,3,positive,POSITIVE,VERY POSITIVE,0.7305898666381836,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+it treats ana 's journey with honesty that is tragically rare in the depiction of young women in film .,3,positive,POSITIVE,VERY POSITIVE,0.7257523536682129,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+it shows that some studios firmly believe that people have lost the ability to think and will forgive any shoddy product as long as there 's a little girl-on-girl action .,0,very negative,VERY NEGATIVE,VERY NEGATIVE,0.8139786720275879,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]"
+jonathan parker 's bartleby should have been the be-all-end-all of the modern-office anomie films .,3,positive,POSITIVE,VERY POSITIVE,0.812579870223999,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+"unofficially , national lampoon 's van wilder is son of animal house .",2,neutral,NEUTRAL,VERY POSITIVE,0.7198693752288818,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+playing a role of almost bergmanesque intensity ... bisset is both convincing and radiant .,3,positive,POSITIVE,VERY POSITIVE,0.7484054565429688,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+"you can taste it , but there 's no fizz .",1,negative,NEGATIVE,NEGATIVE,0.6558666229248047,NEGATIVE | NEGATIVE | VERY NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]"
+"sandra bullock , despite downplaying her good looks , carries a little too much ai n't - she-cute baggage into her lead role as a troubled and determined homicide cop to quite pull off the heavy stuff .",1,negative,NEGATIVE,VERY NEGATIVE,0.8126969337463379,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]"
+"but the nerve-raked acting , the crackle of lines , the impressive stagings of hardware , make for some robust and scary entertainment .",4,very positive,VERY POSITIVE,VERY POSITIVE,0.7691617012023926,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+"the woodman seems to have directly influenced this girl-meets-girl love story , but even more reassuring is how its makers actually seem to understand what made allen 's romantic comedies so pertinent and enduring .",3,positive,POSITIVE,VERY POSITIVE,0.8179824352264404,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+"with a completely predictable plot , you 'll swear that you 've seen it all before , even if you 've never come within a mile of the longest yard .",0,very negative,VERY NEGATIVE,VERY NEGATIVE,0.7924675941467285,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]"
+"finely crafted , finely written , exquisitely performed",4,very positive,VERY POSITIVE,VERY POSITIVE,0.714562177658081,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+i ca n't remember the last time i saw a movie where i wanted so badly for the protagonist to fail .,2,neutral,NEUTRAL,VERY NEGATIVE,0.7360117435455322,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]"
+count on his movie to work at the back of your neck long after you leave the theater .,2,neutral,NEUTRAL,VERY POSITIVE,0.7660648822784424,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+"frida is certainly no disaster , but neither is it the kahlo movie frida fans have been looking for .",2,neutral,NEUTRAL,NEUTRAL,0.753253698348999,NEUTRAL | NEUTRAL | NEUTRAL,"[NEUTRAL]
+
+--- RUN ---
+
+[NEUTRAL]
+
+--- RUN ---
+
+[NEUTRAL]"
+"i could just feel the screenwriter at every moment ` tap , tap , tap , tap , tapping away ' on this screenplay .",1,negative,NEGATIVE,VERY NEGATIVE,0.7699148654937744,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]"
+not even felinni would know what to make of this italian freakshow .,0,very negative,VERY NEGATIVE,VERY NEGATIVE,0.7131052017211914,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]"
+greengrass -lrb- working from don mullan 's script -rrb- forgoes the larger socio-political picture of the situation in northern ireland in favour of an approach that throws one in the pulsating thick of a truly frightening situation .,2,neutral,NEUTRAL,VERY POSITIVE,0.8637912273406982,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+that the film opens with maggots crawling on a dead dog is not an out of place metaphor .,1,negative,NEGATIVE,NEGATIVE,0.7148215770721436,NEGATIVE | VERY NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+poignant if familiar story of a young person suspended between two cultures .,3,positive,POSITIVE,POSITIVE,0.7337977886199951,POSITIVE | VERY POSITIVE | NEUTRAL,"[POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]
+
+--- RUN ---
+
+[NEUTRAL]"
+"it does n't really know or care about the characters , and uses them as markers for a series of preordained events .",1,negative,NEGATIVE,NEGATIVE,0.7053298950195312,NEGATIVE | NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+it 's just a little too self-satisfied .,2,neutral,NEUTRAL,NEGATIVE,0.6760590076446533,NEGATIVE | NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+it 's been 20 years since 48 hrs .,2,neutral,NEUTRAL,NEUTRAL,0.6944265365600586,NEUTRAL | NEUTRAL | NEGATIVE,"[NEUTRAL]
+
+--- RUN ---
+
+[NEUTRAL]
+
+--- RUN ---
+
+[NEGATIVE]"
+what elevates the movie above the run-of-the-mill singles blender is its surreal sense of humor and technological finish .,4,very positive,VERY POSITIVE,VERY POSITIVE,0.7490873336791992,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+one of -lrb- jaglom 's -rrb- better efforts -- a wry and sometime bitter movie about love .,2,neutral,NEUTRAL,VERY POSITIVE,0.7833693027496338,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+"this bond film goes off the beaten path , not necessarily for the better .",1,negative,NEGATIVE,VERY POSITIVE,0.7218704223632812,NEUTRAL | VERY POSITIVE | VERY POSITIVE,"[NEUTRAL]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+"like its parade of predecessors , this halloween is a gory slash-fest .",3,positive,POSITIVE,NEGATIVE,0.6785001754760742,NEGATIVE | NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+like a can of 2-day old coke .,0,very negative,VERY NEGATIVE,NEGATIVE,0.6627566814422607,NEGATIVE | VERY NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+gooding offers a desperately ingratiating performance .,1,negative,NEGATIVE,VERY POSITIVE,0.7166814804077148,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+it 's refreshing to see a movie that embraces its old-fashioned themes and in the process comes out looking like something wholly original .,4,very positive,VERY POSITIVE,VERY POSITIVE,0.7747361660003662,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+cynics need not apply . ',2,neutral,NEUTRAL,VERY POSITIVE,0.6905405521392822,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+this is no `` waterboy ! '',1,negative,NEGATIVE,VERY NEGATIVE,0.6799843311309814,VERY NEGATIVE | VERY NEGATIVE | NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+that such a horrible movie could have sprung from such a great one is one of the year 's worst cinematic tragedies .,0,very negative,VERY NEGATIVE,VERY NEGATIVE,0.7554099559783936,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]"
+i 'm giving it thumbs down due to the endlessly repetitive scenes of embarrassment .,1,negative,NEGATIVE,VERY NEGATIVE,0.7402729988098145,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]"
+"offers no new insight on the matter , nor do its characters exactly spring to life .",0,very negative,VERY NEGATIVE,NEGATIVE,0.6804807186126709,NEGATIVE | NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+"... a plotline that 's as lumpy as two-day old porridge ... the filmmakers ' paws , sad to say , were all over this `` un-bear-able '' project !",0,very negative,VERY NEGATIVE,VERY NEGATIVE,0.8165688514709473,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]"
+"but when it does , you 're entirely unprepared .",2,neutral,NEUTRAL,VERY NEGATIVE,0.7190985679626465,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]"
+"what we have is a character faced with the possibility that her life is meaningless , vapid and devoid of substance , in a movie that is definitely meaningless , vapid and devoid of substance .",0,very negative,VERY NEGATIVE,VERY NEGATIVE,0.8160107135772705,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]"
+"you might say tykwer has done all that heaven allows , if you wanted to make as anti-kieslowski a pun as possible .",2,neutral,NEUTRAL,VERY POSITIVE,0.7660603523254395,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]"
+a powerful performance from mel gibson and a brutal 90-minute battle sequence that does everything but issue you a dog-tag and an m-16 .,4,very positive,VERY POSITIVE,VERY POSITIVE,0.7599027156829834,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]"
+a lame comedy .,0,very negative,VERY NEGATIVE,NEGATIVE,0.6858201026916504,VERY NEGATIVE | NEGATIVE | NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+new yorkers always seem to find the oddest places to dwell ...,2,neutral,NEUTRAL,NEUTRAL,0.7211685180664062,NEUTRAL | NEUTRAL | NEUTRAL,"[NEUTRAL]
+
+--- RUN ---
+
+[NEUTRAL]
+
+--- RUN ---
+
+[NEUTRAL]"
+earnest but heavy-handed .,2,neutral,NEUTRAL,NEGATIVE,0.6470632553100586,NEGATIVE | NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+"oversexed , at times overwrought comedy\/drama that offers little insight into the experience of being forty , female and single .",0,very negative,VERY NEGATIVE,NEGATIVE,0.7464444637298584,NEGATIVE | NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+but ` why ? ',2,neutral,NEUTRAL,NEUTRAL,0.6659791469573975,NEGATIVE | NEUTRAL | NEUTRAL,"[NEGATIVE]
+
+--- RUN ---
+
+[NEUTRAL]
+
+--- RUN ---
+
+[NEUTRAL]"
+now he makes them .,2,neutral,NEUTRAL,VERY NEGATIVE,0.6855709552764893,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]"
+my little eye is the best little `` horror '' movie i 've seen in years .,4,very positive,VERY POSITIVE,VERY POSITIVE,0.7180614471435547,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+an ugly-duckling tale so hideously and clumsily told it feels accidental .,0,very negative,VERY NEGATIVE,VERY NEGATIVE,0.7099676132202148,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]"
+with its parade of almost perpetually wasted characters ... margarita feels like a hazy high that takes too long to shake .,1,negative,NEGATIVE,VERY NEGATIVE,0.7778613567352295,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]"
+... a weak and ineffective ghost story without a conclusion or pay off .,0,very negative,VERY NEGATIVE,NEGATIVE,0.6495130062103271,NEGATIVE | NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+"if you 're over 25 , have an iq over 90 , and have a driver 's license , you should be able to find better entertainment .",0,very negative,VERY NEGATIVE,VERY NEGATIVE,0.7869629859924316,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]"
+"if you like quirky , odd movies and\/or the ironic , here 's a fun one .",4,very positive,VERY POSITIVE,POSITIVE,0.6840338706970215,POSITIVE | POSITIVE | POSITIVE,"[POSITIVE]
+
+--- RUN ---
+
+[POSITIVE]
+
+--- RUN ---
+
+[POSITIVE]"
+"even though it 's common knowledge that park and his founding partner , yong kang , lost kozmo in the end , you ca n't help but get caught up in the thrill of the company 's astonishing growth .",3,positive,POSITIVE,VERY POSITIVE,0.8515760898590088,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]"
+"without shakespeare 's eloquent language , the update is dreary and sluggish .",0,very negative,VERY NEGATIVE,NEGATIVE,0.6808924674987793,NEGATIVE | NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+this is amusing for about three minutes .,2,neutral,NEUTRAL,NEGATIVE,0.6221678256988525,NEGATIVE | NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+"the film is moody , oozing , chilling and heart-warming all at once ... a twisting , unpredictable , cat-and-mouse thriller .",4,very positive,VERY POSITIVE,VERY POSITIVE,0.8011393547058105,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]"
+the movie is a desperate miscalculation .,0,very negative,VERY NEGATIVE,VERY NEGATIVE,0.7130811214447021,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]"
+a wretched movie that reduces the second world war to one man 's quest to find an old flame .,1,negative,NEGATIVE,VERY NEGATIVE,0.7519435882568359,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]"
+"though jackson does n't always succeed in integrating the characters in the foreground into the extraordinarily rich landscape , it must be said that he is an imaginative filmmaker who can see the forest for the trees .",3,positive,POSITIVE,VERY POSITIVE,0.7876756191253662,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+one of the year 's most weirdly engaging and unpredictable character pieces .,4,very positive,VERY POSITIVE,VERY POSITIVE,0.702864408493042,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+"the movie is almost completely lacking in suspense , surprise and consistent emotional conviction .",0,very negative,VERY NEGATIVE,NEGATIVE,0.6835289001464844,NEGATIVE | NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+raimi and his team could n't have done any better in bringing the story of spider-man to the big screen .,4,very positive,VERY POSITIVE,VERY POSITIVE,0.7554755210876465,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+"peralta captures , in luminous interviews and amazingly evocative film from three decades ago , the essence of the dogtown experience .",4,very positive,VERY POSITIVE,VERY POSITIVE,0.7675740718841553,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+"the jokes are sophomoric , stereotypes are sprinkled everywhere and the acting ranges from bad to bodacious .",0,very negative,VERY NEGATIVE,VERY NEGATIVE,0.7253603935241699,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]"
+this pathetic junk is barely an hour long .,0,very negative,VERY NEGATIVE,VERY NEGATIVE,0.69852614402771,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]"
+"light the candles , bring out the cake and do n't fret about the calories because there 's precious little substance in birthday girl -- it 's simply , and surprisingly , a nice , light treat .",4,very positive,VERY POSITIVE,VERY POSITIVE,0.7739593982696533,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]"
+"blue crush follows the formula , but throws in too many conflicts to keep the story compelling .",1,negative,NEGATIVE,NEGATIVE,0.6826989650726318,NEGATIVE | NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+"not only are the film 's sopranos gags incredibly dated and unfunny , they also demonstrate how desperate the makers of this ` we 're - doing-it-for - the-cash ' sequel were .",0,very negative,VERY NEGATIVE,VERY NEGATIVE,0.8378314971923828,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]"
+the modern-day characters are nowhere near as vivid as the 19th-century ones .,1,negative,NEGATIVE,NEGATIVE,0.6747403144836426,NEGATIVE | NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+"in addition to gluing you to the edge of your seat , changing lanes is also a film of freshness , imagination and insight .",4,very positive,VERY POSITIVE,VERY POSITIVE,0.7612102031707764,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+"while american adobo has its heart -lrb- and its palate -rrb- in the right place , its brain is a little scattered -- ditsy , even .",1,negative,NEGATIVE,VERY NEGATIVE,0.797156810760498,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]"
+a well-intentioned effort that 's still too burdened by the actor 's offbeat sensibilities for the earnest emotional core to emerge with any degree of accessibility .,1,negative,NEGATIVE,VERY NEGATIVE,0.7601842880249023,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]"
+"if the last man were the last movie left on earth , there would be a toss-up between presiding over the end of cinema as we know it and another night of delightful hand shadows .",1,negative,NEGATIVE,VERY POSITIVE,0.78798508644104,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]"
+"much has been written about those years when the psychedelic '60s grooved over into the gay '70s , but words do n't really do the era justice .",3,positive,POSITIVE,VERY POSITIVE,0.7786891460418701,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]"
+"that 's muy loco , but no more ridiculous than most of the rest of `` dragonfly . ''",1,negative,NEGATIVE,VERY NEGATIVE,0.7176411151885986,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]"
+"the movie is well done , but slow .",1,negative,NEGATIVE,NEGATIVE,0.6043069362640381,NEGATIVE | NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+smaller numbered kidlets will enjoy .,3,positive,POSITIVE,VERY POSITIVE,0.65431809425354,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]"
+"although mainstream american movies tend to exploit the familiar , every once in a while a film arrives from the margin that gives viewers a chance to learn , to grow , to travel .",3,positive,POSITIVE,VERY POSITIVE,0.82584547996521,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]"
+a cautionary tale about the folly of superficiality that is itself endlessly superficial .,1,negative,NEGATIVE,VERY NEGATIVE,0.7293870449066162,VERY NEGATIVE | VERY NEGATIVE | NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+"a slick , engrossing melodrama .",4,very positive,VERY POSITIVE,POSITIVE,0.626502513885498,POSITIVE | POSITIVE | POSITIVE,"[POSITIVE]
+
+--- RUN ---
+
+[POSITIVE]
+
+--- RUN ---
+
+[POSITIVE]"
+"` men in black ii creates a new threat for the mib , but recycles the same premise .",2,neutral,NEUTRAL,NEGATIVE,0.6996312141418457,NEGATIVE | NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+nicole kidman makes it a party worth attending .,4,very positive,VERY POSITIVE,VERY POSITIVE,0.7125341892242432,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+"he seems to want both , but succeeds in making neither .",1,negative,NEGATIVE,VERY NEGATIVE,0.6946728229522705,NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]"
+"you would n't want to live waydowntown , but it is a hilarious place to visit .",3,positive,POSITIVE,VERY POSITIVE,0.7351329326629639,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]"
+"for all of its insights into the dream world of teen life , and its electronic expression through cyber culture , the film gives no quarter to anyone seeking to pull a cohesive story out of its 2 1\/2 - hour running time .",0,very negative,VERY NEGATIVE,VERY NEGATIVE,1.1947660446166992,VERY NEGATIVE | VERY NEGATIVE | NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+a portrait of an artist .,2,neutral,NEUTRAL,VERY POSITIVE,0.6947646141052246,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+"hart 's war seems to want to be a character study , but apparently ca n't quite decide which character .",1,negative,NEGATIVE,NEGATIVE,0.6914119720458984,NEGATIVE | NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+"that rare documentary that incorporates so much of human experience -- drama , conflict , tears and surprise -- that it transcends the normal divisions between fiction and nonfiction film .",4,very positive,VERY POSITIVE,VERY POSITIVE,0.8149545192718506,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]"
+"bogdanovich puts history in perspective and , via kirsten dunst 's remarkable performance , he showcases davies as a young woman of great charm , generosity and diplomacy .",3,positive,POSITIVE,VERY POSITIVE,0.8363397121429443,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+"a stirring , funny and finally transporting re-imagining of beauty and the beast and 1930s horror films",4,very positive,VERY POSITIVE,VERY POSITIVE,0.7745599746704102,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+"pure of intention and passably diverting , his secret life is light , innocuous and unremarkable .",2,neutral,NEUTRAL,NEUTRAL,0.7396101951599121,NEUTRAL | NEUTRAL | NEUTRAL,"[NEUTRAL]
+
+--- RUN ---
+
+[NEUTRAL]
+
+--- RUN ---
+
+[NEUTRAL]"
+you ... get a sense of good intentions derailed by a failure to seek and strike just the right tone .,1,negative,NEGATIVE,NEGATIVE,0.6924283504486084,NEGATIVE | NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+"in many ways , reminiscent of 1992 's unforgiven which also utilized the scintillating force of its actors to draw out the menace of its sparse dialogue .",2,neutral,NEUTRAL,VERY POSITIVE,0.8314552307128906,VERY POSITIVE | VERY POSITIVE | NEUTRAL,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]
+
+--- RUN ---
+
+[NEUTRAL]"
+"the direction occasionally rises to the level of marginal competence , but for most of the film it is hard to tell who is chasing who or why .",1,negative,NEGATIVE,NEGATIVE,0.7671172618865967,NEGATIVE | NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+"a tired , predictable , bordering on offensive , waste of time , money and celluloid .",0,very negative,VERY NEGATIVE,VERY NEGATIVE,0.7604889869689941,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]"
+essentially `` fatal attraction '' remade for viewers who were in diapers when the original was released in 1987 .,1,negative,NEGATIVE,VERY NEGATIVE,0.7826056480407715,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]"
+"the unexpected thing is that its dying , in this shower of black-and-white psychedelia , is quite beautiful .",3,positive,POSITIVE,VERY POSITIVE,0.7254328727722168,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+the film is bright and flashy in all the right ways .,4,very positive,VERY POSITIVE,VERY POSITIVE,0.694166898727417,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+a rumor of angels does n't just slip -- it avalanches into forced fuzziness .,0,very negative,VERY NEGATIVE,VERY NEGATIVE,0.6998257637023926,VERY NEGATIVE | VERY NEGATIVE | NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+a really funny fifteen-minute short stretched beyond its limits to fill an almost feature-length film .,2,neutral,NEUTRAL,NEGATIVE,0.6670095920562744,NEGATIVE | VERY NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+i also believe that resident evil is not it .,1,negative,NEGATIVE,NEGATIVE,0.6384155750274658,NEGATIVE | NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+"it sticks rigidly to the paradigm , rarely permitting its characters more than two obvious dimensions and repeatedly placing them in contrived , well-worn situations .",1,negative,NEGATIVE,NEGATIVE,0.7223331928253174,NEGATIVE | VERY NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+a backhanded ode to female camaraderie penned by a man who has little clue about either the nature of women or of friendship .,1,negative,NEGATIVE,VERY NEGATIVE,0.7600288391113281,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]"
+"funny , though .",2,neutral,NEUTRAL,POSITIVE,0.6168191432952881,POSITIVE | POSITIVE | POSITIVE,"[POSITIVE]
+
+--- RUN ---
+
+[POSITIVE]
+
+--- RUN ---
+
+[POSITIVE]"
+get out your pooper-scoopers .,0,very negative,VERY NEGATIVE,VERY NEGATIVE,0.6675667762756348,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]"
+about schmidt is undoubtedly one of the finest films of the year .,4,very positive,VERY POSITIVE,VERY POSITIVE,0.6954464912414551,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+a rip-roaring comedy action fest that 'll put hairs on your chest .,3,positive,POSITIVE,VERY POSITIVE,0.6902642250061035,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+"it may be about drug dealers , kidnapping , and unsavory folks , but the tone and pacing are shockingly intimate .",2,neutral,NEUTRAL,VERY POSITIVE,0.7029623985290527,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]"
+"despite some comic sparks , welcome to collinwood never catches fire .",1,negative,NEGATIVE,NEGATIVE,0.6504888534545898,NEGATIVE | NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+otto-sallies has a real filmmaker 's eye .,3,positive,POSITIVE,VERY POSITIVE,0.7028365135192871,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+"as self-aware movies go , who is cletis tout ?",2,neutral,NEUTRAL,VERY POSITIVE,0.6871542930603027,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+"are monsters born , or made ?",2,neutral,NEUTRAL,NEUTRAL,0.649585485458374,NEUTRAL | NEUTRAL | NEUTRAL,"[NEUTRAL]
+
+--- RUN ---
+
+[NEUTRAL]
+
+--- RUN ---
+
+[NEUTRAL]"
+"not only a reminder of how they used to make movies , but also how they sometimes still can be made .",3,positive,POSITIVE,VERY POSITIVE,0.7101349830627441,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+would make an excellent companion piece to the similarly themed ` the french lieutenant 's woman . ',3,positive,POSITIVE,VERY POSITIVE,0.7099709510803223,VERY POSITIVE | VERY POSITIVE | POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[POSITIVE]"
+"a witty , trenchant , wildly unsentimental but flawed look at the ins and outs of modern moviemaking .",2,neutral,NEUTRAL,VERY POSITIVE,0.721433162689209,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]"
+"steven soderbergh 's digital video experiment is a clever and cutting , quick and dirty look at modern living and movie life .",3,positive,POSITIVE,VERY POSITIVE,0.7544076442718506,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]"
+"it 's an actor 's showcase that accomplishes its primary goal without the use of special effects , but rather by emphasizing the characters -- including the supporting ones .",2,neutral,NEUTRAL,VERY POSITIVE,0.7556877136230469,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]"
+"it 's nice to see piscopo again after all these years , and chaykin and headly are priceless .",3,positive,POSITIVE,VERY POSITIVE,0.7139818668365479,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]"
+mildly entertaining .,2,neutral,NEUTRAL,NEUTRAL,0.649263858795166,NEUTRAL | NEUTRAL | POSITIVE,"[NEUTRAL]
+
+--- RUN ---
+
+[NEUTRAL]
+
+--- RUN ---
+
+[POSITIVE]"
+a decided lack of spontaneity in its execution and a dearth of real poignancy in its epiphanies .,0,very negative,VERY NEGATIVE,NEGATIVE,0.7077453136444092,NEGATIVE | NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+"quitting , however , manages just to be depressing , as the lead actor phones in his autobiographical performance .",1,negative,NEGATIVE,NEGATIVE,0.6732754707336426,VERY NEGATIVE | NEGATIVE | NEGATIVE,"[VERY NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+i did n't find much fascination in the swinging .,1,negative,NEGATIVE,NEGATIVE,0.6371355056762695,NEGATIVE | NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+that the e-graveyard holds as many good ideas as bad is the cold comfort that chin 's film serves up with style and empathy .,3,positive,POSITIVE,VERY POSITIVE,0.748234748840332,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]"
+the film has a childlike quality about it .,2,neutral,NEUTRAL,VERY POSITIVE,0.6736671924591064,VERY POSITIVE | VERY POSITIVE | NEUTRAL,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[NEUTRAL]"
+the solid filmmaking and convincing characters makes this a high water mark for this genre .,4,very positive,VERY POSITIVE,VERY POSITIVE,0.6915421485900879,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+"as home movie gone haywire , it 's pretty enjoyable , but as sexual manifesto , i 'd rather listen to old tori amos records .",2,neutral,NEUTRAL,VERY POSITIVE,0.7994844913482666,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]"
+you may be galled that you 've wasted nearly two hours of your own precious life with this silly little puddle of a movie .,0,very negative,VERY NEGATIVE,VERY NEGATIVE,0.7539715766906738,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]"
+"will undoubtedly play well in european markets , where mr. besson is a brand name , and in asia , where ms. shu is an institution , but american audiences will probably find it familiar and insufficiently cathartic .",1,negative,NEGATIVE,VERY NEGATIVE,0.8678443431854248,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]"
+an almost unbearably morbid love story .,0,very negative,VERY NEGATIVE,VERY NEGATIVE,0.6909346580505371,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]"
+that 's fun for kids of any age .,4,very positive,VERY POSITIVE,VERY POSITIVE,0.6837582588195801,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]"
+becomes a bit of a mishmash : a tearjerker that does n't and a thriller that wo n't .,0,very negative,VERY NEGATIVE,NEGATIVE,0.7081577777862549,NEGATIVE | NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+"the cast ... keeps this pretty watchable , and casting mick jagger as director of the escort service was inspired .",3,positive,POSITIVE,VERY POSITIVE,0.7168874740600586,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]"
+those who want to be jolted out of their gourd should drop everything and run to ichi .,3,positive,POSITIVE,VERY POSITIVE,0.7106397151947021,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+it has more than a few moments that are insightful enough to be fondly remembered in the endlessly challenging maze of moviegoing .,3,positive,POSITIVE,POSITIVE,0.683194637298584,POSITIVE | POSITIVE | POSITIVE,"[POSITIVE]
+
+--- RUN ---
+
+[POSITIVE]
+
+--- RUN ---
+
+[POSITIVE]"
+chelsea walls is a case of too many chefs fussing over too weak a recipe .,1,negative,NEGATIVE,NEGATIVE,0.6878390312194824,NEGATIVE | NEGATIVE | VERY NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]"
+"this sade is hardly a perverse , dangerous libertine and agitator -- which would have made for better drama .",1,negative,NEGATIVE,NEGATIVE,0.6706576347351074,NEGATIVE | NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+"a hit - and-miss affair , consistently amusing but not as outrageous or funny as cho may have intended or as imaginative as one might have hoped .",1,negative,NEGATIVE,VERY POSITIVE,0.7460169792175293,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]"
+"the film gets close to the chimps the same way goodall did , with a serious minded patience , respect and affection .",3,positive,POSITIVE,VERY POSITIVE,0.7167134284973145,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+parker can not sustain the buoyant energy level of the film 's city beginnings into its country conclusion ',1,negative,NEGATIVE,NEGATIVE,0.6527919769287109,NEGATIVE | NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+"meeting , even exceeding expectations , it 's the best sequel since the empire strikes back ... a majestic achievement , an epic of astonishing grandeur and surprising emotional depth .",4,very positive,VERY POSITIVE,VERY POSITIVE,0.7415528297424316,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]"
+"i 've never seen -lrb- a remake -rrb- do anything as stomach-turning as the way adam sandler 's new movie rapes , pillages and incinerates frank capra 's classic ...",0,very negative,VERY NEGATIVE,VERY NEGATIVE,0.9080045223236084,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]"
+"rich in atmosphere of the post-war art world , it manages to instruct without reeking of research library dust .",3,positive,POSITIVE,VERY POSITIVE,0.7311208248138428,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+"a little less extreme than in the past , with longer exposition sequences between them , and with fewer gags to break the tedium .",1,negative,NEGATIVE,VERY NEGATIVE,0.7693955898284912,NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]"
+marinated in clichés and mawkish dialogue .,0,very negative,VERY NEGATIVE,VERY NEGATIVE,0.6958026885986328,VERY NEGATIVE | VERY NEGATIVE | NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+"a rip-off twice removed , modeled after -lrb- seagal 's -rrb- earlier copycat under siege , sometimes referred to as die hard on a boat .",0,very negative,VERY NEGATIVE,VERY NEGATIVE,0.780393123626709,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]"
+"it 's a very sincere work , but it would be better as a diary or documentary .",3,positive,POSITIVE,VERY POSITIVE,0.7336549758911133,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]"
+"death to smoochy tells a moldy-oldie , not-nearly - as-nasty - as-it - thinks-it-is joke .",1,negative,NEGATIVE,VERY NEGATIVE,0.7650291919708252,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]"
+a fascinating documentary that provides a rounded and revealing overview of this ancient holistic healing system,4,very positive,VERY POSITIVE,VERY POSITIVE,0.701157808303833,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+"-lrb- the digital effects -rrb- reminded me of terry gilliam 's rudimentary old monty python cartoons , in which he would cut out figures from drawings and photographs and paste them together .",2,neutral,NEUTRAL,VERY NEGATIVE,0.857588529586792,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]"
+polanski has found the perfect material with which to address his own world war ii experience in his signature style .,4,very positive,VERY POSITIVE,VERY POSITIVE,0.7710094451904297,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+"been there , done that ... a thousand times already , and better .",1,negative,NEGATIVE,NEGATIVE,0.7175717353820801,VERY NEGATIVE | NEGATIVE | NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+does anyone much think the central story of brendan behan is that he was a bisexual sweetheart before he took to drink ?,2,neutral,NEUTRAL,NEGATIVE,0.7739598751068115,VERY NEGATIVE | NEGATIVE | NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+cho 's timing is priceless .,4,very positive,VERY POSITIVE,VERY POSITIVE,0.7160868644714355,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]"
+"`` looking for leonard '' just seems to kinda sit in neutral , hoping for a stiff wind to blow it uphill or something .",1,negative,NEGATIVE,NEUTRAL,0.7763304710388184,NEUTRAL | NEUTRAL | NEUTRAL,"[NEUTRAL]
+
+--- RUN ---
+
+[NEUTRAL]
+
+--- RUN ---
+
+[NEUTRAL]"
+what sets ms. birot 's film apart from others in the genre is a greater attention to the parents -- and particularly the fateful fathers -- in the emotional evolution of the two bewitched adolescents .,3,positive,POSITIVE,VERY POSITIVE,0.8120670318603516,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]"
+... one resurrection too many .,1,negative,NEGATIVE,VERY NEGATIVE,0.6602165699005127,VERY NEGATIVE | NEGATIVE | VERY NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]"
+the history is fascinating ; the action is dazzling .,4,very positive,VERY POSITIVE,VERY POSITIVE,0.6838905811309814,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+"with its jerky hand-held camera and documentary feel , bloody sunday is a sobering recount of a very bleak day in derry .",2,neutral,NEUTRAL,VERY NEGATIVE,0.7510204315185547,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]"
+"jackson shamefully strolls through this mess with a smug grin , inexplicably wearing a kilt and carrying a bag of golf clubs over one shoulder .",1,negative,NEGATIVE,VERY NEGATIVE,0.7459876537322998,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]"
+"spielberg 's picture is smarter and subtler than -lrb- total recall and blade runner -rrb- , although its plot may prove too convoluted for fun-seeking summer audiences .",3,positive,POSITIVE,VERY POSITIVE,0.7866017818450928,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+the film rehashes several old themes and is capped with pointless extremes -- it 's insanely violent and very graphic .,0,very negative,VERY NEGATIVE,VERY NEGATIVE,0.7142660617828369,NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]"
+suffers from a flat script and a low budget .,1,negative,NEGATIVE,NEGATIVE,0.633305549621582,NEGATIVE | NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+really dumb but occasionally really funny .,2,neutral,NEUTRAL,VERY POSITIVE,0.6706559658050537,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]"
+"funny , somber , absurd , and , finally , achingly sad , bartleby is a fine , understated piece of filmmaking .",4,very positive,VERY POSITIVE,VERY POSITIVE,0.7648301124572754,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]"
+an undistinguished attempt to make a classic theater piece cinematic .,0,very negative,VERY NEGATIVE,NEGATIVE,0.636476993560791,NEGATIVE | NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+"overall , cletis tout is a winning comedy that excites the imagination and tickles the funny bone .",4,very positive,VERY POSITIVE,VERY POSITIVE,0.7141833305358887,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]"
+"it 's unfortunate that wallace , who wrote gibson 's braveheart as well as the recent pearl harbor , has such an irrepressible passion for sappy situations and dialogue .",1,negative,NEGATIVE,VERY NEGATIVE,0.8093483448028564,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]"
+"the redeeming feature of chan 's films has always been the action , but the stunts in the tuxedo seem tired and , what 's worse , routine .",1,negative,NEGATIVE,VERY NEGATIVE,0.813197135925293,VERY NEGATIVE | VERY NEGATIVE | NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+"eccentric enough to stave off doldrums , caruso 's self-conscious debut is also eminently forgettable .",2,neutral,NEUTRAL,VERY NEGATIVE,0.781247615814209,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]"
+gone are the flamboyant mannerisms that are the trademark of several of his performances .,2,neutral,NEUTRAL,NEGATIVE,0.6887974739074707,NEGATIVE | NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+"there is a freedom to watching stunts that are this crude , this fast-paced and this insane .",3,positive,POSITIVE,VERY POSITIVE,0.7420330047607422,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]"
+most of the characters come off as pantomimesque sterotypes .,2,neutral,NEUTRAL,NEGATIVE,0.6699023246765137,NEGATIVE | NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+the casting of raymond j. barry as the ` assassin ' greatly enhances the quality of neil burger 's impressive fake documentary .,3,positive,POSITIVE,VERY POSITIVE,0.7736356258392334,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]"
+"if the plot seems a bit on the skinny side , that 's because panic room is interested in nothing more than sucking you in ... and making you sweat .",3,positive,POSITIVE,VERY POSITIVE,0.7753031253814697,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]"
+generates an enormous feeling of empathy for its characters .,3,positive,POSITIVE,VERY POSITIVE,0.7167470455169678,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+one just waits grimly for the next shock without developing much attachment to the characters .,2,neutral,NEUTRAL,NEGATIVE,0.6673009395599365,NEGATIVE | NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+over and over again .,1,negative,NEGATIVE,NEUTRAL,0.6795501708984375,NEGATIVE | VERY NEGATIVE | VERY POSITIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+campanella gets the tone just right -- funny in the middle of sad in the middle of hopeful .,3,positive,POSITIVE,VERY POSITIVE,0.7429201602935791,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]"
+igby goes down is one of those movies .,2,neutral,NEUTRAL,VERY NEGATIVE,0.71030592918396,VERY NEGATIVE | VERY POSITIVE | VERY NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]"
+nicholson 's understated performance is wonderful .,4,very positive,VERY POSITIVE,POSITIVE,0.6762714385986328,POSITIVE | POSITIVE | POSITIVE,"[POSITIVE]
+
+--- RUN ---
+
+[POSITIVE]
+
+--- RUN ---
+
+[POSITIVE]"
+"at its worst , the movie is pretty diverting ; the pity is that it rarely achieves its best .",2,neutral,NEUTRAL,VERY NEGATIVE,0.7525451183319092,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]"
+"a sham construct based on theory , sleight-of-hand , and ill-wrought hypothesis .",1,negative,NEGATIVE,VERY NEGATIVE,0.7696089744567871,VERY NEGATIVE | VERY NEGATIVE | NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+isabelle huppert excels as the enigmatic mika and anna mouglalis is a stunning new young talent in one of chabrol 's most intense psychological mysteries .,4,very positive,VERY POSITIVE,VERY POSITIVE,0.8749864101409912,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+"any chekhov is better than no chekhov , but it would be a shame if this was your introduction to one of the greatest plays of the last 100 years .",2,neutral,NEUTRAL,VERY POSITIVE,0.8111860752105713,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+"return to never land is reliable , standard disney animated fare , with enough creative energy and wit to entertain all ages .",4,very positive,VERY POSITIVE,POSITIVE,0.7280011177062988,POSITIVE | POSITIVE | POSITIVE,"[POSITIVE]
+
+--- RUN ---
+
+[POSITIVE]
+
+--- RUN ---
+
+[POSITIVE]"
+the gentle comic treatment of adolescent sturm und drang should please fans of chris fuhrman 's posthumously published cult novel .,3,positive,POSITIVE,VERY POSITIVE,0.7585701942443848,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+exactly what you 'd expect from a guy named kaos .,2,neutral,NEUTRAL,VERY NEGATIVE,0.7168738842010498,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]"
+the dragons are the real stars of reign of fire and you wo n't be disappointed .,3,positive,POSITIVE,VERY POSITIVE,0.74542236328125,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+displays the potential for a better movie than what bailly manages to deliver,2,neutral,NEUTRAL,NEGATIVE,0.6915774345397949,NEGATIVE | NEGATIVE | VERY NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]"
+"the low-key direction is pleasingly emphatic in this properly intense , claustrophobic tale of obsessive love .",3,positive,POSITIVE,VERY POSITIVE,0.7623906135559082,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+it 's mostly a pleasure to watch .,3,positive,POSITIVE,POSITIVE,0.616361141204834,POSITIVE | POSITIVE | POSITIVE,"[POSITIVE]
+
+--- RUN ---
+
+[POSITIVE]
+
+--- RUN ---
+
+[POSITIVE]"
+too bad .,1,negative,NEGATIVE,NEGATIVE,0.6228570938110352,NEGATIVE | NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+"like most of jaglom 's films , some of it is honestly affecting , but more of it seems contrived and secondhand .",1,negative,NEGATIVE,VERY NEGATIVE,0.741248369216919,VERY NEGATIVE | VERY NEGATIVE | NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+a fun ride .,3,positive,POSITIVE,POSITIVE,0.6187229156494141,POSITIVE | POSITIVE | POSITIVE,"[POSITIVE]
+
+--- RUN ---
+
+[POSITIVE]
+
+--- RUN ---
+
+[POSITIVE]"
+kinnear 's performance is a career-defining revelation .,4,very positive,VERY POSITIVE,VERY POSITIVE,0.6898515224456787,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]"
+allen 's funniest and most likeable movie in years .,4,very positive,VERY POSITIVE,VERY POSITIVE,0.6898913383483887,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+delirious fun .,4,very positive,VERY POSITIVE,VERY POSITIVE,0.6740729808807373,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]"
+"this is a gorgeous film - vivid with color , music and life .",4,very positive,VERY POSITIVE,VERY POSITIVE,0.6949748992919922,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+the plot plummets into a comedy graveyard before janice comes racing to the rescue in the final reel .,2,neutral,NEUTRAL,VERY NEGATIVE,0.7301161289215088,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]"
+you live the mood rather than savour the story .,3,positive,POSITIVE,NEGATIVE,0.6736729145050049,NEGATIVE | NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+the director seems to take an unseemly pleasure in -lrb- the characters ' -rrb- misery and at the same time to congratulate himself for having the guts to confront it .,1,negative,NEGATIVE,VERY NEGATIVE,0.8121743202209473,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]"
+"clockstoppers is one of those crazy , mixed-up films that does n't know what it wants to be when it grows up .",1,negative,NEGATIVE,NEGATIVE,0.7490551471710205,NEGATIVE | VERY NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+"if disney 's cinderella proved that ' a dream is a wish your heart makes , ' then cinderella ii proves that a nightmare is a wish a studio 's wallet makes .",1,negative,NEGATIVE,VERY NEGATIVE,0.784780740737915,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]"
+rodriguez ... was unable to reproduce the special spark between the characters that made the first film such a delight .,2,neutral,NEUTRAL,NEGATIVE,0.7114417552947998,NEGATIVE | NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+post 9\/11 the philosophical message of `` personal freedom first '' might not be as palatable as intended .,2,neutral,NEUTRAL,NEGATIVE,0.7103667259216309,NEGATIVE | NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+lurid and less than lucid work .,1,negative,NEGATIVE,VERY NEGATIVE,0.7165672779083252,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]"
+"not once in the rush to save the day did i become very involved in the proceedings ; to me , it was just a matter of ` eh . '",1,negative,NEGATIVE,NEGATIVE,0.7278890609741211,NEGATIVE | VERY NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+"oh , look at that clever angle !",3,positive,POSITIVE,NEUTRAL,0.6603622436523438,NEUTRAL | NEUTRAL | NEUTRAL,"[NEUTRAL]
+
+--- RUN ---
+
+[NEUTRAL]
+
+--- RUN ---
+
+[NEUTRAL]"
+a bit too derivative to stand on its own as the psychological thriller it purports to be .,2,neutral,NEUTRAL,NEGATIVE,0.684830904006958,NEGATIVE | NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+"this is a stunning film , a one-of-a-kind tour de force .",4,very positive,VERY POSITIVE,VERY POSITIVE,0.6781299114227295,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+"those prone to indignation need not apply ; those susceptible to blue hilarity , step right up .",3,positive,POSITIVE,VERY POSITIVE,0.7227656841278076,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]"
+... its solemn pretension prevents us from sharing the awe in which it holds itself .,1,negative,NEGATIVE,NEGATIVE,0.651918888092041,NEGATIVE | NEGATIVE | VERY NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]"
+and that should tell you everything you need to know about all the queen 's men .,2,neutral,NEUTRAL,VERY NEGATIVE,0.71368408203125,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]"
+it 's worth taking the kids to .,4,very positive,VERY POSITIVE,POSITIVE,0.6314997673034668,POSITIVE | POSITIVE | POSITIVE,"[POSITIVE]
+
+--- RUN ---
+
+[POSITIVE]
+
+--- RUN ---
+
+[POSITIVE]"
+"if the tuxedo actually were a suit , it would fit chan like a $ 99 bargain-basement special .",1,negative,NEGATIVE,VERY NEGATIVE,0.7587316036224365,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]"
+the characters are more deeply thought through than in most ` right-thinking ' films .,3,positive,POSITIVE,VERY POSITIVE,0.7762801647186279,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+"this is a very ambitious project for a fairly inexperienced filmmaker , but good actors , good poetry and good music help sustain it .",3,positive,POSITIVE,VERY POSITIVE,0.7821578979492188,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+a reworking of die hard and cliffhanger but it 's nowhere near as exciting as either .,1,negative,NEGATIVE,NEGATIVE,0.7042999267578125,NEGATIVE | NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+one of the best looking and stylish animated movies in quite a while ...,4,very positive,VERY POSITIVE,VERY POSITIVE,0.691570520401001,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+"enough said , except : film overboard !",0,very negative,VERY NEGATIVE,VERY NEGATIVE,0.6850204467773438,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]"
+one of those terrific documentaries that collect a bunch of people who are enthusiastic about something and then figures out how to make us share their enthusiasm .,4,very positive,VERY POSITIVE,VERY POSITIVE,0.7541544437408447,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]"
+"mckay shows crushingly little curiosity about , or is ill-equipped to examine , the interior lives of the characters in his film , much less incorporate them into his narrative .",0,very negative,VERY NEGATIVE,VERY NEGATIVE,0.7827155590057373,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]"
+i prefer to think of it as `` pootie tang with a budget . '',2,neutral,NEUTRAL,VERY NEGATIVE,0.6865329742431641,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]"
+"collateral damage is trash , but it earns extra points by acting as if it were n't .",0,very negative,VERY NEGATIVE,VERY NEGATIVE,0.7137761116027832,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]"
+"plods along , minus the twisted humor and eye-popping visuals that have made miike ... a cult hero .",2,neutral,NEUTRAL,NEGATIVE,0.6772427558898926,NEGATIVE | NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+clare peploe 's airless movie adaptation could use a little american pie-like irreverence .,1,negative,NEGATIVE,VERY NEGATIVE,0.724374532699585,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]"
+"never again , while nothing special , is pleasant , diverting and modest -- definitely a step in the right direction .",3,positive,POSITIVE,POSITIVE,0.6788649559020996,POSITIVE | POSITIVE | POSITIVE,"[POSITIVE]
+
+--- RUN ---
+
+[POSITIVE]
+
+--- RUN ---
+
+[POSITIVE]"
+"-lrb- the kid 's -rrb- just too bratty for sympathy , and as the film grows to its finale , his little changes ring hollow .",1,negative,NEGATIVE,VERY NEGATIVE,0.7262916564941406,VERY NEGATIVE | VERY NEGATIVE | NEGATIVE,"[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+"the three leads produce adequate performances , but what 's missing from this material is any depth of feeling .",0,very negative,VERY NEGATIVE,NEGATIVE,0.655059814453125,NEGATIVE | NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+"hey everybody , wanna watch a movie in which a guy dressed as a children 's party clown gets violently gang-raped ?",0,very negative,VERY NEGATIVE,VERY NEGATIVE,0.743208646774292,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]"
+"it 's simply stupid , irrelevant and deeply , truly , bottomlessly cynical .",0,very negative,VERY NEGATIVE,VERY NEGATIVE,0.6954057216644287,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]"
+"the connected stories of breitbart and hanussen are actually fascinating , but the filmmaking in invincible is such that the movie does not do them justice .",1,negative,NEGATIVE,VERY NEGATIVE,0.7350599765777588,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]"
+"the movie is a negligible work of manipulation , an exploitation piece doing its usual worst to guilt-trip parents .",1,negative,NEGATIVE,VERY NEGATIVE,0.706298828125,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]"
+an intriguing look at the french film industry during the german occupation ; its most delightful moments come when various characters express their quirky inner selves .,3,positive,POSITIVE,VERY POSITIVE,0.739748477935791,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]"
+baby-faced renner is eerily convincing as this bland blank of a man with unimaginable demons within .,3,positive,POSITIVE,VERY POSITIVE,0.7730424404144287,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+"jackson tries to keep the plates spinning as best he can , but all the bouncing back and forth ca n't help but become a bit tedious -- even with the breathtaking landscapes and villainous varmints there to distract you from the ricocheting .",2,neutral,NEUTRAL,VERY NEGATIVE,0.8511486053466797,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]"
+bad movie .,0,very negative,VERY NEGATIVE,NEGATIVE,0.644780158996582,VERY NEGATIVE | NEGATIVE | NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+an infuriating film .,0,very negative,VERY NEGATIVE,VERY NEGATIVE,0.6504149436950684,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]"
+"largely , this is a movie that also does it by the numbers .",2,neutral,NEUTRAL,NEGATIVE,0.6320631504058838,NEGATIVE | NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+a compelling film .,4,very positive,VERY POSITIVE,POSITIVE,0.6232993602752686,POSITIVE | POSITIVE | POSITIVE,"[POSITIVE]
+
+--- RUN ---
+
+[POSITIVE]
+
+--- RUN ---
+
+[POSITIVE]"
+"it might be ` easier ' to watch on video at home , but that should n't stop die-hard french film connoisseurs from going out and enjoying the big-screen experience .",3,positive,POSITIVE,VERY POSITIVE,0.7660717964172363,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]"
+never comes together as a coherent whole .,1,negative,NEGATIVE,NEGATIVE,0.5954887866973877,NEGATIVE | NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+amazingly lame .,0,very negative,VERY NEGATIVE,VERY NEGATIVE,0.6481702327728271,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]"
+"a taut , sobering film .",4,very positive,VERY POSITIVE,VERY POSITIVE,0.6518759727478027,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+perhaps the best sports movie i 've ever seen .,4,very positive,VERY POSITIVE,VERY POSITIVE,0.6925055980682373,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+"there 's a neat twist , subtly rendered , that could have wrapped things up at 80 minutes , but kang tacks on three or four more endings .",2,neutral,NEUTRAL,VERY NEGATIVE,0.7567863464355469,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]"
+"the movie worked for me right up to the final scene , and then it caved in .",2,neutral,NEUTRAL,VERY NEGATIVE,0.7153658866882324,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]"
+might be one of those vanity projects in which a renowned filmmaker attempts to show off his talent by surrounding himself with untalented people .,2,neutral,NEUTRAL,VERY NEGATIVE,0.7645092010498047,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]"
+"methodical , measured , and gently tedious in its comedy , secret ballot is a purposefully reductive movie -- which may be why it 's so successful at lodging itself in the brain .",4,very positive,VERY POSITIVE,VERY POSITIVE,0.8198337554931641,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]"
+"... feels as if -lrb- there 's -rrb- a choke leash around your neck so director nick cassavetes can give it a good , hard yank whenever he wants you to feel something .",0,very negative,VERY NEGATIVE,VERY NEGATIVE,0.8642842769622803,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]"
+only at the prospect of beck 's next project .,2,neutral,NEUTRAL,VERY NEGATIVE,0.6669256687164307,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]"
+offers a clear-eyed chronicle of a female friendship that is more complex and honest than anything represented in a hollywood film .,4,very positive,VERY POSITIVE,VERY POSITIVE,0.7154371738433838,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+apparently reassembled from the cutting-room floor of any given daytime soap .,1,negative,NEGATIVE,VERY NEGATIVE,0.6827089786529541,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]"
+the name says it all .,2,neutral,NEUTRAL,VERY POSITIVE,0.6441245079040527,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+"a rollicking ride , with jaw-dropping action sequences , striking villains , a gorgeous color palette , astounding technology , stirring music and a boffo last hour that leads up to a strangely sinister happy ending .",4,very positive,VERY POSITIVE,VERY POSITIVE,0.8014905452728271,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+"many of the effective horror elements are dampened through familiarity , -lrb- yet -rrb- are worthwhile .",2,neutral,NEUTRAL,NEUTRAL,0.7456130981445312,NEUTRAL | NEUTRAL | NEGATIVE,"[NEUTRAL]
+
+--- RUN ---
+
+[NEUTRAL]
+
+--- RUN ---
+
+[NEGATIVE]"
+sayles ... once again strands his superb performers in the same old story .,1,negative,NEGATIVE,NEGATIVE,0.6833388805389404,NEGATIVE | NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+it 's pauly shore awful .,0,very negative,VERY NEGATIVE,VERY NEGATIVE,0.675119161605835,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]"
+"i had more fun with ben stiller 's zoolander , which i thought was rather clever .",2,neutral,NEUTRAL,POSITIVE,0.7119455337524414,VERY POSITIVE | POSITIVE | POSITIVE,"[VERY POSITIVE]
+
+--- RUN ---
+
+[POSITIVE]
+
+--- RUN ---
+
+[POSITIVE]"
+he may have meant the internet short saving ryan 's privates .,2,neutral,NEUTRAL,VERY NEGATIVE,0.712670087814331,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]"
+what ultimately makes windtalkers a disappointment is the superficial way it deals with its story .,0,very negative,VERY NEGATIVE,NEGATIVE,0.6978521347045898,NEGATIVE | NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+it 's not a motion picture ; it 's an utterly static picture .,0,very negative,VERY NEGATIVE,VERY NEGATIVE,0.6923642158508301,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]"
+"yes , i suppose it 's lovely that cal works out his issues with his dad and comes to terms with his picture-perfect life -- but world traveler gave me no reason to care , so i did n't .",0,very negative,VERY NEGATIVE,VERY NEGATIVE,0.802159309387207,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]"
+ali 's graduation from little screen to big is far less painful than his opening scene encounter with an over-amorous terrier .,2,neutral,NEUTRAL,VERY NEGATIVE,0.7525324821472168,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]"
+there 's something to be said for a studio-produced film that never bothers to hand viewers a suitcase full of easy answers .,3,positive,POSITIVE,VERY POSITIVE,0.7364482879638672,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+the entire movie is filled with deja vu moments .,2,neutral,NEUTRAL,NEGATIVE,0.6836326122283936,NEGATIVE | NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+the world needs more filmmakers with passionate enthusiasms like martin scorsese .,4,very positive,VERY POSITIVE,VERY POSITIVE,0.7174110412597656,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+"this is a fragmented film , once a good idea that was followed by the bad idea to turn it into a movie .",0,very negative,VERY NEGATIVE,NEGATIVE,0.6735858917236328,NEGATIVE | NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+"uplifting as only a document of the worst possibilities of mankind can be , and among the best films of the year .",4,very positive,VERY POSITIVE,VERY POSITIVE,0.7191483974456787,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]"
+"it never is , not fully .",2,neutral,NEUTRAL,NEGATIVE,0.63181471824646,NEGATIVE | NEGATIVE | VERY NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]"
+"if the movie were all comedy , it might work better .",2,neutral,NEUTRAL,NEGATIVE,0.6574585437774658,NEGATIVE | VERY NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+"a passable romantic comedy , in need of another couple of passes through the word processor .",2,neutral,NEUTRAL,NEUTRAL,0.7103636264801025,NEUTRAL | NEGATIVE | NEUTRAL,"[NEUTRAL]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEUTRAL]"
+translation : ` we do n't need to try very hard . ',1,negative,NEGATIVE,VERY NEGATIVE,0.6691477298736572,VERY NEGATIVE | NEGATIVE | VERY NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]"
+"mr. deeds is , as comedy goes , very silly -- and in the best way .",4,very positive,VERY POSITIVE,VERY POSITIVE,0.7194788455963135,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]"
+"a kilted jackson is an unsettling sight , and indicative of his , if you will , out-of-kilter character , who rambles aimlessly through ill-conceived action pieces .",1,negative,NEGATIVE,VERY NEGATIVE,0.7568724155426025,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]"
+"once one experiences mr. haneke 's own sadistic tendencies toward his audience , one is left with a sour taste in one 's mouth , and little else .",0,very negative,VERY NEGATIVE,VERY NEGATIVE,0.7680661678314209,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]"
+and that is where ararat went astray .,1,negative,NEGATIVE,NEGATIVE,0.6509189605712891,NEGATIVE | NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+the drama discloses almost nothing .,1,negative,NEGATIVE,NEGATIVE,0.6008036136627197,NEGATIVE | NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+top-notch action powers this romantic drama .,4,very positive,VERY POSITIVE,VERY POSITIVE,0.7701997756958008,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+the irwins ' scenes are fascinating ; the movie as a whole is cheap junk and an insult to their death-defying efforts .,0,very negative,VERY NEGATIVE,VERY NEGATIVE,0.8905723094940186,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]"
+criminal conspiracies and true romances move so easily across racial and cultural lines in the film that it makes my big fat greek wedding look like an apartheid drama .,3,positive,POSITIVE,VERY POSITIVE,0.8882520198822021,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]"
+woody allen can write and deliver a one liner as well as anybody .,4,very positive,VERY POSITIVE,VERY POSITIVE,0.8193912506103516,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+what might have been acceptable on the printed page of iles ' book does not translate well to the screen .,0,very negative,VERY NEGATIVE,NEGATIVE,0.7799859046936035,NEGATIVE | NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+"this is a visually stunning rumination on love , memory , history and the war between art and commerce .",3,positive,POSITIVE,VERY POSITIVE,0.847853422164917,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+"no , i hate it .",0,very negative,VERY NEGATIVE,VERY NEGATIVE,0.7176978588104248,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]"
+"why , you may ask , why should you buy the movie milk when the tv cow is free ?",1,negative,NEGATIVE,VERY NEGATIVE,0.7103185653686523,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]"
+"no french people were harmed during the making of this movie , but they were insulted and the audience was put through torture for an hour and a half .",0,very negative,VERY NEGATIVE,VERY NEGATIVE,0.7518210411071777,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]"
+-lrb- reno -rrb- delivers a monologue that manages to incorporate both the horror and the absurdity of the situation in a well-balanced fashion .,3,positive,POSITIVE,VERY POSITIVE,0.7584667205810547,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]"
+"a brisk , reverent , and subtly different sequel .",4,very positive,VERY POSITIVE,POSITIVE,0.64581298828125,POSITIVE | POSITIVE | POSITIVE,"[POSITIVE]
+
+--- RUN ---
+
+[POSITIVE]
+
+--- RUN ---
+
+[POSITIVE]"
+"as quiet , patient and tenacious as mr. lopez himself , who approaches his difficult , endless work with remarkable serenity and discipline .",4,very positive,VERY POSITIVE,VERY POSITIVE,0.7415108680725098,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]"
+the movie plays up the cartoon 's more obvious strength of snazziness while neglecting its less conspicuous writing strength .,2,neutral,NEUTRAL,NEGATIVE,0.6763226985931396,NEGATIVE | NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+a crisply made movie that is no more than mildly amusing .,2,neutral,NEUTRAL,NEUTRAL,0.6870644092559814,NEUTRAL | NEUTRAL | NEUTRAL,"[NEUTRAL]
+
+--- RUN ---
+
+[NEUTRAL]
+
+--- RUN ---
+
+[NEUTRAL]"
+"every moment crackles with tension , and by the end of the flick , you 're on the edge of your seat .",4,very positive,VERY POSITIVE,VERY POSITIVE,0.7154674530029297,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+an hour and a half of joyful solo performance .,4,very positive,VERY POSITIVE,VERY POSITIVE,0.6926782131195068,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]"
+"a moving tale of love and destruction in unexpected places , unexamined lives .",3,positive,POSITIVE,VERY POSITIVE,0.6820321083068848,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+that the chuck norris `` grenade gag '' occurs about 7 times during windtalkers is a good indication of how serious-minded the film is .,2,neutral,NEUTRAL,VERY NEGATIVE,0.7511539459228516,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]"
+"what with the incessant lounge music playing in the film 's background , you may mistake love liza for an adam sandler chanukah song .",2,neutral,NEUTRAL,VERY NEGATIVE,0.7632095813751221,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]"
+"with a confrontational stance , todd solondz takes aim on political correctness and suburban families .",2,neutral,NEUTRAL,VERY POSITIVE,0.7135801315307617,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+"sometimes entertaining , sometimes indulgent -- but never less than pure wankery .",2,neutral,NEUTRAL,VERY NEGATIVE,0.6885244846343994,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]"
+"this is an exercise in chilling style , and twohy films the sub , inside and out , with an eye on preserving a sense of mystery .",4,very positive,VERY POSITIVE,VERY POSITIVE,0.7678790092468262,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]"
+"you see robin williams and psycho killer , and you think , hmmmmm .",2,neutral,NEUTRAL,VERY POSITIVE,0.7236502170562744,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+"an enormously entertaining movie , like nothing we 've ever seen before , and yet completely familiar .",4,very positive,VERY POSITIVE,VERY POSITIVE,0.7266042232513428,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+"at least it 's a fairly impressive debut from the director , charles stone iii .",4,very positive,VERY POSITIVE,VERY POSITIVE,0.7214443683624268,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+a lyrical metaphor for cultural and personal self-discovery and a picaresque view of a little-remembered world .,3,positive,POSITIVE,VERY POSITIVE,0.7571494579315186,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+"for a long time the film succeeds with its dark , delicate treatment of these characters and its unerring respect for them .",3,positive,POSITIVE,VERY POSITIVE,0.7469403743743896,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+"maid in manhattan might not look so appealing on third or fourth viewing down the road ... but as a high concept vehicle for two bright stars of the moment who can rise to fans ' lofty expectations , the movie passes inspection .",2,neutral,NEUTRAL,VERY POSITIVE,0.8933820724487305,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+"um , no. .",2,neutral,NEUTRAL,NEGATIVE,0.6546216011047363,NEGATIVE | NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+"unfortunately , there is almost nothing in this flat effort that will amuse or entertain them , either .",1,negative,NEGATIVE,NEGATIVE,0.7214376926422119,NEGATIVE | VERY NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+"a woefully dull , redundant concept that bears more than a whiff of exploitation , despite iwai 's vaunted empathy .",0,very negative,VERY NEGATIVE,VERY NEGATIVE,0.7819390296936035,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]"
+"a perfectly acceptable , perfectly bland , competently acted but by no means scary horror movie .",2,neutral,NEUTRAL,NEGATIVE,0.6547894477844238,NEGATIVE | NEGATIVE | NEUTRAL,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEUTRAL]"
+"béart and berling are both superb , while huppert ... is magnificent .",4,very positive,VERY POSITIVE,VERY POSITIVE,0.6943790912628174,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+"if damon and affleck attempt another project greenlight , next time out they might try paying less attention to the miniseries and more attention to the film it is about .",1,negative,NEGATIVE,VERY POSITIVE,0.7528865337371826,VERY NEGATIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+` what 's the russian word for wow !? ',3,positive,POSITIVE,VERY POSITIVE,0.6997559070587158,NEUTRAL | VERY POSITIVE | VERY POSITIVE,"[NEUTRAL]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+"jones helps breathe some life into the insubstantial plot , but even he is overwhelmed by predictability .",2,neutral,NEUTRAL,NEGATIVE,0.6772322654724121,NEGATIVE | NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+the most repugnant adaptation of a classic text since roland joffé and demi moore 's the scarlet letter .,1,negative,NEGATIVE,VERY NEGATIVE,0.7622964382171631,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]"
+"soulless and -- even more damning -- virtually joyless , xxx achieves near virtuosity in its crapulence .",0,very negative,VERY NEGATIVE,VERY NEGATIVE,0.7490699291229248,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]"
+"-lrb- `` safe conduct '' -rrb- is a long movie at 163 minutes but it fills the time with drama , romance , tragedy , bravery , political intrigue , partisans and sabotage .",3,positive,POSITIVE,VERY POSITIVE,0.8502161502838135,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]"
+lacks the inspiration of the original and has a bloated plot that stretches the running time about 10 minutes past a child 's interest and an adult 's patience .,0,very negative,VERY NEGATIVE,VERY NEGATIVE,0.7915072441101074,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]"
+"with an admirably dark first script by brent hanley , paxton , making his directorial feature debut , does strong , measured work .",4,very positive,VERY POSITIVE,VERY POSITIVE,0.7638149261474609,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+"with a cast of a-list brit actors , it is worth searching out .",4,very positive,VERY POSITIVE,VERY POSITIVE,0.7011594772338867,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+"i did go back and check out the last 10 minutes , but these were more repulsive than the first 30 or 40 minutes .",0,very negative,VERY NEGATIVE,VERY NEGATIVE,0.7651462554931641,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]"
+nolan proves that he can cross swords with the best of them and helm a more traditionally plotted popcorn thriller while surrendering little of his intellectual rigor or creative composure .,4,very positive,VERY POSITIVE,VERY POSITIVE,0.795403003692627,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+there 's not a comedic moment in this romantic comedy .,0,very negative,VERY NEGATIVE,NEGATIVE,0.6513793468475342,NEGATIVE | NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+"analyze that regurgitates and waters down many of the previous film 's successes , with a few new swings thrown in .",2,neutral,NEUTRAL,NEGATIVE,0.6862783432006836,NEGATIVE | NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+nothing about this movie works .,0,very negative,VERY NEGATIVE,VERY NEGATIVE,0.670738935470581,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]"
+"the members manage to pronounce kok exactly as you think they might , thus giving the cast ample opportunity to use that term as often as possible .",2,neutral,NEUTRAL,NEUTRAL,0.7367699146270752,NEUTRAL | NEUTRAL | NEUTRAL,"[NEUTRAL]
+
+--- RUN ---
+
+[NEUTRAL]
+
+--- RUN ---
+
+[NEUTRAL]"
+the film is one of the year 's best .,4,very positive,VERY POSITIVE,VERY POSITIVE,0.677473783493042,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+caine makes us watch as his character awakens to the notion that to be human is eventually to have to choose .,3,positive,POSITIVE,VERY POSITIVE,0.6982529163360596,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+"in other words , it 's badder than bad .",0,very negative,VERY NEGATIVE,VERY NEGATIVE,0.7073540687561035,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]"
+vincent gallo is right at home in this french shocker playing his usual bad boy weirdo role .,3,positive,POSITIVE,POSITIVE,0.7095668315887451,POSITIVE | POSITIVE | VERY POSITIVE,"[POSITIVE]
+
+--- RUN ---
+
+[POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+fun and nimble .,4,very positive,VERY POSITIVE,POSITIVE,0.6165692806243896,POSITIVE | POSITIVE | POSITIVE,"[POSITIVE]
+
+--- RUN ---
+
+[POSITIVE]
+
+--- RUN ---
+
+[POSITIVE]"
+"seagal ran out of movies years ago , and this is just the proof .",0,very negative,VERY NEGATIVE,VERY NEGATIVE,0.6788158416748047,VERY NEGATIVE | NEGATIVE | VERY NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]"
+"the re-release of ron howard 's apollo 13 in the imax format proves absolutely that really , really , really good things can come in enormous packages .",3,positive,POSITIVE,VERY POSITIVE,0.7792618274688721,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]"
+most folks with a real stake in the american sexual landscape will find it either moderately amusing or just plain irrelevant .,2,neutral,NEUTRAL,NEUTRAL,0.7318482398986816,NEUTRAL | NEUTRAL | NEUTRAL,"[NEUTRAL]
+
+--- RUN ---
+
+[NEUTRAL]
+
+--- RUN ---
+
+[NEUTRAL]"
+frank mcklusky c.i. is that movie !,2,neutral,NEUTRAL,VERY POSITIVE,0.7179515361785889,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+the most surprising thing about this film is that they are actually releasing it into theaters .,0,very negative,VERY NEGATIVE,VERY POSITIVE,0.736058235168457,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+it 's not too fast and not too slow .,3,positive,POSITIVE,NEUTRAL,0.7506518363952637,NEUTRAL | NEUTRAL | NEUTRAL,"[NEUTRAL]
+
+--- RUN ---
+
+[NEUTRAL]
+
+--- RUN ---
+
+[NEUTRAL]"
+makes 98 minutes feel like three hours .,0,very negative,VERY NEGATIVE,VERY NEGATIVE,0.7028713226318359,NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]"
+drumline ably captures the complicated relationships in a marching band .,3,positive,POSITIVE,POSITIVE,0.6896076202392578,POSITIVE | POSITIVE | NEUTRAL,"[POSITIVE]
+
+--- RUN ---
+
+[POSITIVE]
+
+--- RUN ---
+
+[NEUTRAL]"
+"ice age is the first computer-generated feature cartoon to feel like other movies , and that makes for some glacial pacing early on .",2,neutral,NEUTRAL,NEGATIVE,0.7311711311340332,NEGATIVE | NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+... may work as an addictive guilty pleasure but the material never overcomes its questionable satirical ambivalence .,1,negative,NEGATIVE,VERY NEGATIVE,0.7468838691711426,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]"
+"the filmmakers know how to please the eye , but it is not always the prettiest pictures that tell the best story .",3,positive,POSITIVE,NEUTRAL,0.7515449523925781,NEUTRAL | NEUTRAL | NEUTRAL,"[NEUTRAL]
+
+--- RUN ---
+
+[NEUTRAL]
+
+--- RUN ---
+
+[NEUTRAL]"
+a visual spectacle full of stunning images and effects .,4,very positive,VERY POSITIVE,VERY POSITIVE,0.729130744934082,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+why ?,1,negative,NEGATIVE,NEGATIVE,0.6492409706115723,NEUTRAL | NEGATIVE | NEGATIVE,"[NEUTRAL]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+the santa clause 2 proves itself a more streamlined and thought out encounter than the original could ever have hoped to be .,3,positive,POSITIVE,VERY POSITIVE,0.7525503635406494,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+woody allen has really found his groove these days .,4,very positive,VERY POSITIVE,VERY POSITIVE,0.713571310043335,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+"dense , exhilarating documentary .",3,positive,POSITIVE,VERY POSITIVE,0.7242093086242676,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]"
+and a very rainy day .,2,neutral,NEUTRAL,NEUTRAL,0.7229008674621582,NEUTRAL | NEUTRAL | NEUTRAL,"[NEUTRAL]
+
+--- RUN ---
+
+[NEUTRAL]
+
+--- RUN ---
+
+[NEUTRAL]"
+"while the story is better-focused than the incomprehensible anne rice novel it 's based upon , queen of the damned is a pointless , meandering celebration of the goth-vampire , tortured woe-is-me lifestyle .",0,very negative,VERY NEGATIVE,VERY NEGATIVE,0.8662087917327881,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]"
+schrader examines crane 's decline with unblinking candor .,3,positive,POSITIVE,VERY POSITIVE,0.7179841995239258,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+"in the end , the movie bogs down in insignificance , saying nothing about kennedy 's assassination and revealing nothing about the pathology it pretends to investigate .",0,very negative,VERY NEGATIVE,VERY NEGATIVE,0.7621634006500244,VERY NEGATIVE | VERY NEGATIVE | NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+"the entire cast is first-rate , especially sorvino .",4,very positive,VERY POSITIVE,VERY POSITIVE,0.7076921463012695,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+"there 's some outrageously creative action in the transporter ... -lrb- b -rrb- ut by the time frank parachutes down onto a moving truck , it 's just another cartoon with an unstoppable superman .",1,negative,NEGATIVE,VERY NEGATIVE,0.8428065776824951,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]"
+a captivating and intimate study about dying and loving ...,4,very positive,VERY POSITIVE,VERY POSITIVE,0.6932501792907715,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]"
+a collage of clichés and a dim echo of allusions to other films .,1,negative,NEGATIVE,NEGATIVE,0.6523573398590088,NEGATIVE | NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+"as the movie traces mr. brown 's athletic exploits , it is impossible not to be awed by the power and grace of one of the greatest natural sportsmen of modern times .",4,very positive,VERY POSITIVE,VERY POSITIVE,0.7630860805511475,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]"
+about one in three gags in white 's intermittently wise script hits its mark ; the rest are padding unashamedly appropriated from the teen-exploitation playbook .,1,negative,NEGATIVE,VERY NEGATIVE,0.7891128063201904,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]"
+"i 'm convinced i could keep a family of five blind , crippled , amish people alive in this situation better than these british soldiers do at keeping themselves kicking .",1,negative,NEGATIVE,VERY NEGATIVE,0.7835028171539307,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]"
+it 's always disappointing when a documentary fails to live up to -- or offer any new insight into -- its chosen topic .,0,very negative,VERY NEGATIVE,NEGATIVE,0.7056417465209961,NEGATIVE | NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+it 's probably not easy to make such a worthless film ...,0,very negative,VERY NEGATIVE,VERY NEGATIVE,0.6992251873016357,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]"
+"by turns fanciful , grisly and engagingly quixotic .",3,positive,POSITIVE,VERY POSITIVE,0.6945056915283203,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+"same song , second verse , coulda been better , but it coulda been worse .",2,neutral,NEUTRAL,NEUTRAL,0.7334408760070801,NEUTRAL | NEUTRAL | NEUTRAL,"[NEUTRAL]
+
+--- RUN ---
+
+[NEUTRAL]
+
+--- RUN ---
+
+[NEUTRAL]"
+the armenian genocide deserves a more engaged and honest treatment .,2,neutral,NEUTRAL,VERY POSITIVE,0.7330183982849121,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+"every now and again , a movie comes along to remind us of how very bad a motion picture can truly be .",0,very negative,VERY NEGATIVE,VERY NEGATIVE,0.7690713405609131,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]"
+"some body is a shaky , uncertain film that nevertheless touches a few raw nerves .",3,positive,POSITIVE,NEGATIVE,0.6925842761993408,VERY NEGATIVE | NEGATIVE | NEGATIVE,"[VERY NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+"it 's a wise and powerful tale of race and culture forcefully told , with superb performances throughout .",4,very positive,VERY POSITIVE,VERY POSITIVE,0.7456660270690918,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+the script has less spice than a rat burger and the rock 's fighting skills are more in line with steven seagal .,1,negative,NEGATIVE,VERY NEGATIVE,0.7886946201324463,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]"
+"seeing seinfeld at home as he watches his own appearance on letterman with a clinical eye reminds you that the key to stand-up is to always make it look easy , even though the reality is anything but .",2,neutral,NEUTRAL,VERY POSITIVE,0.8817324638366699,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+"the bai brothers have taken an small slice of history and opened it up for all of us to understand , and they 've told a nice little story in the process .",4,very positive,VERY POSITIVE,VERY POSITIVE,0.8145318031311035,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+"the screenplay by james eric , james horton and director peter o'fallon ... is so pat it makes your teeth hurt .",1,negative,NEGATIVE,VERY NEGATIVE,0.7751948833465576,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]"
+this masterfully calibrated psychological thriller thrives on its taut performances and creepy atmosphere even if the screenplay falls somewhat short .,3,positive,POSITIVE,VERY POSITIVE,0.7679276466369629,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+but not a whit more .,2,neutral,NEUTRAL,NEGATIVE,0.6261446475982666,NEGATIVE | NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+superbly photographed and staged by mendes with a series of riveting set pieces the likes of which mainstream audiences have rarely seen .,4,very positive,VERY POSITIVE,VERY POSITIVE,0.7565150260925293,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]"
+the kind of primal storytelling that george lucas can only dream of .,3,positive,POSITIVE,VERY POSITIVE,0.7297921180725098,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+consider this review life-affirming .,2,neutral,NEUTRAL,VERY POSITIVE,0.6818485260009766,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]"
+an edgy thriller that delivers a surprising punch .,3,positive,POSITIVE,VERY POSITIVE,0.6799938678741455,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+"scherfig , who has had a successful career in tv , tackles more than she can handle .",1,negative,NEGATIVE,NEGATIVE,0.6835730075836182,NEGATIVE | NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+the trappings of i spy are so familiar you might as well be watching a rerun .,1,negative,NEGATIVE,NEGATIVE,0.6845777034759521,NEGATIVE | NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+the modern-day royals have nothing on these guys when it comes to scandals .,1,negative,NEGATIVE,NEUTRAL,0.6728339195251465,VERY NEGATIVE | NEGATIVE | VERY POSITIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+the premise of jason x is silly but strangely believable .,3,positive,POSITIVE,VERY POSITIVE,0.7076146602630615,NEUTRAL | VERY POSITIVE | VERY POSITIVE,"[NEUTRAL]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+"an inept , tedious spoof of '70s kung fu pictures , it contains almost enough chuckles for a three-minute sketch , and no more .",0,very negative,VERY NEGATIVE,VERY NEGATIVE,0.746410608291626,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]"
+cho 's latest comic set is n't as sharp or as fresh as i 'm the one that i want ... but it 's still damn funny stuff .,3,positive,POSITIVE,VERY POSITIVE,0.7484421730041504,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]"
+this franchise has not spawned a single good film .,0,very negative,VERY NEGATIVE,NEGATIVE,0.661130428314209,NEGATIVE | NEGATIVE | VERY NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]"
+"it makes compelling , provocative and prescient viewing .",4,very positive,VERY POSITIVE,VERY POSITIVE,0.7058258056640625,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+"ou 've got to love a disney pic with as little cleavage as this one has , and a heroine as feisty and principled as jane .",3,positive,POSITIVE,VERY POSITIVE,0.775871992111206,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]"
+"here polanski looks back on those places he saw at childhood , and captures them by freeing them from artefact , and by showing them heartbreakingly drably .",2,neutral,NEUTRAL,VERY POSITIVE,0.7978723049163818,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]"
+if you 're a fan of the series you 'll love it and probably want to see it twice .,4,very positive,VERY POSITIVE,VERY POSITIVE,0.7280318737030029,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+"more successful at relating history than in creating an emotionally complex , dramatically satisfying heroine",1,negative,NEGATIVE,NEGATIVE,0.6574132442474365,NEGATIVE | NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+"spinning a web of dazzling entertainment may be overstating it , but `` spider-man '' certainly delivers the goods .",4,very positive,VERY POSITIVE,VERY POSITIVE,0.7332048416137695,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]
+
+--- RUN ---
+
+[VERY_POSITIVE]"
+"sunk by way too much indulgence of scene-chewing , teeth-gnashing actorliness .",0,very negative,VERY NEGATIVE,VERY NEGATIVE,0.7344658374786377,NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]"
+"it plods along methodically , somehow under the assumption that its `` dead wife communicating from beyond the grave '' framework is even remotely new or interesting .",1,negative,NEGATIVE,VERY NEGATIVE,0.7677083015441895,VERY NEGATIVE | NEGATIVE | VERY NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]"
+there 's nothing to gain from watching they .,0,very negative,VERY NEGATIVE,NEGATIVE,0.6351516246795654,NEGATIVE | NEGATIVE | NEGATIVE,"[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]
+
+--- RUN ---
+
+[NEGATIVE]"
+"for something as splendid-looking as this particular film , the viewer expects something special but instead gets -lrb- sci-fi -rrb- rehash .",1,negative,NEGATIVE,VERY NEGATIVE,0.7507369518280029,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY_NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY_NEGATIVE]"
+"shanghai ghetto should be applauded for finding a new angle on a tireless story , but you might want to think twice before booking passage .",2,neutral,NEUTRAL,VERY POSITIVE,0.7504899501800537,VERY POSITIVE | VERY POSITIVE | VERY POSITIVE,"[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]
+
+--- RUN ---
+
+[VERY POSITIVE]"
+it may ... work as a jaunt down memory lane for teens and young adults who grew up on televised scooby-doo shows or reruns .,3,positive,POSITIVE,VERY POSITIVE,0.7649028301239014,VERY POSITIVE | NEUTRAL | VERY POSITIVE,"[VERY POSITIVE]
+
+--- RUN ---
+
+[NEUTRAL]
+
+--- RUN ---
+
+[VERY POSITIVE]"
+the imax screen enhances the personal touch of manual animation .,4,very positive,VERY POSITIVE,NEUTRAL,0.6869745254516602,NEUTRAL | NEUTRAL | NEUTRAL,"[NEUTRAL]
+
+--- RUN ---
+
+[NEUTRAL]
+
+--- RUN ---
+
+[NEUTRAL]"
+a fan film that for the uninitiated plays better on video with the sound turned down .,1,negative,NEGATIVE,VERY NEGATIVE,0.719416618347168,VERY NEGATIVE | VERY NEGATIVE | VERY NEGATIVE,"[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]
+
+--- RUN ---
+
+[VERY NEGATIVE]"

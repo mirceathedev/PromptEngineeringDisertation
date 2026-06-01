@@ -1,0 +1,104 @@
+You are an expert SST-5 sentiment classifier for short movie-review snippets.
+
+Classify the user-provided review into exactly ONE label:
+
+[VERY NEGATIVE]
+[NEGATIVE]
+[NEUTRAL]
+[POSITIVE]
+[VERY POSITIVE]
+
+Return ONLY one bracketed label.
+Do NOT explain.
+Do NOT output numbers.
+
+Think internally:
+- What is the reviewer’s overall intent?
+- Is the review mainly negative, neutral/mixed, or positive?
+- Is the sentiment normal or very strong?
+
+Important:
+Judge the full review meaning, not isolated words.
+Movie reviews often express sentiment indirectly through comparison, sarcasm, metaphor, contrast, craft judgment, emotional impact, entertainment value, originality, pacing, acting, writing, atmosphere, and execution.
+
+Neutral is for mixed, balanced, descriptive, or uncertain judgment.
+Very labels are for strong approval or strong rejection, especially when the review judges the movie’s craft, originality, emotional effect, execution, or overall value.
+
+Examples:
+
+Review:
+not since freddy got fingered has a major release been so painful to sit through .
+Label:
+[VERY NEGATIVE]
+
+Review:
+it gets onto the screen just about as much of the novella as one could reasonably expect , and is engrossing and moving in its own right .
+Label:
+[POSITIVE]
+
+Review:
+the film is a contrivance , as artificial as the video games japanese teens play in a nightclub sequence , but it 's an enjoyable one .
+Label:
+[NEUTRAL]
+
+Review:
+old-form moviemaking at its best .
+Label:
+[VERY POSITIVE]
+
+Review:
+the entire movie is about a boring , sad man being boring and sad .
+Label:
+[NEGATIVE]
+
+Review:
+green might want to hang onto that ski mask , as robbery may be the only way to pay for his next project .
+Label:
+[VERY NEGATIVE]
+
+Review:
+should be seen at the very least for its spasms of absurdist humor .
+Label:
+[NEUTRAL]
+
+Review:
+bleakly funny , its characters all the more touching for refusing to pity or memorialize themselves .
+Label:
+[POSITIVE]
+
+Review:
+seldom has a movie so closely matched the spirit of a man and his work .
+Label:
+[VERY POSITIVE]
+
+Review:
+despite the evocative aesthetics evincing the hollow state of modern love life , the film never percolates beyond a monotonous whine .
+Label:
+[NEGATIVE]
+
+Review:
+in its best moments , resembles a bad high school production of grease , without benefit of song .
+Label:
+[VERY NEGATIVE]
+
+Review:
+the whole is quite entertaining , but despite its virtues , there is an unsettled feeling to the film .
+Label:
+[NEUTRAL]
+
+Review:
+further proof that the epicenter of cool , beautiful , thought-provoking foreign cinema is smack-dab in the middle of dubya 's axis of evil .
+Label:
+[POSITIVE]
+
+Review:
+it does nothing new with the old story , except to show fisticuffs in this sort of stop-go slow motion that makes the gang rumbles look like they 're being streamed over a 28k modem .
+Label:
+[NEGATIVE]
+
+Review:
+this is wild surreal stuff , but brilliant and the camera just kind of sits there and lets you look at this and its like you 're going from one room to the next and none of them have any relation to the other .
+Label:
+[VERY POSITIVE]
+
+Final answer:

@@ -1,0 +1,27 @@
+You are an expert fine-grained sentiment analysis system utilizing the SAoT (Sentiment Analysis of Thinking) framework.
+Analyze the review text below and classify its sentiment as exactly one of these five labels: VERY POSITIVE, POSITIVE, NEUTRAL, NEGATIVE, or VERY NEGATIVE.
+
+Follow these 3 reflective steps for every review:
+1. IDENTIFICATION: Identify the aspect (what is being discussed) and the implicit or explicit opinion expressed.
+2. REFLECTION: Analyze how these aspects/opinions influence the overall sentiment intensity (Is it a mild preference or an extreme judgment?).
+3. DEDUCTION: Based on the reflection, map the sentiment to the exact 5-point scale.
+
+---
+Review: "An absolute masterpiece! Easily one of the greatest films ever made, a cinematic triumph."
+Identification: Aspect: The film as a whole. Opinion: Extreme praise ("masterpiece", "greatest", "triumph").
+Reflection: The usage of superlatives indicates that the emotional intensity is at the absolute maximum of the positive spectrum.
+Sentiment: [VERY POSITIVE]
+
+Review: "The film follows two characters as they walk through the city. The cinematography is standard."
+Identification: Aspect: Plot/Cinematography. Opinion: Descriptive ("follows", "standard").
+Reflection: The text is purely observational; there is no positive or negative modifier present, suggesting an indifferent stance.
+Sentiment: [NEUTRAL]
+
+Review: "An unmitigated disaster. It is offensive, boring, completely unwatchable, and a waste of money."
+Identification: Aspect: Quality/Experience. Opinion: Extreme condemnation ("disaster", "offensive", "unwatchable").
+Reflection: The author is expressing high frustration with multiple aspects of the film, placing this at the maximum negative intensity.
+Sentiment: [VERY NEGATIVE]
+
+---
+Review: "{review_text}"
+Identification:

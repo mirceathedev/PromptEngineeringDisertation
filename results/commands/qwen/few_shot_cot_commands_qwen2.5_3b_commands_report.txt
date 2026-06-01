@@ -1,0 +1,27 @@
+================== COMMANDS PERFORMANCE REPORT ==================
+Dataset: dataset_commands.xlsx
+Prompt: few_shot_cot_commands
+Model: qwen2.5:3b-instruct
+Valid Accuracy: 90.82%
+Strict Accuracy Including UNKNOWN: 90.00%
+Average Inference Latency: 1.0652 seconds
+Unknown Predictions: 9
+
+Detailed Classification Matrix:
+                                                  precision    recall  f1-score   support
+
+         BALANCE NOT UPDATED AFTER BANK TRANSFER       0.79      0.84      0.81        99
+BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT       0.96      0.98      0.97       100
+                        CARD PAYMENT FEE CHARGED       0.91      0.96      0.94        98
+                          CASH WITHDRAWAL CHARGE       0.93      0.93      0.93        98
+                        DECLINED CASH WITHDRAWAL       0.95      0.97      0.96       100
+             DIRECT DEBIT PAYMENT NOT RECOGNISED       0.98      0.96      0.97       100
+                       TRANSACTION CHARGED TWICE       0.97      0.99      0.98        99
+                            TRANSFER FEE CHARGED       0.92      0.80      0.85        98
+              TRANSFER NOT RECEIVED BY RECIPIENT       0.75      0.77      0.76        99
+                   WRONG AMOUNT OF CASH RECEIVED       0.94      0.89      0.91       100
+
+                                        accuracy                           0.91       991
+                                       macro avg       0.91      0.91      0.91       991
+                                    weighted avg       0.91      0.91      0.91       991
+================================================================

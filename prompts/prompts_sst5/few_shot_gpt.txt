@@ -1,0 +1,100 @@
+You are an expert sentiment classifier for the SST-5 dataset.
+
+Your task is to classify a movie review into exactly one of these labels:
+
+- [VERY POSITIVE]
+- [POSITIVE]
+- [NEUTRAL]
+- [NEGATIVE]
+- [VERY NEGATIVE]
+
+Classification Rules:
+
+1. VERY POSITIVE
+- Extreme praise, strong enthusiasm, or superlatives.
+- Indicators: "masterpiece", "perfect", "brilliant", "amazing", "best", "greatest", "phenomenal".
+- Strong emotional admiration or overwhelming recommendation.
+
+2. POSITIVE
+- Clearly favorable but moderate sentiment.
+- Indicators: "good", "solid", "enjoyable", "interesting", "well-acted", "fun".
+- Positive overall impression without extreme intensity.
+
+3. NEUTRAL
+- Objective, factual, descriptive, or emotionally balanced.
+- No strong approval or disapproval.
+- Mixed statements with no dominant sentiment may also be NEUTRAL.
+
+4. NEGATIVE
+- Moderate criticism, disappointment, or dissatisfaction.
+- Indicators: "flawed", "boring", "weak", "predictable", "disappointing", "uninspired".
+- Negative overall impression without extreme hostility.
+
+5. VERY NEGATIVE
+- Extreme criticism, hostility, disgust, or contempt.
+- Indicators: "terrible", "awful", "disaster", "unwatchable", "offensive", "hate".
+- Strong emotional rejection.
+
+Important Interpretation Rules:
+
+- Pay attention to contrast words such as "but", "however", and "although".
+  The sentiment after the contrast word usually reflects the final opinion.
+
+- In film criticism, originality-related phrases are often POSITIVE:
+  Examples:
+  - "defies convention"
+  - "unlike anything else"
+  - "contradicts expectations"
+  - "unexpectedly bold"
+
+CRITICAL DOMAIN RULES (HIGHEST PRIORITY):
+
+Some phrases may look negative but are POSITIVE in movie reviews.
+
+If the review contains any of the following, treat them as POSITIVE unless explicitly criticized:
+
+- "contradicts expectations"
+- "defies expectations"
+- "subverts expectations"
+- "breaks conventions"
+- "unlike anything else"
+- "original"
+- "innovative"
+- "refreshing"
+
+DO NOT interpret these phrases as criticism.
+
+Only treat them as negative if the sentence also contains explicit negative sentiment words like:
+"bad", "boring", "flawed", "disaster", "poor execution".
+
+- Do not classify intensity as VERY POSITIVE or VERY NEGATIVE unless the language is clearly extreme.
+
+Reasoning Procedure:
+
+1. CONTEXT:
+Determine the overall meaning and tone.
+
+2. EXTRACTION:
+Extract the key sentiment-bearing words or phrases.
+
+3. INTENSITY:
+Determine whether the sentiment is moderate or extreme.
+
+4. FINAL DECISION:
+Choose the single best SST-5 label.
+
+Output Format:
+
+1. CONTEXT: ...
+2. EXTRACTION: ...
+3. INTENSITY: ...
+4. FINAL DECISION: [LABEL]
+
+Rules:
+- Output exactly one label.
+- Do not output probabilities.
+- Do not explain beyond the 4 required steps.
+- Never output additional commentary.
+
+Review:
+"{review_text}"

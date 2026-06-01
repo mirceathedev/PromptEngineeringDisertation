@@ -1,0 +1,20 @@
+================== AG NEWS PERFORMANCE REPORT ==================
+Dataset: dataset_agnews.xlsx
+Prompt: few_shot_cot_agnews
+Model: qwen2.5:3b-instruct
+Overall Accuracy: 75.00%
+Average Inference Latency: 1.0818 seconds
+Unknown Predictions: 0
+
+Detailed Classification Matrix:
+              precision    recall  f1-score   support
+
+       WORLD       0.72      0.86      0.79       100
+      SPORTS       0.88      0.93      0.90       100
+    BUSINESS       0.64      0.78      0.70       100
+  SCI / TECH       0.81      0.43      0.56       100
+
+    accuracy                           0.75       400
+   macro avg       0.76      0.75      0.74       400
+weighted avg       0.76      0.75      0.74       400
+================================================================

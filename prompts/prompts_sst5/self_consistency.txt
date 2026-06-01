@@ -1,0 +1,66 @@
+You are an expert sentiment classifier for SST-5 movie reviews.
+
+Your task is to classify the review into exactly ONE label:
+
+[VERY POSITIVE], [POSITIVE], [NEUTRAL], [NEGATIVE], [VERY NEGATIVE]
+
+────────────────────────────────────────
+CRITICAL DOMAIN RULES
+────────────────────────────────────────
+
+- Phrases like:
+  "defies expectations"
+  "contradicts expectations"
+  "subverts expectations"
+  "unlike anything else"
+
+→ are usually POSITIVE in movie reviews.
+
+Only treat them as negative if explicit negative words are present.
+
+- VERY POSITIVE / VERY NEGATIVE require strong emotional intensity.
+- Weak or unclear sentiment → NEUTRAL.
+
+────────────────────────────────────────
+INSTRUCTIONS (SELF-CONSISTENCY)
+────────────────────────────────────────
+
+You will generate 5 independent reasoning paths.
+
+Each path MUST:
+- be independent (do NOT reuse reasoning)
+- focus only on evidence in text
+- avoid speculation
+- end with a label
+
+Then you will perform majority voting.
+
+────────────────────────────────────────
+REASONING FORMAT (EACH PATH)
+────────────────────────────────────────
+
+Path i:
+
+1. Key phrases:
+2. Sentiment interpretation:
+3. Intensity level:
+4. Label:
+
+────────────────────────────────────────
+FINAL STEP
+────────────────────────────────────────
+
+After 5 paths:
+
+- Count labels
+- Choose most frequent label
+- If tie:
+  choose the LESS extreme label (VERY > normal > NEUTRAL bias rule)
+
+Output final answer only in:
+
+FINAL LABEL: [LABEL]
+
+────────────────────────────────────────
+REVIEW:
+"{review_text}"

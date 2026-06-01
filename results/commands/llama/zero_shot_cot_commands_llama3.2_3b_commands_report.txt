@@ -1,0 +1,27 @@
+================== COMMANDS PERFORMANCE REPORT ==================
+Dataset: dataset_commands.xlsx
+Prompt: zero_shot_cot_commands
+Model: llama3.2:3b
+Valid Accuracy: 78.70%
+Strict Accuracy Including UNKNOWN: 78.70%
+Average Inference Latency: 1.8165 seconds
+Unknown Predictions: 0
+
+Detailed Classification Matrix:
+                                                  precision    recall  f1-score   support
+
+         BALANCE NOT UPDATED AFTER BANK TRANSFER       0.78      0.47      0.59       100
+BALANCE NOT UPDATED AFTER CHEQUE OR CASH DEPOSIT       0.90      0.92      0.91       100
+                        CARD PAYMENT FEE CHARGED       0.78      0.88      0.83       100
+                          CASH WITHDRAWAL CHARGE       0.82      0.89      0.85       100
+                        DECLINED CASH WITHDRAWAL       0.73      0.88      0.80       100
+             DIRECT DEBIT PAYMENT NOT RECOGNISED       0.81      0.81      0.81       100
+                       TRANSACTION CHARGED TWICE       0.82      0.99      0.90       100
+                            TRANSFER FEE CHARGED       0.71      0.75      0.73       100
+              TRANSFER NOT RECEIVED BY RECIPIENT       0.62      0.58      0.60       100
+                   WRONG AMOUNT OF CASH RECEIVED       0.91      0.70      0.79       100
+
+                                        accuracy                           0.79      1000
+                                       macro avg       0.79      0.79      0.78      1000
+                                    weighted avg       0.79      0.79      0.78      1000
+================================================================

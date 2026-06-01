@@ -1,0 +1,21 @@
+================== SELF-CONSISTENCY PERFORMANCE REPORT ==================
+Dataset: dataset_sst5.xlsx
+Prompt: sst5_fast_calibrated_v2
+Model: qwen2.5:3b-instruct
+Consistency Runs: 3
+Overall Accuracy: 45.80%
+Average Total Latency Per Sample: 0.7299 seconds
+
+Detailed Classification Matrix:
+               precision    recall  f1-score   support
+
+VERY POSITIVE       0.43      0.88      0.58       100
+     POSITIVE       0.52      0.13      0.21       100
+      NEUTRAL       0.64      0.14      0.23       100
+     NEGATIVE       0.43      0.42      0.42       100
+VERY NEGATIVE       0.47      0.72      0.57       100
+
+     accuracy                           0.46       500
+    macro avg       0.50      0.46      0.40       500
+ weighted avg       0.50      0.46      0.40       500
+================================================================
